@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+{% block jsfile %}
+<script src="{{ url_for('static', filename='scripts.js') }}"></script>
+{% endblock %}
+
+{% block title %}
+    Recicla MX - Centro de Reciclaje en México.
+{% endblock %}
+
+{% block main %}
+    <div class="row">
+        <div class="col-md-12" id="inputbusquedaindex">
+            <form id="form">
+            <div class="form-group">
+                <input class="form-control" id="q" placeholder="¿Qué quieres reciclar?" type="text"/>
+            </div>
+        </form>
+        </div>
+    </div>
+    <div id="map-canvas"></div>
+    <div class="row" id="voteexplanation">
+        <div class="col-md-3">
+            <img src="http://maps.google.com/mapfiles/ms/icons/green-dot.png"> Este centro ha sido votado positivamente por la comunidad.
+        </div>
+        <div class="col-md-3">
+            <img src="http://maps.google.com/mapfiles/ms/icons/yellow-dot.png"> Este centro aún no ha recibido votos.
+        </div>
+        <div class="col-md-3">
+            <img src="http://maps.google.com/mapfiles/ms/icons/blue-dot.png"> Este centro ha sido <strong>sugerido</strong> por la comunidad.
+        </div>
+        <div class="col-md-3">
+            <img src="http://maps.google.com/mapfiles/ms/icons/red-dot.png"> Este centro ha sido votado negativamente por la comunidad.
+        </div>
+        <div class="row">
+            <div class="col-md-12" style="margin-top: 40px;"><a href="/acerca" class="btn btn-lg btn-info"><i>Más información.</i></a></div>
+        </div>
+    </div>
+
+{% endblock %}

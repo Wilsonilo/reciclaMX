@@ -1,0 +1,75 @@
+{% extends "layout.html" %}
+
+{% block jsfile %}
+<script src="{{ url_for('static', filename='comunidad.js') }}"></script>
+{% endblock %}
+
+{% block title %}
+    Recicla MX - Centro de Reciclaje en México. Comunidad
+{% endblock %}
+
+{% block main %}
+    <div class="container" id="comunidad">
+        <div class="row">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h3>Comunidad</h3>
+                  </div>
+                  <div class="panel-body">
+                    <p>Ayúdanos a mantener el proyecto actualizado, vota por los centros que conozcas o hayas visitado y consideres aún funcionales o creas que deban de ser eliminados. <br> Si usted es el responsable de un centro y desea corregir la información de su centro o aparecer en el listado por favor considere utilizar el sistema de Postulado.</p>
+                  </div>
+                  <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <td><h4>Nombre</h4></td>
+                            <td><h4>Dirección</h4></td>
+                            <td><h4>Teléfono</h4></td>
+                            <td><h4>Votar</h4></td>
+                            <td>
+                                <h4>
+                                    Sentinel 
+                                    <span class="glyphicon glyphicon-info-sign" aria-hidden="true"  data-toggle="tooltip" title="Este centro está siendo o está programado para ser corregido."></span>
+                                </h4>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    {% for centro in centros %}
+                        <tr>
+                            <td width="25%">{{ centro["name"] }}
+                            {% if centro.votesup or  centro.votesdown %}
+                                <br>
+                                {% if centro.votesup %}
+                                    <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true" style="color:green;"></span> {{ centro["votesup"] }}
+                                {% endif %}
+
+                                {% if centro.votesdown %}
+                                    <span class="glyphicon glyphicon-thumbs-down" aria-hidden="true"  style="color:red;"></span> {{ centro["votesdown"] }}
+                                {% endif %}
+
+                            {% endif %}
+                            </td>
+                            <td width="35%">{{ centro["address"] }}</td>
+                            <td width="10%">{{ centro["phone"] }}</td>
+                            <td width="12%">
+                                
+                                <span class="glyphicon glyphicon-thumbs-up voteup" aria-hidden="true"  data-toggle="tooltip" title="Marca este centro como CORRECTO" data-idcentro="{{ centro['_id'] }}"></span>
+
+                                <span class="glyphicon glyphicon-thumbs-down votedown" aria-hidden="true"  data-toggle="tooltip" title="Marca este centro como INCORRECTO" data-idcentro="{{ centro['_id'] }}"></span>
+
+                            </td>
+                            <td width="9%">
+                                
+                                {% if centro.sentinel == true %}
+                                    <span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>
+                                {% endif %}
+
+                            </td>
+                        </tr>
+                    {% endfor %}
+                    </tbody>
+                  </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}

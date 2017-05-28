@@ -1,0 +1,4905 @@
+
+[
+    {
+        "address": "Carr.. Aguascalientes - San Luis Potosí Km. 8, Col. Villa de Jesús Terán, Aguascalientes.",
+        "location": [
+            21.860931,
+            -102.316639
+        ],
+        "material": "Aceite gastado (excepto con bifenilos policlorados), sólidos de mantenimiento automotriz, otros sólidos, líquidos residuales, lodos, solventes gastados._",
+        "name": "Reciclayser de Aguascalientes, S.A. de C.V.",
+        "phone": "(449) 913 3304"
+    },
+    {
+        "address": "José Barba Alonso No. 107, Cd.Industrial, Aguascalientes",
+        "email": "jgomez@gen.tv",
+        "location": [
+            20.617372,
+            -100.435274
+        ],
+        "material": "Agua, sólidos y lodos contaminada con hidrocarburos, aceite gastado (excepto con bifenilos policlorados).",
+        "name": "Gen Industrial, S.A .de C.V.",
+        "phone": "(449) 971 1140."
+    },
+    {
+        "address": "Cerro del Laurel No. 1073 Int. 3, Lomas del Campestre, Aguascalientes",
+        "location": [
+            18.054481,
+            -96.14555059999999
+        ],
+        "material": "Aceite lubricante gastado, excepto bifenilos policlorados.",
+        "name": "Fernando Saldivar Rivera",
+        "phone": "(449) 914 38 30"
+    },
+    {
+        "address": "Boulevard López Mateos km 5.5, Centro Industrial Margar, Col. Sánchez Tabeada Mexicali",
+        "location": [
+            20.3917008,
+            -99.99159929999999
+        ],
+        "material": "Aceite usado, solventes.",
+        "name": "Soluciones en Medio Ambiente, S.A. de C.V.",
+        "phone": "(686)5809673"
+    },
+    {
+        "address": "Av. Victoria Sánchez Lote No. 3 Manzana 110 Guerrero Negro, Mulegé.",
+        "location": [
+            27.9702277,
+            -114.0347149
+        ],
+        "material": "Aceite usado, sólidos y aserrín impregnados con hidrocarburos.",
+        "name": "Francisco Xavier Ojeda Amador"
+    },
+    {
+        "address": "Calle 26 No. 169 A, Col. Payas Ciudad del Carmen",
+        "location": [
+            18.6455951,
+            -91.8379267
+        ],
+        "material": "Aceites lubricantes usados.",
+        "name": "Ubaldo Torres Arroyo 38",
+        "phone": "(93) 8382 0794"
+    },
+    {
+        "address": "Carretera del Carmen - Puerto Rea Km 21+ 086, Predio San Benito Ciudad del Carmen",
+        "material": "Aceites lubricantes gastados.",
+        "name": "Lidia Nelly Solís Herrera",
+        "phone": "(99) 3315 7628"
+    },
+    {
+        "address": "Calle 1 Sur PIP Isla del Carmen Ciudad del Carmen, Campeche.",
+        "location": [
+            18.6559465,
+            -91.8189931
+        ],
+        "material": "Aceite usado.",
+        "name": "Servicios Integrales de Ciudad del Carmen, S.A. de C.V.",
+        "phone": "(93) 8382 1029"
+    },
+    {
+        "address": "S.A. de C.V.",
+        "location": [
+            19.2467142,
+            -103.7248666
+        ],
+        "material": "Aceite lubricante gastado.",
+        "name": "Servicios Ecológicos de Colima,",
+        "phone": "(312) 330 3545"
+    },
+    {
+        "address": "S.A. de C.V.",
+        "location": [
+            25.962065,
+            -100.166208
+        ],
+        "material": "Aceites Lubricantes Gastados.",
+        "name": "Residuos Industriales del Desierto,",
+        "phone": "(639)472-08-85"
+    },
+    {
+        "address": "S. de R.L. de CV",
+        "location": [
+            19.3022286,
+            -99.0566722
+        ],
+        "material": "Aceites usados.",
+        "name": "Safety Kleen de México,",
+        "phone": "58 45 77 00"
+    },
+    {
+        "address": "Santa Isabel 20, Manzana 12, Lote1",
+        "location": [
+            20.6392508,
+            -103.3681484
+        ],
+        "material": "Aceite gastado.",
+        "name": "Manejo Integral de Residuos Peligrosos, S.A. de C.V.",
+        "phone": "26 08 62 05"
+    },
+    {
+        "address": "Hortelanos 46, Col. Morelos.",
+        "email": "baterias@protalautomotriz.com",
+        "location": [
+            19.4411857,
+            -99.1185532
+        ],
+        "material": "Aceite usado. Servicio a domicilio.",
+        "name": "Comercializadora de Acumuladores y Metales Nuevos y Usados, S.A. de C.V.",
+        "phone": "5789 0849 5704 3261"
+    },
+    {
+        "address": "López Cotilla 835 Col. Del Valle.",
+        "location": [
+            19.3859358,
+            -99.1653022
+        ],
+        "material": "Aceite Lubricante gastado",
+        "name": "Sistemas Integrales en el Manejo de Residuos Industriales, S. de R.L.",
+        "phone": "56 82 54 32"
+    },
+    {
+        "address": "Calle Juárez 332 Norte, Centro",
+        "location": [
+            28.6368568,
+            -106.0762718
+        ],
+        "material": "Aceite lubricante",
+        "name": "Ayuntamiento del Municipio",
+        "phone": "(618) 827 1005"
+    },
+    {
+        "address": "Pino Suárez 308 Oriente Centro, Durango",
+        "location": [
+            23.2258032,
+            -106.4196419
+        ],
+        "material": "Aceite lubricante.",
+        "name": "Servicios Administrativos Luismin, S.A. de C. V.",
+        "phone": "(618) 827 1775"
+    },
+    {
+        "address": "Juana Villalobos 107 Col. del Maestro",
+        "location": [
+            24.0307494,
+            -104.6375304
+        ],
+        "material": "Aceite lubricante.",
+        "name": "David Ramírez Sosa Arrieta",
+        "phone": "(618) 818 9181"
+    },
+    {
+        "address": "Parcela 52 Fracción A del Ejido Las Huertas,Gómez Palacio.",
+        "material": "Aceite lubricante usado; baterías usadas.",
+        "name": "Consultoría y Servicios Ambientales Laguna, S.A. de C.V.",
+        "phone": "(871) 721 79 08"
+    },
+    {
+        "address": "Calle Canelas No. 409, Parque Industrial Lagunero, Gómez Palacio",
+        "location": [
+            25.5651367,
+            -103.4649142
+        ],
+        "material": "Aceite lubricante gastado.",
+        "name": "Energéticos Industriales de la Laguna, S.A. de C.V.",
+        "phone": "(871) 717 0149"
+    },
+    {
+        "address": "Calle 3 S/N Esq. Calle 4 Mz. 2 Lt. 3,",
+        "material": "Aceite gastado.",
+        "name": "Miguel Vargas Pacheco"
+    },
+    {
+        "address": "Calle del Llorón No. 6, Primer Barrio de",
+        "location": [
+            28.3637394,
+            -16.7713742
+        ],
+        "material": "Aceites gastados.",
+        "name": "Juan R. Santos Nieto",
+        "phone": "89 92 40 44"
+    },
+    {
+        "address": "Av. San Luis Tlatilco No. 48-A, Lote 3, Manzana 4, Fraccionamiento Industrial Naucalpan",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceites gastados.",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "5312 6203"
+    },
+    {
+        "address": "Av. Cuarta Sur No. 39, Col. Independencia, Tultitlán.",
+        "location": [
+            19.6259979,
+            -99.1757205
+        ],
+        "material": "Aceites.",
+        "name": "Soluciones Ambientales Alternas, S.A. de C.V.",
+        "phone": "58 31 69 11"
+    },
+    {
+        "address": "Camino a Zurita S/N Col. Corral Viejo Tequisistlán, Tezoyuca.",
+        "location": [
+            19.6812629,
+            -98.8609457
+        ],
+        "material": "Aceites.",
+        "name": "Guillermina Reyes Ariza",
+        "phone": "(594) 9566425"
+    },
+    {
+        "address": "Camino Antiguo a Chimalhuacán S/N Col. San José, Chicoloapan.",
+        "location": [
+            20.4849745,
+            -97.461125
+        ],
+        "material": "Aceites.",
+        "name": "Reind Química, S.A. de C.V.",
+        "phone": "59215320"
+    },
+    {
+        "address": "Verano s/n, Col. Las Brisas",
+        "material": "Aceites, baterías automotrices, medicamentos caducos.",
+        "name": "Erika Contreras Casillas",
+        "phone": "5557900789"
+    },
+    {
+        "address": "Av. Ing. Salvador Sánchez Colín Mza. 18-B Lts. 4 y 5, Parque Industrial Atlacomulco",
+        "location": [
+            19.798005,
+            -99.879857
+        ],
+        "material": "Aceites.",
+        "name": "SD MYERS de México, S.A. de C.V.",
+        "phone": "5361 7668"
+    },
+    {
+        "address": "Prolongación Isidro Fabela No. 730, Nave 3, Barrio Los Reyes, Tultitlán.",
+        "location": [
+            19.3022286,
+            -99.0566722
+        ],
+        "material": "Aceites, Pilas",
+        "name": "Safety Kleen de México, S. de R.L. de C.V.",
+        "phone": "58 45 68 10"
+    },
+    {
+        "address": "Ciudadela S/N, Col. Buenavista, Tultitlán.",
+        "location": [
+            19.6097738,
+            -99.1597529
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Analia Tinoco Molina",
+        "phone": "58 84 86 48"
+    },
+    {
+        "address": "Camino Viejo a Tulpetlac s/n, Col. Ejidos de Santa Maria Tulpetlac, Ecatepec.",
+        "location": [
+            19.5926209,
+            -99.0190983
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Mexicana de Tratamiento de Aceites Residuales, S.A. de C.V.",
+        "phone": "57 70 59 81"
+    },
+    {
+        "address": "Parcela No. 1-A, Ejido de San José de García, Camino a San José de García s/n km 2.5, Carretera Silao Romita.",
+        "location": [
+            31.7233484,
+            -106.4453921
+        ],
+        "material": "Aceites.",
+        "name": "Residuos Industriales Multiquim, S.A. de C.V.",
+        "phone": "81 52 21 00"
+    },
+    {
+        "address": "Calle San Antonio No. 216, Fraccionamiento Industrial Brisas del Campo",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceite sucio",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "(477) 7 71 46"
+    },
+    {
+        "address": "Km. 85 (antes Km. 308) tramo libre Carretera Celaya - Salamanca",
+        "location": [
+            20.5888643,
+            -101.0768915
+        ],
+        "material": "Aceite",
+        "name": "Carboquímica Block, S.A. de C.V.",
+        "phone": "(464) 6 42 03 62"
+    },
+    {
+        "address": "Calle San Antonio No. 216, Fraccionamiento Industrial Brisas del Campo, León.",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceite usado.",
+        "name": "EK Ambiental, S.A. de C.V."
+    },
+    {
+        "address": "4a Fracción de San Antonio Espinoza Celaya.",
+        "material": "Aceites gastados.",
+        "name": "Planta Incineradora de Residuos Bioinfecciosos, S.A. de C.V.",
+        "phone": "(461) 611 57 63"
+    },
+    {
+        "address": "km 1.8 Camino a San Antonio Calichal Apaseo el Alto.",
+        "location": [
+            20.7166667,
+            -103.4
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Química Rimsa, S.A. de C.V.",
+        "phone": "01 44 22 14 28 64"
+    },
+    {
+        "address": "Fracción de San Antonio Espinoza",
+        "material": "Aceite lubricante usado.",
+        "name": "Planta Incineradora de Residuos Bioinfecciosos, S.A. de C.V.",
+        "phone": "01-461-611 57 63"
+    },
+    {
+        "address": "Curtidor 520 Fracc. Industrial, León",
+        "location": [
+            21.1023938,
+            -101.6323366
+        ],
+        "material": "Aceite usado.",
+        "name": "Diator de México, S.A. de C.V.",
+        "phone": "(47) 11 8989"
+    },
+    {
+        "address": "Carretera Jorobas Tula Km. 22.5 No. B, Progreso, Tula.",
+        "location": [
+            20.1290427,
+            -98.7460732
+        ],
+        "material": "Aceites Gastados.",
+        "name": "Recuperados y Reciclados",
+        "phone": "(778) 718 5846"
+    },
+    {
+        "address": "Ejido el Maney Huichapan.",
+        "location": [
+            20.3925,
+            -99.68722199999999
+        ],
+        "material": "Aceite usado.",
+        "name": "Proambiente, S.A. de C.V. (Planta Huichapan)",
+        "phone": "8328 3712"
+    },
+    {
+        "address": "Calle Industria Mecánica No. 2168, Fracc. Industrial Zapopan Norte Zapopan",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceite lubricante usado",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "(33) 3833 1009, (33) 3833 0228"
+    },
+    {
+        "address": "De la Rosa No. 782, Zona Industrial, 45132, Guadalajara",
+        "location": [
+            20.7499362,
+            -103.3938454
+        ],
+        "material": "Aceite Lubricante Usado.",
+        "name": "INLUBSA, S.A. de C.V.",
+        "phone": "(33) 3656 1238"
+    },
+    {
+        "address": "Calle Cuatro No. 10559 Parque Industrial El Salto Guadalajara.",
+        "location": [
+            20.5174767,
+            -103.1810881
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Ambiental Mexicana Recolectora de Residuos, S.A. de C.V.",
+        "phone": "(33) 3688 0244"
+    },
+    {
+        "address": "Periférico Paseo de la República 2675 Col. Hnos. López Rayón, Morelia.",
+        "location": [
+            22.7732557,
+            -103.572925
+        ],
+        "material": "Aceite, Medicamentos caducos",
+        "name": "J. Jesús Ramírez Rosas",
+        "phone": "(44) 3326 5560"
+    },
+    {
+        "address": "Av. San Juanito Itzícuaro Predio No. 36 Col. Ampliación La Loma San Juanito Itzícuaro.",
+        "location": [
+            19.6885923,
+            -101.2507546
+        ],
+        "material": "Aceite. Medicamentos caducos. Cartuchos de tinta y tóner.",
+        "name": "Rafael Cortés Chávez",
+        "phone": "(443) 320-40-79"
+    },
+    {
+        "address": "Morelos, Jiutepec, Av. Centenario No.54-148, Interior 4, CIVAC.",
+        "location": [
+            18.9070528,
+            -99.16889019999999
+        ],
+        "material": "Aceite usado. Medicamentos caducos. Baterias de plomo, niquel, cadmio zinc Cartuchos de tóner y tintas",
+        "name": "Grupo Ecológico Integral, S.A. de C.V.",
+        "phone": "(777)119 30 53"
+    },
+    {
+        "address": "Carretera Libre Tepic – Mazatlán km 9.5, Ejido la Escondida, Tepic.",
+        "location": [
+            20.7499362,
+            -103.3938454
+        ],
+        "material": "Aceite usado.",
+        "name": "INLUBSA, S.A. de C.V.",
+        "phone": "(333) 6 56 12 38"
+    },
+    {
+        "address": "Libramiento Martínez Domínguez km 0.5 Cadereyta Jiménez.",
+        "location": [
+            25.5935169,
+            -99.9901811
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Asfaltos Energex S.A de C.V."
+    },
+    {
+        "address": "Calle Zaragoza #301, Col. Centro, Allende.",
+        "location": [
+            22.4110114,
+            -97.9349233
+        ],
+        "material": "Aceites gastados.",
+        "name": "Soportes Ambientales de México, S.A. de C.V.",
+        "phone": "(826) 26 823"
+    },
+    {
+        "address": "Carr. Monterrey- Monclova Km. 4.9 Monterrey.",
+        "location": [
+            25.8064181,
+            -100.2801153
+        ],
+        "material": "Aceite.",
+        "name": "Trans Química Nacional, S.A. de C.V.",
+        "phone": "82 39 00 30"
+    },
+    {
+        "address": "Av. Solidaridad #1024,Fracc. Industrial Unidad Nacional Santa Catarina",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceites gastados.",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "(81) 81 14 61 95"
+    },
+    {
+        "address": "Carretera al Milagro s/n, Col. El Milagro Apodaca",
+        "location": [
+            25.6492282,
+            -100.2744818
+        ],
+        "material": "Aceite gastado.",
+        "name": "Recolecciones Ecológicas, S.A. de C.V."
+    },
+    {
+        "address": "Calle Platino #9430,Parque Industrial Mitras, García",
+        "location": [
+            32.5352755,
+            -117.0354013
+        ],
+        "material": "Aceite lubricante gastado",
+        "name": "Refinados Básicos, S.A. de C.V."
+    },
+    {
+        "address": "Calle Humberto Lobo #9338, Ciudad Industrial Mitras, García",
+        "location": [
+            25.7644802,
+            -100.2871158
+        ],
+        "material": "Aceites gastados.",
+        "name": "Tranquilidad Integral en Residuos, S.A . de C.V.",
+        "phone": "(81) 81 34 22 78"
+    },
+    {
+        "address": "Callejón s/n,300 m. al Norte del km. 1 de la Carr. a Pesquería.",
+        "material": "Aceite Gastado.",
+        "name": "Recolecciones Fronterizas, S.A. de C.V.",
+        "phone": "(81) 8377 5775, (81) 8377 57 87"
+    },
+    {
+        "address": "Calle Zinc #9431,Parque Industrial Mitras García",
+        "location": [
+            25.7109358,
+            -100.3688506
+        ],
+        "material": "Aceites gastados.",
+        "name": "Refinados de Solventes, S.A. de C.V.",
+        "phone": "83 81 09 90"
+    },
+    {
+        "address": "Circuito Interior Humberto Lobo #8112,Parque Industrial Mitras, García",
+        "location": [
+            25.7592996,
+            -100.3984963
+        ],
+        "material": "Aceites gastados.",
+        "name": "Carriaga Enviromental Services de México, S.A. de C.V.",
+        "phone": "11 68 81 16"
+    },
+    {
+        "address": "Calle Soldadores s/n,Parcela 66,Col. Alianza Escobedo",
+        "location": [
+            25.7800272,
+            -100.4166516
+        ],
+        "material": "Aceites gastados",
+        "name": "Enserch Reciclajes Ecológicos, S.A. de C.V.",
+        "phone": "83 45 11 50"
+    },
+    {
+        "address": "Venustiano Carranza # 902, Col. Los Altos, Escobedo",
+        "material": "Aceites gastados",
+        "name": "Villaceites, S.A. de C.V.",
+        "phone": "17 73 34 75, 83 97 30 01"
+    },
+    {
+        "address": "Calle Río San Bernardo No. 23, San Lorenzo Almecatla Cuautlancingo",
+        "location": [
+            26.8940852,
+            -101.4461837
+        ],
+        "material": "Aceite usado.",
+        "name": "Recolectora Nacional de Residuos, S. de R.L. de C.V."
+    },
+    {
+        "address": "Prolongación Emiliano Zapata No. 1008, Col. Ampliación Momoxpán San Pedro Cholula",
+        "location": [
+            19.0630508,
+            -98.3071231
+        ],
+        "material": "Aceite usado, medicamentos caducos.",
+        "name": "Integración de Servicios Industriales, S.A. de C.V.",
+        "phone": "(222) 285 3932, (222) 285 1871"
+    },
+    {
+        "address": "Camino a San Miguel Espejo No. 2801 Chachapa, Amozoc",
+        "location": [
+            37.616973,
+            -0.9920314000000001
+        ],
+        "material": "Aceite usado, medicamentos caducos lámparas fluorescentes.",
+        "name": "Guillermo Martínez Hernández",
+        "phone": "(222) 199 6595, (222) 462 0410-Fax"
+    },
+    {
+        "address": "Calle Teziutlán No. 860, San Matias Cocoyotla San Pedro Cholula",
+        "location": [
+            19.073122,
+            -98.312967
+        ],
+        "material": "Aceite usado, acumuladores, lámparas fluorescentes.",
+        "name": "Reyt Cocoyotla, S.A. de C.V.",
+        "phone": "(222) 247 0648"
+    },
+    {
+        "address": "Calle 2 de abril no. 10 Santa Maria Texmelucan Santa Rita Tlahuapan",
+        "location": [
+            25.6464859,
+            -100.1119234
+        ],
+        "material": "Aceite usado, lámparas fluorescentes",
+        "name": "Rubén Caballero Juárez",
+        "phone": "(248) 482 0222"
+    },
+    {
+        "address": "Calle 2 No. 8, Fracc. Benito Juárez Querétaro",
+        "location": [
+            20.6287824,
+            -100.4155516
+        ],
+        "material": "Aceite, lámparas fluorescentes, pilas acumuladores.",
+        "name": "Procesos Ambientales Alfa, S.A. de C.V.",
+        "phone": "217 01 41"
+    },
+    {
+        "address": "Acceso II No. 68, Zona Industrial Benito Juárez, Querétaro.",
+        "location": [
+            32.4979218,
+            -117.0555313
+        ],
+        "material": "Aceite.",
+        "name": "Recolectora King Kong, S.A. de C.V.",
+        "phone": "(442) 210 42 10, (442) 210 42 20, (442) 210 42 44"
+    },
+    {
+        "address": "Acceso II No. 68, Zona Industrial Benito Juárez, Querétaro.",
+        "location": [
+            20.617372,
+            -100.435274
+        ],
+        "material": "Aceite.Lámparas fluorescentes.",
+        "name": "Gen Industrial, S.A. de C.V.",
+        "phone": "(442) 210 42 10, (442) 210 42 20, (442) 210 42 44"
+    },
+    {
+        "address": "Miguel Alemán 406 Presidentes, Querétaro.",
+        "location": [
+            45.5810442,
+            -73.72358849999999
+        ],
+        "material": "Aceite usado.",
+        "name": "Castrolz",
+        "phone": "(442) 222 9095"
+    },
+    {
+        "address": "Talleres L 15 Mza 101,  Cancún",
+        "material": "Aceite usado.",
+        "name": "Servicios Anticontam",
+        "phone": "(998) 888-8192, (998) 108-2596"
+    },
+    {
+        "address": "Av. Verástegui No. 308, Col. Victoria Río Verde",
+        "location": [
+            21.9292751,
+            -99.9825866
+        ],
+        "material": "Aceite gastado y gas refrigerante",
+        "name": "Rubén Arroyo Rodríguez",
+        "phone": "(487) 871 27 91"
+    },
+    {
+        "address": "Carretera México-Piedras Negras Km. 426, Col. Central Maquinaria",
+        "material": "Aceite lubricante usado.",
+        "name": "C.P. Roberto Carmona Celaya"
+    },
+    {
+        "address": "Periférico Oriente No. 184, Col. Prados de San Vicente, Delegación Villa de Pozos San Luis Potosí",
+        "material": "Aceite Lubricante Usado",
+        "name": "Marco Antonio Silva Olivares"
+    },
+    {
+        "address": "Eje 132 No. 110, Parque Industrial Potosino, San Luis Potosí",
+        "material": "Aceite usado.",
+        "name": "Industrias Kummer, S. de R.L. de CV",
+        "phone": "(444) 8 24 08 51"
+    },
+    {
+        "address": "Vía a Tamazunchale, Predio anexo a la Planta de Tratamiento de Aguas No. 1, Cd. Valles.",
+        "location": [
+            22.0633293,
+            -100.8718943
+        ],
+        "material": "Aceite usado.",
+        "name": "Residuos Mexicanos, S.A. de CV",
+        "phone": "(444) 8 25 52 63"
+    },
+    {
+        "address": "Eje 118 No. 100 Esquina Carretera 57, Zona Industrial San Luis Potosí",
+        "location": [
+            20.617372,
+            -100.435274
+        ],
+        "material": "Aceite, pilas y baterías",
+        "name": "Gen Industrial, S.A. de C.V.",
+        "phone": "(444) 8 24 52 07"
+    },
+    {
+        "address": "Fusión No. 1306, Parque Industrial Fundidores, San Luis Potosí",
+        "location": [
+            22.0492074,
+            -100.4592558
+        ],
+        "material": "Aceite usado.",
+        "name": "Roberto Carmona Celaya"
+    },
+    {
+        "address": "Eje 132 No. 295, Parque de Fundidores, Zona Industrial, San Luis Potosí",
+        "location": [
+            37.2561663,
+            -6.948193700000001
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Adela Flores Rodríguez"
+    },
+    {
+        "address": "Flor de Azahar No. 417, Zona Centro Río Verde",
+        "location": [
+            22.072109,
+            -100.8798436
+        ],
+        "material": "Aceite usado.",
+        "name": "Petroquímica de Aceites, S.A. de C.V.",
+        "phone": "(487) 872 3292"
+    },
+    {
+        "address": "Pintores 175, Parque Industrial Impulso San Luis Potosí.",
+        "location": [
+            28.657805,
+            -106.103584
+        ],
+        "material": "Aceite.",
+        "name": "Empresa Ambiental, S. A. de C.V."
+    },
+    {
+        "address": "Av. Fundidores 11302 Col. Parque Ind. Fundidora San Luis Potosí.",
+        "material": "Aceite usado.",
+        "name": "Industrial Química Energética",
+        "phone": "(444) 824 2404, (444) 824 1542, (444) 8241543"
+    },
+    {
+        "address": "Calle Santos Degollado No. 4003 Norte, Entronque con Carretera México Ahome.",
+        "location": [
+            25.8218839,
+            -108.966999
+        ],
+        "material": "Aceites usados.",
+        "name": "Ecotemesa del Pacífico, S.A. de C.V.",
+        "phone": "(66) 8153 1132"
+    },
+    {
+        "address": "Edificio Hermosillo Paseo del Río y Commonfort 2º Nivel Col. Villa de Seris, Hermosillo.",
+        "location": [
+            29.067972,
+            -110.9571504
+        ],
+        "material": "Aceite usado.",
+        "name": "Centro de Gobierno",
+        "phone": "(62) 59 2701, (62) 59 2705"
+    },
+    {
+        "address": "Av. Adolfo Ruiz Cortines 1705 Altos, Col. Lindavista Villahermosa",
+        "location": [
+            17.9930986,
+            -92.94400329999999
+        ],
+        "material": "Aceite usado.",
+        "name": "Lidia Nelly Solís Herrera",
+        "phone": "(993) 315 7628"
+    },
+    {
+        "address": "Ambiental e Industrial, S.A. de C.V. Calle Báltico No. 109-A, Col. Villa de los Trabajadores Villahermosa",
+        "location": [
+            28.652765,
+            -106.108696
+        ],
+        "material": "Aceites usados, acumuladores.",
+        "name": "Ambiental Servicios Consultoría",
+        "phone": "(993) 161 61 47"
+    },
+    {
+        "address": "Calle 2 Lte 12 Parque Industrial Deit Villahermosa",
+        "location": [
+            18.3691681,
+            -66.0779572
+        ],
+        "material": "Aceites usados.",
+        "name": "Interamericana Motri",
+        "phone": "(993) 337 9164, (993) 337 9822"
+    },
+    {
+        "address": "Manzana 38-A Calle C-2 Esquina C-15 En Fraccionamiento Mexplus Altamira",
+        "material": "Aceite.",
+        "name": "Juan Chávez Loredo",
+        "phone": "(833) 226 4772, (833) 226 4773, (833) 226 4774"
+    },
+    {
+        "address": "Blvd. Hidalgo 424 Col. Bellavista Reynosa",
+        "location": [
+            26.0853103,
+            -98.2926967
+        ],
+        "material": "Aceite usado.",
+        "name": "María Del Carmen Becerril Sánchez",
+        "phone": "(899) 924 7363, (899) 925 5142"
+    },
+    {
+        "address": "Carr. Reynosa-Matamoros Camino Comunal Entre Brecha E 102 y Parque Industrial Colonial, Reynosa",
+        "material": "Aceite usado.",
+        "name": "Transporte Especializado y Almacén de Materiales, S.A. de C.V.",
+        "phone": "(899) 913 9096"
+    },
+    {
+        "address": "Sendero Nacional S/N Zona Industrial Matamoros",
+        "location": [
+            25.8705254,
+            -97.548893
+        ],
+        "material": "Aceite usado.",
+        "name": "Comercial PSP, S.A. de C.V..",
+        "phone": "(868) 812 3204, (868) 812 3254"
+    },
+    {
+        "address": "Privada Gatre No. 806 “A” Bodega 7, Col. Miramar, Altamira.",
+        "email": "FSANCHEZ@SAMMEX.COM.MX",
+        "location": [
+            22.4110114,
+            -97.9349233
+        ],
+        "material": "Aceite Usado",
+        "name": "Soportes Ambientales de México, S.A. de C.V.",
+        "phone": "(833) 226 7064"
+    },
+    {
+        "address": "Carr Tampico Mante 118 Tampico",
+        "location": [
+            22.2277464,
+            -97.84544360000001
+        ],
+        "material": "Aceite Usado.",
+        "name": "Filtros Aditivos YL Tampico",
+        "phone": "(833) 228 4390, (833) 227 1906"
+    },
+    {
+        "address": "Carr. Tampico Mante 2107 Del Bosque, Tampico.",
+        "location": [
+            31.69094479999999,
+            -106.4000041
+        ],
+        "material": "Aceite usado.",
+        "name": "Lubricantes Nacional",
+        "phone": "(833) 226 2645, (833) 226 2646"
+    },
+    {
+        "address": "Ffcc Interoceánico 109 Laureles, Xalapa.",
+        "location": [
+            19.5368928,
+            -96.9106042
+        ],
+        "material": "Aceite usado.",
+        "name": "Seterr",
+        "phone": "(228) 814 5044"
+    },
+    {
+        "address": "Carr Transístimica Km. 7.5 Tierra Nueva, Coatzacoalcos.",
+        "location": [
+            21.8089641,
+            -105.2174588
+        ],
+        "material": "Aceite quemado.",
+        "name": "Grupo Combustible",
+        "phone": "(921) 215 8187, (921) 215 8188"
+    },
+    {
+        "address": "Facultad de Economía 76 Stuaz, Guadalupe.",
+        "location": [
+            41.856806,
+            -87.65285999999999
+        ],
+        "material": "Aceites",
+        "name": "No Manches",
+        "phone": "(492) 927 6179"
+    },
+    {
+        "address": "Carr. A San Felipe km 7.5 s/n Colonia 1, División 2 Delegación Cerro Prieto Mexicali",
+        "location": [
+            31.8730313,
+            -116.6246593
+        ],
+        "material": "Aceite vegetal usado",
+        "name": "Bio regeneradora de Baja California, S.A. de C.V.",
+        "phone": "(664) 326 9158 Tecate, (686) 221 9423 Mexicali, (646) 1781666 Ensenada"
+    },
+    {
+        "address": "Calle Churubusco y Apatzingan 1902 Colonia Tomas Aquino, Delegación Otay, Tijuana.",
+        "location": [
+            32.5305486,
+            -116.9846673
+        ],
+        "material": "Aceite de origen vegetal",
+        "name": "Industrias Cachora, S.A. de C.V.",
+        "phone": "(664) 682 2128, (664) 682 7480"
+    },
+    {
+        "address": "Servicios Internacionales del Medio Ambiente, S.A. de C.V.",
+        "location": [
+            32.517857,
+            -116.987269
+        ],
+        "material": "Recolección y transporte de agua residual con grasas y aceites sedimentos orgánicos y materia flotante de las trampas e interceptores de grasas y aceites.",
+        "name": "Para la elaboración y comercialización de biodiesel",
+        "phone": "(664) 973-6048"
+    },
+    {
+        "address": "Carrr. Tijuana – Tecate km 36 s/n Col. El Carricito, Tijuana.",
+        "location": [
+            32.5098552,
+            -116.9767388
+        ],
+        "material": "Recolección y transporte de aceite vegetal usado, sebo, hueso, desperdicios cárnicos, sangre animal y agua residual de las trampas de grasaPara la fabricación de grasa animal y harina para alimentos de consumo animal",
+        "name": "Industrial de Grasas y Derivados, S.A. de C.V.",
+        "phone": "(664) 971-1070"
+    },
+    {
+        "address": "Carr. Mexicali – Tijuana KM. 135 S/N, Ejido el Florido, Tijuana.",
+        "location": [
+            32.471546,
+            -116.977932
+        ],
+        "material": "Sebo, huesos, pellejos y aceite vegetal usado. Para la obtención de grasa y harina .",
+        "name": "Rendimientos Proteicos, S.A. de C.V.",
+        "phone": "(664) 626-8017"
+    },
+    {
+        "address": "Calle 31 No 10 Ciudad del Carmen",
+        "location": [
+            18.6492877,
+            -91.8173738
+        ],
+        "material": "Aceite vegetal usado para biodiesel.",
+        "name": "Industrial Química Energética",
+        "phone": "(938) 682 8054"
+    },
+    {
+        "address": "Tuna 3232, Col. Granjeros Ciudad Juárez.",
+        "location": [
+            31.6582136,
+            -106.4081983
+        ],
+        "material": "Grasas y aceites",
+        "name": "Macheja Comercializadora",
+        "phone": "(656) 282 4768, (656) 208 1465, (656) 197 3374"
+    },
+    {
+        "address": "Cda. Rafael Ángel Peña 247- 4 Col. Tránsito, Cuauhtémoc.",
+        "location": [
+            19.4170576,
+            -99.13028829999999
+        ],
+        "material": "Grasas y aceite vegetales.",
+        "name": "United Tallow Corporation",
+        "phone": "4195 0148"
+    },
+    {
+        "address": "Prol. Chihuahua s/n Col. del Valle Sur, Durango.",
+        "email": "fcq@ujed.mx",
+        "location": [
+            24.012824,
+            -104.6888319
+        ],
+        "material": "Aceite Vegetal usado para biodiesel",
+        "name": "Universidad Juárez de Durango Facultad de Ciencias Químicas",
+        "phone": "(618) 130 1120, (618) 130 1111"
+    },
+    {
+        "address": "Granadas Mz 6 Lt 17 Ejidos de San Cristóbal, Ecatepec.",
+        "location": [
+            42.390356,
+            -71.14075
+        ],
+        "material": "Aceite vegetal.",
+        "name": "Ecologic",
+        "phone": "26 44 8387"
+    },
+    {
+        "address": "Av. Salamanca esq. Av del Canal Ciudad Industrial, Irapuato",
+        "location": [
+            20.6437405,
+            -101.2918602
+        ],
+        "material": "Aceites.",
+        "name": "Sistemas de Tratamiento Ambiental, S.A. de C.V.",
+        "phone": "(462) 6272 332"
+    },
+    {
+        "address": "Edificio Vicente Guerrero 3er piso Av. Juárez esq. Quintana Roo Centro, Chilpancingo.",
+        "location": [
+            16.855336,
+            -99.90524119999999
+        ],
+        "material": "Aceite vegetal usado.",
+        "name": "Secretaria del Medio Ambiente del Estado de Guerrero",
+        "phone": "(747) 471 9543, (747) 471 498"
+    },
+    {
+        "address": "Unión 5, Playita, Guadalajara.",
+        "location": [
+            20.6349449,
+            -103.3269964
+        ],
+        "material": "Grasas y Aceites Vegetales.",
+        "name": "San Mex de Jalisco, S.A. de C.V.",
+        "phone": "(33) 3344 5959"
+    },
+    {
+        "address": "Benito Juárez #1 Tlahuapan, Jiutepec, Mor.",
+        "email": "nan_ysvl@hotmail.com",
+        "location": [
+            18.904918,
+            -99.177127
+        ],
+        "material": "Aceite vegetal quemado ( de freidoras, y preparaciones fritas) Para hacer biodiesel Frío y sin agua o restos de alimentos. En un envase de plástico tapado.",
+        "name": "KHS Innovación Automotriz",
+        "phone": "(777) 320 1080, (777) 320 3828"
+    },
+    {
+        "address": "Calle Tabachines No. 2, Esquina Minería, Col. Loma Bonita, Cuernavaca, Mor.",
+        "email": "integrasadecv@gmail.com",
+        "location": [
+            20.678987,
+            -103.370774
+        ],
+        "material": "freidoras de papas, panaderías, comercios, etc. Frío y sin agua o restos de alimentos. En un envase de plástico tapado.",
+        "name": "Integra, S.A. de C.V.",
+        "phone": "(777) 242 1530, 169 2190 (nextel)"
+    },
+    {
+        "address": "Av. Domingo Diez 1003 Piso 2 Nave B Col. del Empleado, Cuernavaca.",
+        "material": "Frío y sin agua o restos de alimentos. En un envase de plástico tapado.",
+        "name": "AVE Conservación y Protección del Medio Ambiente, A.C.",
+        "phone": "(777) 3 20 10 80 ext 109"
+    },
+    {
+        "address": "Av. Miguel Alemán Km. 42.8, Marin.",
+        "material": "Aceite Vegetal.",
+        "name": "Granja Porcícola el Consuelo, S.A. de C.V.",
+        "phone": "(44 818) 088 9571"
+    },
+    {
+        "address": "Ave Soledad 408 Centro Huejotzingo, Puebla.",
+        "location": [
+            19.4131457,
+            -99.0031135
+        ],
+        "material": "Compra llantas.",
+        "name": "Llantera 7 Leguas",
+        "phone": "(227) 276-0271"
+    },
+    {
+        "address": "Calle Mojarra 1 Playa del Carmen",
+        "location": [
+            21.1567987,
+            -86.8215716
+        ],
+        "material": "Aceite Vegetal Usado.",
+        "name": "CANIRAC Cancún",
+        "phone": "(998) 271-0318"
+    },
+    {
+        "address": "Misión de Magdalena 1 Bachoco, Hermosillo.",
+        "location": [
+            29.1270923,
+            -110.952673
+        ],
+        "material": "Aceite vegetal usado",
+        "name": "Yellow Best Collection"
+    },
+    {
+        "address": "Aries # 220, Col. Estrella, Municipio de Aguascalientes.",
+        "location": [
+            21.9148674,
+            -102.280486
+        ],
+        "material": "Residuos de Fibra de vidrio.",
+        "name": "Carlos López Cuellar"
+    },
+    {
+        "address": "Av. Héroe Inmortal 244 Fracc. Morelos, Aguascalientes.",
+        "location": [
+            21.9021543,
+            -102.2913004
+        ],
+        "material": "Todo tipo de llantas usadas .",
+        "name": "Llantera Arturo",
+        "phone": "(44) 977 4410"
+    },
+    {
+        "address": "Héroe Inmortal # 244, Fracc. Morelos, Municipio de Aguascalientes.",
+        "location": [
+            21.8564736,
+            -102.2694518
+        ],
+        "material": "Llantas.",
+        "name": "José Carmen Mendoza Días"
+    },
+    {
+        "address": "Prol. Valle del Guadiana 656 Parque Industrial Lagunero California, Durango.",
+        "location": [
+            25.5803192,
+            -103.4188204
+        ],
+        "material": "Llantas.",
+        "name": "Reciclados Industriales Laguna",
+        "phone": "(871) 757 5932"
+    },
+    {
+        "address": "Manuel E. Izaguirre No.11 2do piso Naulcalpan.",
+        "email": "info@hazmex.com",
+        "location": [
+            19.4290593,
+            -99.1593039
+        ],
+        "material": "Llantas.",
+        "name": "HAZEMAG, S.A de C.V.",
+        "phone": "5572-9874, 5572-9865, 5572-2280"
+    },
+    {
+        "address": "Av.del Río Ocoyoacac 613 E Barrio De Santa María, Ocoyoacac.",
+        "location": [
+            19.2747595,
+            -99.46535469999999
+        ],
+        "material": "Reciclado de llantas.",
+        "name": "Grupo Recyhul, S.A. de C.V.",
+        "phone": "(722) 288 1091, (722) 288 1081"
+    },
+    {
+        "address": "Campos Elíseos 345 Piso 16, Chapultepec",
+        "location": [
+            19.4286212,
+            -99.2000592
+        ],
+        "material": "Llantas.",
+        "name": "ECOLTEC, S.A. de C.V. CORPORATIVO",
+        "phone": "(55) 5724 0271, 01800 326 5832"
+    },
+    {
+        "address": "Capulín 410 Col Ebanista. Chimalhuacán.",
+        "location": [
+            28.451853,
+            -16.28128
+        ],
+        "material": "Equipo de cómputo obsoleto.",
+        "name": "Multiservicio Empresarial.",
+        "phone": "(55) 5852 7765, (55) 3046 8320"
+    },
+    {
+        "address": "Carretera a Morelia 542 San Isidro, Acámbaro.",
+        "location": [
+            26.0684505,
+            -98.3373591
+        ],
+        "material": "Llantas usadas.",
+        "name": "Llantas y Servicios",
+        "phone": "(417) 172 2700"
+    },
+    {
+        "address": "Parral poniente 1807 Col. Loma Bonita, León. PLANTA Carretera León – San Felipe Km. 43 El llano, San Felipe.",
+        "location": [
+            21.117228,
+            -101.6975744
+        ],
+        "material": "Llantas.",
+        "name": "Neumáticos de Caucho Reciclados, S.A. de C.V.",
+        "phone": "(477)7071 314"
+    },
+    {
+        "address": "Gómez Farías 1142 Guadalajara",
+        "location": [
+            25.5405472,
+            -103.469532
+        ],
+        "material": "Llantas.",
+        "name": "Ricardo Martínez Navarro",
+        "phone": "(33) 3345 1641"
+    },
+    {
+        "address": "Alambique 3040 Entre Oleoducto y Barroteran Álamo Industrial",
+        "location": [
+            13.7224159,
+            -88.9362799
+        ],
+        "material": "Llantas",
+        "name": "Salvador Delgado Franco",
+        "phone": "(33) 3666 2383"
+    },
+    {
+        "address": "Ocoyoacac, Estado de México",
+        "location": [
+            19.2747595,
+            -99.46535469999999
+        ],
+        "material": "Llantas Good Year.",
+        "name": "Grupo Recyhul, S.A. de C.V.",
+        "phone": "(722) 2881 090"
+    },
+    {
+        "address": "Carr.. Aguascalientes - San Luis Potosí Km. 8, Col. Villa de Jesús Terán, Aguascalientes.",
+        "location": [
+            21.860931,
+            -102.316639
+        ],
+        "material": "Aceite gastado (excepto con bifenilos policlorados), sólidos de mantenimiento automotriz, otros sólidos, líquidos residuales, lodos, solventes gastados._",
+        "name": "Reciclayser de Aguascalientes, S.A. de C.V.",
+        "phone": "(449) 913 3304"
+    },
+    {
+        "address": "José Barba Alonso No. 107, Cd.Industrial, Aguascalientes",
+        "email": "jgomez@gen.tv",
+        "location": [
+            20.617372,
+            -100.435274
+        ],
+        "material": "Agua, sólidos y lodos contaminada con hidrocarburos, aceite gastado (excepto con bifenilos policlorados).",
+        "name": "Gen Industrial, S.A .de C.V.",
+        "phone": "(449) 971 1140."
+    },
+    {
+        "address": "Cerro del Laurel No. 1073 Int. 3, Lomas del Campestre, Aguascalientes",
+        "location": [
+            18.054481,
+            -96.14555059999999
+        ],
+        "material": "Aceite lubricante gastado, excepto bifenilos policlorados.",
+        "name": "Fernando Saldivar Rivera",
+        "phone": "(449) 914 38 30"
+    },
+    {
+        "address": "Boulevard López Mateos km 5.5, Centro Industrial Margar, Col. Sánchez Tabeada Mexicali",
+        "location": [
+            20.3917008,
+            -99.99159929999999
+        ],
+        "material": "Aceite usado, solventes.",
+        "name": "Soluciones en Medio Ambiente, S.A. de C.V.",
+        "phone": "(686)5809673"
+    },
+    {
+        "address": "Av. Victoria Sánchez Lote No. 3 Manzana 110 Guerrero Negro, Mulegé.",
+        "location": [
+            27.9702277,
+            -114.0347149
+        ],
+        "material": "Aceite usado, sólidos y aserrín impregnados con hidrocarburos.",
+        "name": "Francisco Xavier Ojeda Amador"
+    },
+    {
+        "address": "Calle 26 No. 169 A, Col. Payas Ciudad del Carmen",
+        "location": [
+            18.6455951,
+            -91.8379267
+        ],
+        "material": "Aceites lubricantes usados.",
+        "name": "Ubaldo Torres Arroyo 38",
+        "phone": "(93) 8382 0794"
+    },
+    {
+        "address": "Carretera del Carmen - Puerto Rea Km 21+ 086, Predio San Benito Ciudad del Carmen",
+        "material": "Aceites lubricantes gastados.",
+        "name": "Lidia Nelly Solís Herrera",
+        "phone": "(99) 3315 7628"
+    },
+    {
+        "address": "Calle 1 Sur PIP Isla del Carmen Ciudad del Carmen, Campeche.",
+        "location": [
+            18.6559465,
+            -91.8189931
+        ],
+        "material": "Aceite usado.",
+        "name": "Servicios Integrales de Ciudad del Carmen, S.A. de C.V.",
+        "phone": "(93) 8382 1029"
+    },
+    {
+        "address": "S.A. de C.V.",
+        "location": [
+            19.2467142,
+            -103.7248666
+        ],
+        "material": "Aceite lubricante gastado.",
+        "name": "Servicios Ecológicos de Colima,",
+        "phone": "(312) 330 3545"
+    },
+    {
+        "address": "S.A. de C.V.",
+        "location": [
+            25.962065,
+            -100.166208
+        ],
+        "material": "Aceites Lubricantes Gastados.",
+        "name": "Residuos Industriales del Desierto,",
+        "phone": "(639)472-08-85"
+    },
+    {
+        "address": "S. de R.L. de CV",
+        "location": [
+            19.3022286,
+            -99.0566722
+        ],
+        "material": "Aceites usados.",
+        "name": "Safety Kleen de México,",
+        "phone": "58 45 77 00"
+    },
+    {
+        "address": "Santa Isabel 20, Manzana 12, Lote1",
+        "location": [
+            20.6392508,
+            -103.3681484
+        ],
+        "material": "Aceite gastado.",
+        "name": "Manejo Integral de Residuos Peligrosos, S.A. de C.V.",
+        "phone": "26 08 62 05"
+    },
+    {
+        "address": "Hortelanos 46, Col. Morelos.",
+        "email": "baterias@protalautomotriz.com",
+        "location": [
+            19.4411857,
+            -99.1185532
+        ],
+        "material": "Aceite usado. Servicio a domicilio.",
+        "name": "Comercializadora de Acumuladores y Metales Nuevos y Usados, S.A. de C.V.",
+        "phone": "5789 0849 5704 3261"
+    },
+    {
+        "address": "López Cotilla 835 Col. Del Valle.",
+        "location": [
+            19.3859358,
+            -99.1653022
+        ],
+        "material": "Aceite Lubricante gastado",
+        "name": "Sistemas Integrales en el Manejo de Residuos Industriales, S. de R.L.",
+        "phone": "56 82 54 32"
+    },
+    {
+        "address": "Calle Juárez 332 Norte, Centro",
+        "location": [
+            28.6368568,
+            -106.0762718
+        ],
+        "material": "Aceite lubricante",
+        "name": "Ayuntamiento del Municipio",
+        "phone": "(618) 827 1005"
+    },
+    {
+        "address": "Pino Suárez 308 Oriente Centro, Durango",
+        "location": [
+            23.2258032,
+            -106.4196419
+        ],
+        "material": "Aceite lubricante.",
+        "name": "Servicios Administrativos Luismin, S.A. de C. V.",
+        "phone": "(618) 827 1775"
+    },
+    {
+        "address": "Juana Villalobos 107 Col. del Maestro",
+        "location": [
+            24.0307494,
+            -104.6375304
+        ],
+        "material": "Aceite lubricante.",
+        "name": "David Ramírez Sosa Arrieta",
+        "phone": "(618) 818 9181"
+    },
+    {
+        "address": "Parcela 52 Fracción A del Ejido Las Huertas,Gómez Palacio.",
+        "material": "Aceite lubricante usado; baterías usadas.",
+        "name": "Consultoría y Servicios Ambientales Laguna, S.A. de C.V.",
+        "phone": "(871) 721 79 08"
+    },
+    {
+        "address": "Calle Canelas No. 409, Parque Industrial Lagunero, Gómez Palacio",
+        "location": [
+            25.5651367,
+            -103.4649142
+        ],
+        "material": "Aceite lubricante gastado.",
+        "name": "Energéticos Industriales de la Laguna, S.A. de C.V.",
+        "phone": "(871) 717 0149"
+    },
+    {
+        "address": "Calle 3 S/N Esq. Calle 4 Mz. 2 Lt. 3,",
+        "material": "Aceite gastado.",
+        "name": "Miguel Vargas Pacheco"
+    },
+    {
+        "address": "Calle del Llorón No. 6, Primer Barrio de",
+        "location": [
+            28.3637394,
+            -16.7713742
+        ],
+        "material": "Aceites gastados.",
+        "name": "Juan R. Santos Nieto",
+        "phone": "89 92 40 44"
+    },
+    {
+        "address": "Av. San Luis Tlatilco No. 48-A, Lote 3, Manzana 4, Fraccionamiento Industrial Naucalpan",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceites gastados.",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "5312 6203"
+    },
+    {
+        "address": "Av. Cuarta Sur No. 39, Col. Independencia, Tultitlán.",
+        "location": [
+            19.6259979,
+            -99.1757205
+        ],
+        "material": "Aceites.",
+        "name": "Soluciones Ambientales Alternas, S.A. de C.V.",
+        "phone": "58 31 69 11"
+    },
+    {
+        "address": "Camino a Zurita S/N Col. Corral Viejo Tequisistlán, Tezoyuca.",
+        "location": [
+            19.6812629,
+            -98.8609457
+        ],
+        "material": "Aceites.",
+        "name": "Guillermina Reyes Ariza",
+        "phone": "(594) 9566425"
+    },
+    {
+        "address": "Camino Antiguo a Chimalhuacán S/N Col. San José, Chicoloapan.",
+        "location": [
+            20.4849745,
+            -97.461125
+        ],
+        "material": "Aceites.",
+        "name": "Reind Química, S.A. de C.V.",
+        "phone": "59215320"
+    },
+    {
+        "address": "Verano s/n, Col. Las Brisas",
+        "material": "Aceites, baterías automotrices, medicamentos caducos.",
+        "name": "Erika Contreras Casillas",
+        "phone": "5557900789"
+    },
+    {
+        "address": "Av. Ing. Salvador Sánchez Colín Mza. 18-B Lts. 4 y 5, Parque Industrial Atlacomulco",
+        "location": [
+            19.798005,
+            -99.879857
+        ],
+        "material": "Aceites.",
+        "name": "SD MYERS de México, S.A. de C.V.",
+        "phone": "5361 7668"
+    },
+    {
+        "address": "Prolongación Isidro Fabela No. 730, Nave 3, Barrio Los Reyes, Tultitlán.",
+        "location": [
+            19.3022286,
+            -99.0566722
+        ],
+        "material": "Aceites, Pilas",
+        "name": "Safety Kleen de México, S. de R.L. de C.V.",
+        "phone": "58 45 68 10"
+    },
+    {
+        "address": "Ciudadela S/N, Col. Buenavista, Tultitlán.",
+        "location": [
+            19.6097738,
+            -99.1597529
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Analia Tinoco Molina",
+        "phone": "58 84 86 48"
+    },
+    {
+        "address": "Camino Viejo a Tulpetlac s/n, Col. Ejidos de Santa Maria Tulpetlac, Ecatepec.",
+        "location": [
+            19.5926209,
+            -99.0190983
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Mexicana de Tratamiento de Aceites Residuales, S.A. de C.V.",
+        "phone": "57 70 59 81"
+    },
+    {
+        "address": "Parcela No. 1-A, Ejido de San José de García, Camino a San José de García s/n km 2.5, Carretera Silao Romita.",
+        "location": [
+            31.7233484,
+            -106.4453921
+        ],
+        "material": "Aceites.",
+        "name": "Residuos Industriales Multiquim, S.A. de C.V.",
+        "phone": "81 52 21 00"
+    },
+    {
+        "address": "Calle San Antonio No. 216, Fraccionamiento Industrial Brisas del Campo",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceite sucio",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "(477) 7 71 46"
+    },
+    {
+        "address": "Km. 85 (antes Km. 308) tramo libre Carretera Celaya - Salamanca",
+        "location": [
+            20.5888643,
+            -101.0768915
+        ],
+        "material": "Aceite",
+        "name": "Carboquímica Block, S.A. de C.V.",
+        "phone": "(464) 6 42 03 62"
+    },
+    {
+        "address": "Calle San Antonio No. 216, Fraccionamiento Industrial Brisas del Campo, León.",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceite usado.",
+        "name": "EK Ambiental, S.A. de C.V."
+    },
+    {
+        "address": "4a Fracción de San Antonio Espinoza Celaya.",
+        "material": "Aceites gastados.",
+        "name": "Planta Incineradora de Residuos Bioinfecciosos, S.A. de C.V.",
+        "phone": "(461) 611 57 63"
+    },
+    {
+        "address": "km 1.8 Camino a San Antonio Calichal Apaseo el Alto.",
+        "location": [
+            20.7166667,
+            -103.4
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Química Rimsa, S.A. de C.V.",
+        "phone": "01 44 22 14 28 64"
+    },
+    {
+        "address": "Fracción de San Antonio Espinoza",
+        "material": "Aceite lubricante usado.",
+        "name": "Planta Incineradora de Residuos Bioinfecciosos, S.A. de C.V.",
+        "phone": "01-461-611 57 63"
+    },
+    {
+        "address": "Curtidor 520 Fracc. Industrial, León",
+        "location": [
+            21.1023938,
+            -101.6323366
+        ],
+        "material": "Aceite usado.",
+        "name": "Diator de México, S.A. de C.V.",
+        "phone": "(47) 11 8989"
+    },
+    {
+        "address": "Carretera Jorobas Tula Km. 22.5 No. B, Progreso, Tula.",
+        "location": [
+            20.1290427,
+            -98.7460732
+        ],
+        "material": "Aceites Gastados.",
+        "name": "Recuperados y Reciclados",
+        "phone": "(778) 718 5846"
+    },
+    {
+        "address": "Ejido el Maney Huichapan.",
+        "location": [
+            20.3925,
+            -99.68722199999999
+        ],
+        "material": "Aceite usado.",
+        "name": "Proambiente, S.A. de C.V. (Planta Huichapan)",
+        "phone": "8328 3712"
+    },
+    {
+        "address": "Calle Industria Mecánica No. 2168, Fracc. Industrial Zapopan Norte Zapopan",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceite lubricante usado",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "(33) 3833 1009, (33) 3833 0228"
+    },
+    {
+        "address": "De la Rosa No. 782, Zona Industrial, 45132, Guadalajara",
+        "location": [
+            20.7499362,
+            -103.3938454
+        ],
+        "material": "Aceite Lubricante Usado.",
+        "name": "INLUBSA, S.A. de C.V.",
+        "phone": "(33) 3656 1238"
+    },
+    {
+        "address": "Calle Cuatro No. 10559 Parque Industrial El Salto Guadalajara.",
+        "location": [
+            20.5174767,
+            -103.1810881
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Ambiental Mexicana Recolectora de Residuos, S.A. de C.V.",
+        "phone": "(33) 3688 0244"
+    },
+    {
+        "address": "Periférico Paseo de la República 2675 Col. Hnos. López Rayón, Morelia.",
+        "location": [
+            22.7732557,
+            -103.572925
+        ],
+        "material": "Aceite, Medicamentos caducos",
+        "name": "J. Jesús Ramírez Rosas",
+        "phone": "(44) 3326 5560"
+    },
+    {
+        "address": "Av. San Juanito Itzícuaro Predio No. 36 Col. Ampliación La Loma San Juanito Itzícuaro.",
+        "location": [
+            19.6885923,
+            -101.2507546
+        ],
+        "material": "Aceite. Medicamentos caducos. Cartuchos de tinta y tóner.",
+        "name": "Rafael Cortés Chávez",
+        "phone": "(443) 320-40-79"
+    },
+    {
+        "address": "Morelos, Jiutepec, Av. Centenario No.54-148, Interior 4, CIVAC.",
+        "location": [
+            18.9070528,
+            -99.16889019999999
+        ],
+        "material": "Aceite usado. Medicamentos caducos. Baterias de plomo, niquel, cadmio zinc Cartuchos de tóner y tintas",
+        "name": "Grupo Ecológico Integral, S.A. de C.V.",
+        "phone": "(777)119 30 53"
+    },
+    {
+        "address": "Carretera Libre Tepic – Mazatlán km 9.5, Ejido la Escondida, Tepic.",
+        "location": [
+            20.7499362,
+            -103.3938454
+        ],
+        "material": "Aceite usado.",
+        "name": "INLUBSA, S.A. de C.V.",
+        "phone": "(333) 6 56 12 38"
+    },
+    {
+        "address": "Libramiento Martínez Domínguez km 0.5 Cadereyta Jiménez.",
+        "location": [
+            25.5935169,
+            -99.9901811
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Asfaltos Energex S.A de C.V."
+    },
+    {
+        "address": "Calle Zaragoza #301, Col. Centro, Allende.",
+        "location": [
+            22.4110114,
+            -97.9349233
+        ],
+        "material": "Aceites gastados.",
+        "name": "Soportes Ambientales de México, S.A. de C.V.",
+        "phone": "(826) 26 823"
+    },
+    {
+        "address": "Carr. Monterrey- Monclova Km. 4.9 Monterrey.",
+        "location": [
+            25.8064181,
+            -100.2801153
+        ],
+        "material": "Aceite.",
+        "name": "Trans Química Nacional, S.A. de C.V.",
+        "phone": "82 39 00 30"
+    },
+    {
+        "address": "Av. Solidaridad #1024,Fracc. Industrial Unidad Nacional Santa Catarina",
+        "location": [
+            25.7121885,
+            -100.3063942
+        ],
+        "material": "Aceites gastados.",
+        "name": "EK Ambiental, S.A. de C.V.",
+        "phone": "(81) 81 14 61 95"
+    },
+    {
+        "address": "Carretera al Milagro s/n, Col. El Milagro Apodaca",
+        "location": [
+            25.6492282,
+            -100.2744818
+        ],
+        "material": "Aceite gastado.",
+        "name": "Recolecciones Ecológicas, S.A. de C.V."
+    },
+    {
+        "address": "Calle Platino #9430,Parque Industrial Mitras, García",
+        "location": [
+            32.5352755,
+            -117.0354013
+        ],
+        "material": "Aceite lubricante gastado",
+        "name": "Refinados Básicos, S.A. de C.V."
+    },
+    {
+        "address": "Calle Humberto Lobo #9338, Ciudad Industrial Mitras, García",
+        "location": [
+            25.7644802,
+            -100.2871158
+        ],
+        "material": "Aceites gastados.",
+        "name": "Tranquilidad Integral en Residuos, S.A . de C.V.",
+        "phone": "(81) 81 34 22 78"
+    },
+    {
+        "address": "Callejón s/n,300 m. al Norte del km. 1 de la Carr. a Pesquería.",
+        "material": "Aceite Gastado.",
+        "name": "Recolecciones Fronterizas, S.A. de C.V.",
+        "phone": "(81) 8377 5775, (81) 8377 57 87"
+    },
+    {
+        "address": "Calle Zinc #9431,Parque Industrial Mitras García",
+        "location": [
+            25.7109358,
+            -100.3688506
+        ],
+        "material": "Aceites gastados.",
+        "name": "Refinados de Solventes, S.A. de C.V.",
+        "phone": "83 81 09 90"
+    },
+    {
+        "address": "Circuito Interior Humberto Lobo #8112,Parque Industrial Mitras, García",
+        "location": [
+            25.7592996,
+            -100.3984963
+        ],
+        "material": "Aceites gastados.",
+        "name": "Carriaga Enviromental Services de México, S.A. de C.V.",
+        "phone": "11 68 81 16"
+    },
+    {
+        "address": "Calle Soldadores s/n,Parcela 66,Col. Alianza Escobedo",
+        "location": [
+            25.7800272,
+            -100.4166516
+        ],
+        "material": "Aceites gastados",
+        "name": "Enserch Reciclajes Ecológicos, S.A. de C.V.",
+        "phone": "83 45 11 50"
+    },
+    {
+        "address": "Venustiano Carranza # 902, Col. Los Altos, Escobedo",
+        "material": "Aceites gastados",
+        "name": "Villaceites, S.A. de C.V.",
+        "phone": "17 73 34 75, 83 97 30 01"
+    },
+    {
+        "address": "Calle Río San Bernardo No. 23, San Lorenzo Almecatla Cuautlancingo",
+        "location": [
+            26.8940852,
+            -101.4461837
+        ],
+        "material": "Aceite usado.",
+        "name": "Recolectora Nacional de Residuos, S. de R.L. de C.V."
+    },
+    {
+        "address": "Prolongación Emiliano Zapata No. 1008, Col. Ampliación Momoxpán San Pedro Cholula",
+        "location": [
+            19.0630508,
+            -98.3071231
+        ],
+        "material": "Aceite usado, medicamentos caducos.",
+        "name": "Integración de Servicios Industriales, S.A. de C.V.",
+        "phone": "(222) 285 3932, (222) 285 1871"
+    },
+    {
+        "address": "Camino a San Miguel Espejo No. 2801 Chachapa, Amozoc",
+        "location": [
+            37.616973,
+            -0.9920314000000001
+        ],
+        "material": "Aceite usado, medicamentos caducos lámparas fluorescentes.",
+        "name": "Guillermo Martínez Hernández",
+        "phone": "(222) 199 6595, (222) 462 0410-Fax"
+    },
+    {
+        "address": "Calle Teziutlán No. 860, San Matias Cocoyotla San Pedro Cholula",
+        "location": [
+            19.073122,
+            -98.312967
+        ],
+        "material": "Aceite usado, acumuladores, lámparas fluorescentes.",
+        "name": "Reyt Cocoyotla, S.A. de C.V.",
+        "phone": "(222) 247 0648"
+    },
+    {
+        "address": "Calle 2 de abril no. 10 Santa Maria Texmelucan Santa Rita Tlahuapan",
+        "location": [
+            25.6464859,
+            -100.1119234
+        ],
+        "material": "Aceite usado, lámparas fluorescentes",
+        "name": "Rubén Caballero Juárez",
+        "phone": "(248) 482 0222"
+    },
+    {
+        "address": "Calle 2 No. 8, Fracc. Benito Juárez Querétaro",
+        "location": [
+            20.6287824,
+            -100.4155516
+        ],
+        "material": "Aceite, lámparas fluorescentes, pilas acumuladores.",
+        "name": "Procesos Ambientales Alfa, S.A. de C.V.",
+        "phone": "217 01 41"
+    },
+    {
+        "address": "Acceso II No. 68, Zona Industrial Benito Juárez, Querétaro.",
+        "location": [
+            32.4979218,
+            -117.0555313
+        ],
+        "material": "Aceite.",
+        "name": "Recolectora King Kong, S.A. de C.V.",
+        "phone": "(442) 210 42 10, (442) 210 42 20, (442) 210 42 44"
+    },
+    {
+        "address": "Acceso II No. 68, Zona Industrial Benito Juárez, Querétaro.",
+        "location": [
+            20.617372,
+            -100.435274
+        ],
+        "material": "Aceite.Lámparas fluorescentes.",
+        "name": "Gen Industrial, S.A. de C.V.",
+        "phone": "(442) 210 42 10, (442) 210 42 20, (442) 210 42 44"
+    },
+    {
+        "address": "Miguel Alemán 406 Presidentes, Querétaro.",
+        "location": [
+            45.5810442,
+            -73.72358849999999
+        ],
+        "material": "Aceite usado.",
+        "name": "Castrolz",
+        "phone": "(442) 222 9095"
+    },
+    {
+        "address": "Talleres L 15 Mza 101,  Cancún",
+        "material": "Aceite usado.",
+        "name": "Servicios Anticontam",
+        "phone": "(998) 888-8192, (998) 108-2596"
+    },
+    {
+        "address": "Av. Verástegui No. 308, Col. Victoria Río Verde",
+        "location": [
+            21.9292751,
+            -99.9825866
+        ],
+        "material": "Aceite gastado y gas refrigerante",
+        "name": "Rubén Arroyo Rodríguez",
+        "phone": "(487) 871 27 91"
+    },
+    {
+        "address": "Carretera México-Piedras Negras Km. 426, Col. Central Maquinaria",
+        "material": "Aceite lubricante usado.",
+        "name": "C.P. Roberto Carmona Celaya"
+    },
+    {
+        "address": "Periférico Oriente No. 184, Col. Prados de San Vicente, Delegación Villa de Pozos San Luis Potosí",
+        "material": "Aceite Lubricante Usado",
+        "name": "Marco Antonio Silva Olivares"
+    },
+    {
+        "address": "Eje 132 No. 110, Parque Industrial Potosino, San Luis Potosí",
+        "material": "Aceite usado.",
+        "name": "Industrias Kummer, S. de R.L. de CV",
+        "phone": "(444) 8 24 08 51"
+    },
+    {
+        "address": "Vía a Tamazunchale, Predio anexo a la Planta de Tratamiento de Aguas No. 1, Cd. Valles.",
+        "location": [
+            22.0633293,
+            -100.8718943
+        ],
+        "material": "Aceite usado.",
+        "name": "Residuos Mexicanos, S.A. de CV",
+        "phone": "(444) 8 25 52 63"
+    },
+    {
+        "address": "Eje 118 No. 100 Esquina Carretera 57, Zona Industrial San Luis Potosí",
+        "location": [
+            20.617372,
+            -100.435274
+        ],
+        "material": "Aceite, pilas y baterías",
+        "name": "Gen Industrial, S.A. de C.V.",
+        "phone": "(444) 8 24 52 07"
+    },
+    {
+        "address": "Fusión No. 1306, Parque Industrial Fundidores, San Luis Potosí",
+        "location": [
+            22.0492074,
+            -100.4592558
+        ],
+        "material": "Aceite usado.",
+        "name": "Roberto Carmona Celaya"
+    },
+    {
+        "address": "Eje 132 No. 295, Parque de Fundidores, Zona Industrial, San Luis Potosí",
+        "location": [
+            37.2561663,
+            -6.948193700000001
+        ],
+        "material": "Aceite lubricante usado.",
+        "name": "Adela Flores Rodríguez"
+    },
+    {
+        "address": "Flor de Azahar No. 417, Zona Centro Río Verde",
+        "location": [
+            22.072109,
+            -100.8798436
+        ],
+        "material": "Aceite usado.",
+        "name": "Petroquímica de Aceites, S.A. de C.V.",
+        "phone": "(487) 872 3292"
+    },
+    {
+        "address": "Pintores 175, Parque Industrial Impulso San Luis Potosí.",
+        "location": [
+            28.657805,
+            -106.103584
+        ],
+        "material": "Aceite.",
+        "name": "Empresa Ambiental, S. A. de C.V."
+    },
+    {
+        "address": "Av. Fundidores 11302 Col. Parque Ind. Fundidora San Luis Potosí.",
+        "material": "Aceite usado.",
+        "name": "Industrial Química Energética",
+        "phone": "(444) 824 2404, (444) 824 1542, (444) 8241543"
+    },
+    {
+        "address": "Calle Santos Degollado No. 4003 Norte, Entronque con Carretera México Ahome.",
+        "location": [
+            25.8218839,
+            -108.966999
+        ],
+        "material": "Aceites usados.",
+        "name": "Ecotemesa del Pacífico, S.A. de C.V.",
+        "phone": "(66) 8153 1132"
+    },
+    {
+        "address": "Edificio Hermosillo Paseo del Río y Commonfort 2º Nivel Col. Villa de Seris, Hermosillo.",
+        "location": [
+            29.067972,
+            -110.9571504
+        ],
+        "material": "Aceite usado.",
+        "name": "Centro de Gobierno",
+        "phone": "(62) 59 2701, (62) 59 2705"
+    },
+    {
+        "address": "Av. Adolfo Ruiz Cortines 1705 Altos, Col. Lindavista Villahermosa",
+        "location": [
+            17.9930986,
+            -92.94400329999999
+        ],
+        "material": "Aceite usado.",
+        "name": "Lidia Nelly Solís Herrera",
+        "phone": "(993) 315 7628"
+    },
+    {
+        "address": "Ambiental e Industrial, S.A. de C.V. Calle Báltico No. 109-A, Col. Villa de los Trabajadores Villahermosa",
+        "location": [
+            28.652765,
+            -106.108696
+        ],
+        "material": "Aceites usados, acumuladores.",
+        "name": "Ambiental Servicios Consultoría",
+        "phone": "(993) 161 61 47"
+    },
+    {
+        "address": "Calle 2 Lte 12 Parque Industrial Deit Villahermosa",
+        "location": [
+            18.3691681,
+            -66.0779572
+        ],
+        "material": "Aceites usados.",
+        "name": "Interamericana Motri",
+        "phone": "(993) 337 9164, (993) 337 9822"
+    },
+    {
+        "address": "Manzana 38-A Calle C-2 Esquina C-15 En Fraccionamiento Mexplus Altamira",
+        "material": "Aceite.",
+        "name": "Juan Chávez Loredo",
+        "phone": "(833) 226 4772, (833) 226 4773, (833) 226 4774"
+    },
+    {
+        "address": "Blvd. Hidalgo 424 Col. Bellavista Reynosa",
+        "location": [
+            26.0853103,
+            -98.2926967
+        ],
+        "material": "Aceite usado.",
+        "name": "María Del Carmen Becerril Sánchez",
+        "phone": "(899) 924 7363, (899) 925 5142"
+    },
+    {
+        "address": "Carr. Reynosa-Matamoros Camino Comunal Entre Brecha E 102 y Parque Industrial Colonial, Reynosa",
+        "material": "Aceite usado.",
+        "name": "Transporte Especializado y Almacén de Materiales, S.A. de C.V.",
+        "phone": "(899) 913 9096"
+    },
+    {
+        "address": "Sendero Nacional S/N Zona Industrial Matamoros",
+        "location": [
+            25.8705254,
+            -97.548893
+        ],
+        "material": "Aceite usado.",
+        "name": "Comercial PSP, S.A. de C.V..",
+        "phone": "(868) 812 3204, (868) 812 3254"
+    },
+    {
+        "address": "Privada Gatre No. 806 “A” Bodega 7, Col. Miramar, Altamira.",
+        "email": "FSANCHEZ@SAMMEX.COM.MX",
+        "location": [
+            22.4110114,
+            -97.9349233
+        ],
+        "material": "Aceite Usado",
+        "name": "Soportes Ambientales de México, S.A. de C.V.",
+        "phone": "(833) 226 7064"
+    },
+    {
+        "address": "Carr Tampico Mante 118 Tampico",
+        "location": [
+            22.2277464,
+            -97.84544360000001
+        ],
+        "material": "Aceite Usado.",
+        "name": "Filtros Aditivos YL Tampico",
+        "phone": "(833) 228 4390, (833) 227 1906"
+    },
+    {
+        "address": "Carr. Tampico Mante 2107 Del Bosque, Tampico.",
+        "location": [
+            31.69094479999999,
+            -106.4000041
+        ],
+        "material": "Aceite usado.",
+        "name": "Lubricantes Nacional",
+        "phone": "(833) 226 2645, (833) 226 2646"
+    },
+    {
+        "address": "Ffcc Interoceánico 109 Laureles, Xalapa.",
+        "location": [
+            19.5368928,
+            -96.9106042
+        ],
+        "material": "Aceite usado.",
+        "name": "Seterr",
+        "phone": "(228) 814 5044"
+    },
+    {
+        "address": "Carr Transístimica Km. 7.5 Tierra Nueva, Coatzacoalcos.",
+        "location": [
+            21.8089641,
+            -105.2174588
+        ],
+        "material": "Aceite quemado.",
+        "name": "Grupo Combustible",
+        "phone": "(921) 215 8187, (921) 215 8188"
+    },
+    {
+        "address": "Facultad de Economía 76 Stuaz, Guadalupe.",
+        "location": [
+            41.856806,
+            -87.65285999999999
+        ],
+        "material": "Aceites",
+        "name": "No Manches",
+        "phone": "(492) 927 6179"
+    },
+    {
+        "address": "Carr. A San Felipe km 7.5 s/n Colonia 1, División 2 Delegación Cerro Prieto Mexicali",
+        "location": [
+            31.8730313,
+            -116.6246593
+        ],
+        "material": "Aceite vegetal usado",
+        "name": "Bio regeneradora de Baja California, S.A. de C.V.",
+        "phone": "(664) 326 9158 Tecate, (686) 221 9423 Mexicali, (646) 1781666 Ensenada"
+    },
+    {
+        "address": "Calle Churubusco y Apatzingan 1902 Colonia Tomas Aquino, Delegación Otay, Tijuana.",
+        "location": [
+            32.5305486,
+            -116.9846673
+        ],
+        "material": "Aceite de origen vegetal",
+        "name": "Industrias Cachora, S.A. de C.V.",
+        "phone": "(664) 682 2128, (664) 682 7480"
+    },
+    {
+        "address": "Servicios Internacionales del Medio Ambiente, S.A. de C.V.",
+        "location": [
+            32.517857,
+            -116.987269
+        ],
+        "material": "Recolección y transporte de agua residual con grasas y aceites sedimentos orgánicos y materia flotante de las trampas e interceptores de grasas y aceites.",
+        "name": "Para la elaboración y comercialización de biodiesel",
+        "phone": "(664) 973-6048"
+    },
+    {
+        "address": "Carrr. Tijuana – Tecate km 36 s/n Col. El Carricito, Tijuana.",
+        "location": [
+            32.5098552,
+            -116.9767388
+        ],
+        "material": "Recolección y transporte de aceite vegetal usado, sebo, hueso, desperdicios cárnicos, sangre animal y agua residual de las trampas de grasaPara la fabricación de grasa animal y harina para alimentos de consumo animal",
+        "name": "Industrial de Grasas y Derivados, S.A. de C.V.",
+        "phone": "(664) 971-1070"
+    },
+    {
+        "address": "Carr. Mexicali – Tijuana KM. 135 S/N, Ejido el Florido, Tijuana.",
+        "location": [
+            32.471546,
+            -116.977932
+        ],
+        "material": "Sebo, huesos, pellejos y aceite vegetal usado. Para la obtención de grasa y harina .",
+        "name": "Rendimientos Proteicos, S.A. de C.V.",
+        "phone": "(664) 626-8017"
+    },
+    {
+        "address": "Calle 31 No 10 Ciudad del Carmen",
+        "location": [
+            18.6492877,
+            -91.8173738
+        ],
+        "material": "Aceite vegetal usado para biodiesel.",
+        "name": "Industrial Química Energética",
+        "phone": "(938) 682 8054"
+    },
+    {
+        "address": "Tuna 3232, Col. Granjeros Ciudad Juárez.",
+        "location": [
+            31.6582136,
+            -106.4081983
+        ],
+        "material": "Grasas y aceites",
+        "name": "Macheja Comercializadora",
+        "phone": "(656) 282 4768, (656) 208 1465, (656) 197 3374"
+    },
+    {
+        "address": "Cda. Rafael Ángel Peña 247- 4 Col. Tránsito, Cuauhtémoc.",
+        "location": [
+            19.4170576,
+            -99.13028829999999
+        ],
+        "material": "Grasas y aceite vegetales.",
+        "name": "United Tallow Corporation",
+        "phone": "4195 0148"
+    },
+    {
+        "address": "Prol. Chihuahua s/n Col. del Valle Sur, Durango.",
+        "email": "fcq@ujed.mx",
+        "location": [
+            24.012824,
+            -104.6888319
+        ],
+        "material": "Aceite Vegetal usado para biodiesel",
+        "name": "Universidad Juárez de Durango Facultad de Ciencias Químicas",
+        "phone": "(618) 130 1120, (618) 130 1111"
+    },
+    {
+        "address": "Granadas Mz 6 Lt 17 Ejidos de San Cristóbal, Ecatepec.",
+        "location": [
+            42.390356,
+            -71.14075
+        ],
+        "material": "Aceite vegetal.",
+        "name": "Ecologic",
+        "phone": "26 44 8387"
+    },
+    {
+        "address": "Av. Salamanca esq. Av del Canal Ciudad Industrial, Irapuato",
+        "location": [
+            20.6437405,
+            -101.2918602
+        ],
+        "material": "Aceites.",
+        "name": "Sistemas de Tratamiento Ambiental, S.A. de C.V.",
+        "phone": "(462) 6272 332"
+    },
+    {
+        "address": "Edificio Vicente Guerrero 3er piso Av. Juárez esq. Quintana Roo Centro, Chilpancingo.",
+        "location": [
+            16.855336,
+            -99.90524119999999
+        ],
+        "material": "Aceite vegetal usado.",
+        "name": "Secretaria del Medio Ambiente del Estado de Guerrero",
+        "phone": "(747) 471 9543, (747) 471 498"
+    },
+    {
+        "address": "Unión 5, Playita, Guadalajara.",
+        "location": [
+            20.6349449,
+            -103.3269964
+        ],
+        "material": "Grasas y Aceites Vegetales.",
+        "name": "San Mex de Jalisco, S.A. de C.V.",
+        "phone": "(33) 3344 5959"
+    },
+    {
+        "address": "Benito Juárez #1 Tlahuapan, Jiutepec, Mor.",
+        "email": "nan_ysvl@hotmail.com",
+        "location": [
+            18.904918,
+            -99.177127
+        ],
+        "material": "Aceite vegetal quemado ( de freidoras, y preparaciones fritas) Para hacer biodiesel Frío y sin agua o restos de alimentos. En un envase de plástico tapado.",
+        "name": "KHS Innovación Automotriz",
+        "phone": "(777) 320 1080, (777) 320 3828"
+    },
+    {
+        "address": "Calle Tabachines No. 2, Esquina Minería, Col. Loma Bonita, Cuernavaca, Mor.",
+        "email": "integrasadecv@gmail.com",
+        "location": [
+            20.678987,
+            -103.370774
+        ],
+        "material": "freidoras de papas, panaderías, comercios, etc. Frío y sin agua o restos de alimentos. En un envase de plástico tapado.",
+        "name": "Integra, S.A. de C.V.",
+        "phone": "(777) 242 1530, 169 2190 (nextel)"
+    },
+    {
+        "address": "Av. Domingo Diez 1003 Piso 2 Nave B Col. del Empleado, Cuernavaca.",
+        "material": "Frío y sin agua o restos de alimentos. En un envase de plástico tapado.",
+        "name": "AVE Conservación y Protección del Medio Ambiente, A.C.",
+        "phone": "(777) 3 20 10 80 ext 109"
+    },
+    {
+        "address": "Av. Miguel Alemán Km. 42.8, Marin.",
+        "material": "Aceite Vegetal.",
+        "name": "Granja Porcícola el Consuelo, S.A. de C.V.",
+        "phone": "(44 818) 088 9571"
+    },
+    {
+        "address": "Ave Soledad 408 Centro Huejotzingo, Puebla.",
+        "location": [
+            19.4131457,
+            -99.0031135
+        ],
+        "material": "Compra llantas.",
+        "name": "Llantera 7 Leguas",
+        "phone": "(227) 276-0271"
+    },
+    {
+        "address": "Calle Mojarra 1 Playa del Carmen",
+        "location": [
+            21.1567987,
+            -86.8215716
+        ],
+        "material": "Aceite Vegetal Usado.",
+        "name": "CANIRAC Cancún",
+        "phone": "(998) 271-0318"
+    },
+    {
+        "address": "Misión de Magdalena 1 Bachoco, Hermosillo.",
+        "location": [
+            29.1270923,
+            -110.952673
+        ],
+        "material": "Aceite vegetal usado",
+        "name": "Yellow Best Collection"
+    },
+    {
+        "address": "Aries # 220, Col. Estrella, Municipio de Aguascalientes.",
+        "location": [
+            21.9148674,
+            -102.280486
+        ],
+        "material": "Residuos de Fibra de vidrio.",
+        "name": "Carlos López Cuellar"
+    },
+    {
+        "address": "Av. Héroe Inmortal 244 Fracc. Morelos, Aguascalientes.",
+        "location": [
+            21.9021543,
+            -102.2913004
+        ],
+        "material": "Todo tipo de llantas usadas .",
+        "name": "Llantera Arturo",
+        "phone": "(44) 977 4410"
+    },
+    {
+        "address": "Héroe Inmortal # 244, Fracc. Morelos, Municipio de Aguascalientes.",
+        "location": [
+            21.8564736,
+            -102.2694518
+        ],
+        "material": "Llantas.",
+        "name": "José Carmen Mendoza Días"
+    },
+    {
+        "address": "Prol. Valle del Guadiana 656 Parque Industrial Lagunero California, Durango.",
+        "location": [
+            25.5803192,
+            -103.4188204
+        ],
+        "material": "Llantas.",
+        "name": "Reciclados Industriales Laguna",
+        "phone": "(871) 757 5932"
+    },
+    {
+        "address": "Manuel E. Izaguirre No.11 2do piso Naulcalpan.",
+        "email": "info@hazmex.com",
+        "location": [
+            19.4290593,
+            -99.1593039
+        ],
+        "material": "Llantas.",
+        "name": "HAZEMAG, S.A de C.V.",
+        "phone": "5572-9874, 5572-9865, 5572-2280"
+    },
+    {
+        "address": "Av.del Río Ocoyoacac 613 E Barrio De Santa María, Ocoyoacac.",
+        "location": [
+            19.2747595,
+            -99.46535469999999
+        ],
+        "material": "Reciclado de llantas.",
+        "name": "Grupo Recyhul, S.A. de C.V.",
+        "phone": "(722) 288 1091, (722) 288 1081"
+    },
+    {
+        "address": "Campos Elíseos 345 Piso 16, Chapultepec",
+        "location": [
+            19.4286212,
+            -99.2000592
+        ],
+        "material": "Llantas.",
+        "name": "ECOLTEC, S.A. de C.V. CORPORATIVO",
+        "phone": "(55) 5724 0271, 01800 326 5832"
+    },
+    {
+        "address": "Capulín 410 Col Ebanista. Chimalhuacán.",
+        "location": [
+            28.451853,
+            -16.28128
+        ],
+        "material": "Equipo de cómputo obsoleto.",
+        "name": "Multiservicio Empresarial.",
+        "phone": "(55) 5852 7765, (55) 3046 8320"
+    },
+    {
+        "address": "Carretera a Morelia 542 San Isidro, Acámbaro.",
+        "location": [
+            26.0684505,
+            -98.3373591
+        ],
+        "material": "Llantas usadas.",
+        "name": "Llantas y Servicios",
+        "phone": "(417) 172 2700"
+    },
+    {
+        "address": "Parral poniente 1807 Col. Loma Bonita, León. PLANTA Carretera León – San Felipe Km. 43 El llano, San Felipe.",
+        "location": [
+            21.117228,
+            -101.6975744
+        ],
+        "material": "Llantas.",
+        "name": "Neumáticos de Caucho Reciclados, S.A. de C.V.",
+        "phone": "(477)7071 314"
+    },
+    {
+        "address": "Gómez Farías 1142 Guadalajara",
+        "location": [
+            25.5405472,
+            -103.469532
+        ],
+        "material": "Llantas.",
+        "name": "Ricardo Martínez Navarro",
+        "phone": "(33) 3345 1641"
+    },
+    {
+        "address": "Alambique 3040 Entre Oleoducto y Barroteran Álamo Industrial",
+        "location": [
+            13.7224159,
+            -88.9362799
+        ],
+        "material": "Llantas",
+        "name": "Salvador Delgado Franco",
+        "phone": "(33) 3666 2383"
+    },
+    {
+        "address": "Ocoyoacac, Estado de México",
+        "location": [
+            19.2747595,
+            -99.46535469999999
+        ],
+        "material": "Llantas Good Year.",
+        "name": "Grupo Recyhul, S.A. de C.V.",
+        "phone": "(722) 2881 090"
+    },
+    {
+        "address": "José maría Marroquí 129 San Mateo Oztacatipan, Toluca.",
+        "location": [
+            19.330897,
+            -99.6101801
+        ],
+        "material": "Metales, papel, cartón y otros.",
+        "name": "Insumos Reciclables, S.A. de C.V.",
+        "phone": "(722) 210 0589"
+    },
+    {
+        "address": "Urawa 111, Col. Progreso, Toluca.",
+        "location": [
+            19.2794741,
+            -99.6374795
+        ],
+        "material": "Plásticos, cartón, metales, tetrapak, papel, etc.",
+        "name": "Mercado de Reciclado",
+        "phone": "(722) 270 1940"
+    },
+    {
+        "address": "Lindavista s/n, Col. La Joya Tenango del Valle.",
+        "location": [
+            19.0954531,
+            -99.58859369999999
+        ],
+        "material": "Fierro, cartón, metales, madera, plásticos, destrucciones fiscales.",
+        "name": "DIBASA",
+        "phone": "(717)144 2154, (717)174 4211, (717)174 4161"
+    },
+    {
+        "address": "Puerto de San Blas 24, San Jerónimo Chicahualco, Toluca.",
+        "location": [
+            19.2814261,
+            -99.5964758
+        ],
+        "material": "Cartón, plásticos, metales, chatarra.",
+        "name": "Reciclados BTHOM",
+        "phone": "(722) 211 4687"
+    },
+    {
+        "address": "2da Cerrada Cartagena Parque Industrial Cartagena, Tultepec.",
+        "location": [
+            19.4544961,
+            -99.10193319999999
+        ],
+        "material": "Plástico, metales, urea, madera, cartón, papel.",
+        "name": "Reciaztec Internacional, S.A. de C.V..",
+        "phone": "(55) 5888 4038"
+    },
+    {
+        "address": "Prol. 2 de marzo 194, Santiaguito Texcoco.",
+        "email": "rirsa@infinitum.com.mx",
+        "location": [
+            19.5111282,
+            -98.8793223
+        ],
+        "material": "PET, polietileno de alta densidad (2) , cartón, papel, vidrio, metales.",
+        "name": "Reciclables Ruyadavi Industriales",
+        "phone": "(59) 5955 9296"
+    },
+    {
+        "address": "Av. Anselmo Quintero 4, Tolteca.",
+        "material": "Desperdicio textil (recortes, fibras, estopas, borras).",
+        "name": "Retazotex, S.A. de C.V.",
+        "phone": "(59) 5955 1380"
+    },
+    {
+        "address": "Av. Anenecuilco 112, Emiliano Zapata Celaya.",
+        "location": [
+            20.5387357,
+            -100.8026183
+        ],
+        "material": "Metales, papel, cartón, plásticos.",
+        "name": "Distribuidora de Desperdicios",
+        "phone": "(461) 6130 569"
+    },
+    {
+        "address": "Paseo del Moral 106 Piso 2 int B, Col Jardines del Moral, León.",
+        "location": [
+            21.1459077,
+            -101.6903292
+        ],
+        "material": "Papel, cartón, plásticos, metales, madera.",
+        "name": "Lyrba Residuos Industriales",
+        "phone": "(477) 217 5818"
+    },
+    {
+        "address": "Blvd. Jorge Vértiz Campero 1817 Col. San Pedro Plus, León.",
+        "location": [
+            21.1300388,
+            -101.626422
+        ],
+        "material": "PET, polietileno, fierro, papel, cartón, periódico, metales.",
+        "name": "Fibramet",
+        "phone": "(477) 711 4049"
+    },
+    {
+        "address": "Carretera Guanajuato Silao Col. San José de la Luz, Guanajuato.",
+        "location": [
+            20.9562771,
+            -101.317702
+        ],
+        "material": "Papel, cartón, metales.",
+        "name": "Reciclados San José",
+        "phone": "(473) 731 8088"
+    },
+    {
+        "address": "Carretera Celaya Salvatierra 77 Santa maría del Refugio, Arreguín de Abajo",
+        "location": [
+            20.448567,
+            -100.805654
+        ],
+        "material": "Gas refrigerante.",
+        "name": "Ecofrigo",
+        "phone": "(461) 618 2356"
+    },
+    {
+        "address": "Lib Sur 305 s/n, Col del Sol, Covadonga.",
+        "location": [
+            32.458708,
+            -114.7208631
+        ],
+        "material": "Cartón, papel, PET, fierro, aluminio.",
+        "name": "Reciclajes San Luis",
+        "phone": "(468) 688 6502"
+    },
+    {
+        "address": "Blvd. José María Morelos  Esq. Prado la Florida Rancho La Florida, León.",
+        "location": [
+            21.1458243,
+            -101.6761993
+        ],
+        "material": "Papel y metales, PET, polietileno de alta densidad.",
+        "name": "Reciclables de León",
+        "phone": "(477) 781 0727"
+    },
+    {
+        "address": "Carretera Silao Guanajuato, Centro.",
+        "location": [
+            21.0140128,
+            -101.2670675
+        ],
+        "material": "Residuos industriales.",
+        "name": "Limpieza y Reciclados del Bajío",
+        "phone": "(472) 722 9754, (472) 722 2797"
+    },
+    {
+        "address": "Sierra Martinez Camino Alfaro San Pedro Plus, León.",
+        "material": "Cartón, lamina, Chatarra, PET y archivo, muerto.",
+        "name": "Jorge Ignacio Quetzalcoatl de",
+        "phone": "(477) 711 4955"
+    },
+    {
+        "address": "Estambre 147 Col. 10 de Mayo, León.",
+        "location": [
+            21.0725865,
+            -101.6265728
+        ],
+        "material": "PET, cartón, fierro, metales en general.",
+        "name": "Martínez Ortiz Teresita",
+        "phone": "(477) 759 3148"
+    },
+    {
+        "address": "Av. Insurgentes 3335, Centro.",
+        "location": [
+            21.4509685,
+            -104.8166392
+        ],
+        "material": "Fierro, plástico, cartón.",
+        "name": "Recicla Ambiente, S.A. de C.V.",
+        "phone": "(462) 625 9884"
+    },
+    {
+        "address": "Emiliano Zapata 103, Bellavista Acapulco.",
+        "location": [
+            16.8636633,
+            -99.90836600000002
+        ],
+        "material": "Archivo muerto, papel, cartón, plásticos, bolsas.",
+        "name": "Integrare",
+        "phone": "(744) 482 2225"
+    },
+    {
+        "address": "Reciclados Guadalajara Héctor Trejo Rosario 11, Col. La Duraznera Tlaquepaque.",
+        "location": [
+            25.684824,
+            -100.471432
+        ],
+        "material": "Papel, cartón, revistas, periódico, plásticos, bolsas de plástico, PET, metales Servicio a domicilio a escuelas, plazas, oficinas, talleres, hogar.",
+        "name": "Reciclamex",
+        "phone": "01 33 36 89 02 65, 01 33 11 87 98 78, Cel. 33 12 36 48 42"
+    },
+    {
+        "address": "Símbolos Patrios 1918, Guadalajara.",
+        "location": [
+            20.614832,
+            -103.2778717
+        ],
+        "material": "Papel, cartón, plásticos, metales.",
+        "name": "Reciclados GDL Mexico",
+        "phone": "(331) 187 9878, 044 333 35 70 99 91"
+    },
+    {
+        "address": "Av. Aviación 6319 Entre Ocampo y Av. Inglaterra.",
+        "location": [
+            20.7321081,
+            -103.4991623
+        ],
+        "material": "Scrap electrónico, chatarra, plástico, cartón, madera.",
+        "name": "Allied Electonic Recovery de México, S. de R.L. de C.V.",
+        "phone": "(33) 3673 6581"
+    },
+    {
+        "address": "San Alfonso 6",
+        "location": [
+            -33.4505087,
+            -70.676722
+        ],
+        "material": "Papel, cartón, plástico, aluminio, cobre, ferrita y acero.",
+        "name": "MET Solutions, S.A. de C.V.",
+        "phone": "(33) 3684 3020"
+    },
+    {
+        "address": "Hojalateros 5948.",
+        "email": "pympsa@hotmail.com",
+        "location": [
+            24.0597197,
+            -104.6029553
+        ],
+        "material": "madera, chatarra.",
+        "name": "Productos y Materiales Plásticos, S.A. de C.V.",
+        "phone": "(33) 1379 8984"
+    },
+    {
+        "address": "Carretera las Palmas 2520 Ixtapa",
+        "location": [
+            20.699507,
+            -105.2363885
+        ],
+        "material": "Aluminio, cobre, bronce, lamina, chatarra, papel, cartón, plástico,",
+        "name": "Láminas y Reciclados de Occidente, S.A. de C.V.",
+        "phone": "(33) 3110 1218"
+    },
+    {
+        "address": "Anillo Periférico Sur 51 Col. El Briseño, Zapopan.",
+        "location": [
+            20.6110054,
+            -103.4180874
+        ],
+        "material": "Papel, cartón, periódico, revistas, metales, vidrio, plástico, madera, unicel, desperdicio textil, poliuretano, materia orgánica.",
+        "name": "Absolut Recycle",
+        "phone": "(33) 3694 6054"
+    },
+    {
+        "address": "S. de R.L. de C.V. ECOLE Granaderos 5311, Arcos de Guadalupe, Zapopan.",
+        "location": [
+            20.644577,
+            -103.437932
+        ],
+        "material": "Manejo integral de residuos. Papel, cartón, plásticos, metales.",
+        "name": "Ecología Empresarial,",
+        "phone": "(33) 3343 8844"
+    },
+    {
+        "address": "Hércules 2538, Guadalajara.",
+        "location": [
+            20.6646433,
+            -103.3811946
+        ],
+        "material": "Logimorphics se dedica a la recolección gratuita de material reciclable en escuelas, negocios y grupos organizados de la sociedad. Recolectamos: papel, cartón, PET, PEAD, aluminio, chatarra, vidrio, aparatos electrónicos, etcétera.",
+        "name": "Logimorphics",
+        "phone": "(33) 3122 9740"
+    },
+    {
+        "address": "Paseo de las Lomas 6353 Volcán de colli.",
+        "location": [
+            20.6639514,
+            -103.4524028
+        ],
+        "material": "Destrucción de material confidencial dentro de la empresa. Documentos, archivo muerto, inventarios defectuosos, documentos electrónicos, etc.",
+        "name": "On Site Destrucción México",
+        "phone": "(55) 5356 9653"
+    },
+    {
+        "address": "Occidente, S.A. de C.V. Mazatlán 555, Tonalá.",
+        "email": "casillas_recicladosreco@yahoo.com.mx",
+        "material": "Cartón, plástico, madera, chatarra, scrap, aluminio.",
+        "name": "Reciclado Impresas Casillas",
+        "phone": "(33) 1187 0035"
+    },
+    {
+        "address": "Calz. De los Cipreses 245.",
+        "location": [
+            23.1932381,
+            -102.8535881
+        ],
+        "material": "Acopio de chatarra y cartón.",
+        "name": "Grupo Myrethi, S.A. de C.V.",
+        "phone": "(33) 3627 1444"
+    },
+    {
+        "address": "Ignacio Allende 11 Km 1.5 carretera Aotonilquillo – San Juan",
+        "location": [
+            20.2977288,
+            -103.1926834
+        ],
+        "material": "Aluminio, papel, bagazo, madera, metal, textil, vidrio, plástico, scrap.",
+        "name": "Servicios Integrales en el Manejo del Ambiente, S. de R.L. de C.V.",
+        "phone": "(376) 737 22 40"
+    },
+    {
+        "address": "Periférico Poniente 85, Guadalajara.",
+        "location": [
+            20.719811,
+            -103.3148567
+        ],
+        "material": "Destrucciones y Reciclados",
+        "name": "Láminas y Reciclados de Occidente, S.A. de C.V.",
+        "phone": "(33) 3110 1218"
+    },
+    {
+        "address": "Adolf Bhorn J 1475 Col Santa Cruz del Valle Tlajomulco de Zúñiga",
+        "location": [
+            20.5536828,
+            -103.3599009
+        ],
+        "material": "Destrucción y reciclado de material confidencial: material electrónico de Scrap; Inventarios Equipo electrónico en general ; Computadoras, impresoras, equipo de producción, equipo de oficinas; Empaque y embalajes Plástico, cartón, lámina, chatarra, tarimas, papel, folletos.",
+        "name": "Industriales Rubert, S.A. de C.V.",
+        "phone": "(33)3601 2067"
+    },
+    {
+        "address": "Anillo Periférico Sur 1588 San Martín de las Flores, Guadalajara.",
+        "location": [
+            20.5892139,
+            -103.3238401
+        ],
+        "material": "Papel, cartón, plástico, madera, chatarra, vidrio.",
+        "name": "Avangard de México, S.A. de C.V.",
+        "phone": "(33) 3697 0127"
+    },
+    {
+        "address": "Periferico Sur 6400 Int G-2 Artesanos Industrial",
+        "location": [
+            25.7400189,
+            -100.2179278
+        ],
+        "material": "Papel, cartón, plástico, madera, chatarra, scrap.",
+        "name": "Technology Conservation Group México, S.A. de C.V.",
+        "phone": "(33) 3914 4718"
+    },
+    {
+        "address": "Bronce 512, Los Minerales, Guadalajara.",
+        "location": [
+            20.5622614,
+            -103.2944001
+        ],
+        "material": "Papel, cartón, plástico, madera, chatarra y orgánicos.",
+        "name": "Salg Servicios de Aseo y Limpieza en General, S.A. de C.V.",
+        "phone": "(33) 3146 0375"
+    },
+    {
+        "address": "Privada San Antonio 813 Micaelita, Guadalajara.",
+        "location": [
+            20.659895,
+            -103.309643
+        ],
+        "material": "Papel, cartón, plástico, chatarra y vidrio.",
+        "name": "Servicios Industriales Sarre, S.A. de C.V.",
+        "phone": "(33) 36061321"
+    },
+    {
+        "address": "Vicente Guerrero 39, Toluquilla, Guadalajara. (33) 3601 0279",
+        "location": [
+            20.5784324,
+            -103.3709921
+        ],
+        "material": "Cartón, plástico y orgánicos.",
+        "name": "J. Ángel Maravilla Ramírez"
+    },
+    {
+        "address": "Carretera a San Sebastián 70 Santa María Tequepexpan Guadalajara.",
+        "location": [
+            26.056117,
+            -98.3644264
+        ],
+        "material": "Papel, cartón, plástico, madera.",
+        "name": "Soluciones Integrales de Reciclado, S.A. de C.V.",
+        "phone": "(33) 3694 0642"
+    },
+    {
+        "address": "Carretera Ixtlahuacán Santa Cruz de la Soledad Km. 3.5 Predio la Ozotera.",
+        "location": [
+            20.5102502,
+            -97.4146932
+        ],
+        "material": "Papel, cartón, plástico, chatarra.",
+        "name": "Promotora ambiental de la Laguna, S.A. de C.V.",
+        "phone": "(33) 1008 3026"
+    },
+    {
+        "address": "Eugenio Becerra 361, Olímpica.",
+        "location": [
+            20.3764776,
+            -102.9211795
+        ],
+        "material": "Papel, cartón, plástico, madera y chatarra.",
+        "name": "Fernando Martín Rodríguez Gaitan",
+        "phone": "(391) 921 0815"
+    },
+    {
+        "address": "Carretera a el Verde 1496 Loma Bonita.",
+        "location": [
+            19.2652534,
+            -98.49240460000001
+        ],
+        "material": "Papel, cartón, plástico, chatarra, madera, vidrio y costales.",
+        "name": "Soporte Empresarial en Reciclado, S.A. de C.V.",
+        "phone": "(33) 3697 1359"
+    },
+    {
+        "address": "Calzada Juan Lis Preciado 2000 Los Robles.",
+        "location": [
+            20.7504549,
+            -103.4199165
+        ],
+        "material": "Papel, cartón, plástico, madera, chatarra, scrap.",
+        "name": "3R´S de México",
+        "phone": "(33) 3365 0415"
+    },
+    {
+        "address": "Carretera a el Verde Km. 4.1 Col. El Verde, El Salto Jalisco.",
+        "location": [
+            20.5550171,
+            -103.2911216
+        ],
+        "material": "Cartón, papel, plásticos, PET, madera y metales no ferrosos.",
+        "name": "Reciclajes la Curva, S.A. de C.V.",
+        "phone": "(33)3697 1321"
+    },
+    {
+        "address": "Allende 12, Zapopan.",
+        "location": [
+            20.6207464,
+            -103.4541788
+        ],
+        "material": "Papel, cartón, plásticos, fierro.",
+        "name": "Recicladora Valdez",
+        "phone": "(33) 3188 9690, (33) 3854 5028"
+    },
+    {
+        "address": "San Juan 1461, Col. Ciudad Granja Zapopan.",
+        "location": [
+            20.6707355,
+            -103.4493686
+        ],
+        "material": "Plásticos, papel, cartón.",
+        "name": "SIMEC Sistemas Nacionales Ecológicos",
+        "phone": "(33) 3682 9665, (33) 1136 1737"
+    },
+    {
+        "address": "Cipreses 245, Ciudad Granja Zapopan.",
+        "location": [
+            20.6847222,
+            -103.4511168
+        ],
+        "material": "Chatarra, papel, cartón.",
+        "name": "Gutiérrez Sánchez Be",
+        "phone": "(33) 3627 1444"
+    },
+    {
+        "address": "Juan de la Barrera 6564, Tlaquepaque.",
+        "location": [
+            20.5916893,
+            -103.3333958
+        ],
+        "material": "Papel, cartón, plásticos.",
+        "name": "Reciclados Industriales FAGSA, S.A. de C.V.",
+        "phone": "(33) 3606 0214"
+    },
+    {
+        "address": "Ganaderos 5311, Col. Arcos Guadalupe, Guadalajara.",
+        "location": [
+            20.6644529,
+            -103.4299846
+        ],
+        "material": "fraccionamientos.",
+        "name": "Ecología Empresarial",
+        "phone": "(33) 3343 8844, (33) 1028 5599"
+    },
+    {
+        "address": "Clavel 337, Col. Tonalá, Guadalajara.",
+        "location": [
+            20.6737325,
+            -103.2523997
+        ],
+        "material": "Tarimas, rejas de madera y cartón usado para empaque.",
+        "name": "Compra y Venta de Materiales para Empaque Becerra",
+        "phone": "(33) 3683 3983"
+    },
+    {
+        "address": "Agua Azul 2024, Col. Florida, Zapopan.",
+        "location": [
+            20.5981373,
+            -103.4243466
+        ],
+        "material": "Destrucción de inventarios, tarimas, madera, cartón, papel, plástico, aluminio, fierro, cobre, scrap electrónico.",
+        "name": "Reciclaje y Control de Residuos Industriales, S.A. de C.V.",
+        "phone": "(33) 1404 2295, (33) 1404 2296, MOVIL: (33)1415-8571"
+    },
+    {
+        "address": "Tlaquepaque.",
+        "location": [
+            34.8622009,
+            -111.7631429
+        ],
+        "material": "Metal, plásticos, papel y cartón.",
+        "name": "Recycla México",
+        "phone": "(33) 3686 9577"
+    },
+    {
+        "address": "Juan de la Berrera 6564 Tlaquepaque.",
+        "location": [
+            20.5916893,
+            -103.3333958
+        ],
+        "material": "Chatarra. Metales, papel, cartón, plásticos",
+        "name": "Reciclados Industriales Fagsa, S.A. de C.V.",
+        "phone": "(33) 3606 0214"
+    },
+    {
+        "address": "Cuautla del Encanto 47 Col. Margarita Maza de Juárez Morelia.",
+        "location": [
+            19.6945783,
+            -101.2522748
+        ],
+        "material": "Papel, PET (1), polietileno de alta densidad (4) chatarra de metal. Recolección a domicilio mínimo 800 kg.",
+        "name": "Bio Fibras Galop",
+        "phone": "31 85 51 01 33"
+    },
+    {
+        "address": "Camino viejo a Tejerías s/n, Uruapan.",
+        "location": [
+            19.4065235,
+            -102.0181248
+        ],
+        "material": "Metales ferrosos y no ferrosos.",
+        "name": "Materiales Reciclables Cupatitzio",
+        "phone": "(452) 5285 514"
+    },
+    {
+        "address": "Cuautla del Encanto 47 Col. Margarita Masa de Juárez, Morelia.",
+        "location": [
+            19.6945783,
+            -101.2522748
+        ],
+        "material": "Papel, aluminio, PET, chatarra.",
+        "name": "Bio fibras Galop",
+        "phone": "(443) 185 5101, (443) 395 7801"
+    },
+    {
+        "address": "Oriente 4 # 950, Ciudad Industrial, Morelia.",
+        "location": [
+            19.7356288,
+            -101.1312086
+        ],
+        "material": "Papel, cartón, vidrio.",
+        "name": "Aceitera la Junta",
+        "phone": "(443) 323 1207"
+    },
+    {
+        "address": "Avenida Defensa Nacional un lado del centro de salud, Pueblo de San Lorenzo, Chiamilpan.",
+        "email": "patronatosananton@hotmail.com",
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas.",
+        "name": "Comunitario Chiamilpan",
+        "phone": "(777) 318 0263, (777)158 7136"
+    },
+    {
+        "address": "J.H. Preciado #302, Ocotepec",
+        "location": [
+            18.9685291,
+            -99.22748539999999
+        ],
+        "material": "Compra venta de cartón, revistas, periódico, metales, aluminio.",
+        "name": "El Primo",
+        "phone": "(777) 382 0802"
+    },
+    {
+        "address": "Privada de la Cruz, Col. Tetela del Monte.",
+        "email": "patronatosananton@hotmail.com",
+        "location": [
+            18.9649778,
+            -99.27161090000001
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas.",
+        "name": "Centro de Acopio Comunitario Tetela del Monte",
+        "phone": "(777) 318 0263, (777) 158 7136"
+    },
+    {
+        "address": "Libertad #102-B, Col. Carolina.",
+        "location": [
+            20.5189759,
+            -100.8415113
+        ],
+        "material": "Compra venta de cartón, periódico y metales (aluminio, cobre, bronce).",
+        "name": "Grupo Trujillo",
+        "phone": "(777) 313 1352"
+    },
+    {
+        "address": "Piñanonas #19, Col. Jacarandas.",
+        "email": "vicky.vaz@hotmail.com",
+        "location": [
+            18.9223137,
+            -99.2213361
+        ],
+        "material": "Recibe PET, plásticos #2, 4 y 5, latas de hojalata y aluminio, papel, cartón, vidrio, pilas venta de composteras y separadores.",
+        "name": "Nuestra Tierra",
+        "phone": "(777) 322 3897"
+    },
+    {
+        "address": "Prolongación Cerezos esq. Callejón del Salto, Col. Sacatierra.",
+        "location": [
+            18.9237553,
+            -99.2452404
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas.",
+        "name": "Sacatierra",
+        "phone": "(044-777)152 7881, (777) 205 0381"
+    },
+    {
+        "address": "J. H. Preciado #112, Col San Antón, Cuernavaca, Mor.",
+        "location": [
+            18.9185722,
+            -99.240621
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas. Todos los días 24 Hrs.",
+        "name": "Centro de Acopio de SAN ANTON",
+        "phone": "(777) 314 3943, (044-777)158 7136"
+    },
+    {
+        "address": "Lomas Blancas s/n Fraccionamiento Lomas Tetela.",
+        "location": [
+            18.9516128,
+            -99.27307429999999
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio (botellas y frascos NO ROTOS).",
+        "name": "Nuevos Chalmeros",
+        "phone": "(044-777) 222 7377, (777) 264 9385."
+    },
+    {
+        "address": "Estado de Morelos #99, Col. La Provinciana.",
+        "location": [
+            18.9287648,
+            -99.2505767
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio (botellas y frascos NO ROTOS).",
+        "name": "Abraham Morales",
+        "phone": "311 8002, (044-777) 136 4234"
+    },
+    {
+        "address": "Calle 10 de enero s/n, local 5, Col Estrada Cajigal (a un costado del Parque Alameda)",
+        "email": "reciclajeflores@hotmail.com",
+        "material": "Compra venta de papel, cartón, revistas, periódico, metales, aluminio, PET, bolsas de polietileno, envases de PEAD.",
+        "name": "Reciclaje Industrial Flores",
+        "phone": "(777) 322 6438"
+    },
+    {
+        "address": "Carr. Cuernavaca Cuautla Km.13.8 Col. Progreso, Jiutepec.",
+        "email": "fernando.fuentes@dicsaonline.com",
+        "location": [
+            18.8816102,
+            -99.1209241
+        ],
+        "material": "Cartón, periódico, PET, PEAD, PEBD, PP, vidrio,metales: aluminio, bronce, fierro.",
+        "name": "Desperdicios Industriales de Cuernavaca DICSA",
+        "phone": "(777) 320 0810, (777) 309 3502"
+    },
+    {
+        "address": "Calle Tabachines No. 2, Esquina Minería, Col. Loma Bonita, Cuernavaca, Mor.",
+        "email": "integrasadecv@gmail.com",
+        "location": [
+            18.8692442,
+            -99.2220162
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio -botellas-.",
+        "name": "INTEGRA, Gestión integral para el manejo de residuos sólidos, S.A. DE C.V.",
+        "phone": "(777) 242 1530, 169 2190 (nextel)"
+    },
+    {
+        "address": "Lauro Ortega Tejalpa, Jiutepec.",
+        "email": "epat_morelos@hotmail.com",
+        "location": [
+            18.9087499,
+            -99.1597922
+        ],
+        "material": "Recibe PET, plásticos #2, latas de hojalata, aluminio, metales ferrosos, papel, cartón, vidrio. No pagan.",
+        "name": "Centro de Acopio Texalpan",
+        "phone": "(777) 320 4914, (044-777) 110-01-46."
+    },
+    {
+        "address": "Calle Miguel Hidalgo No.22, Col. Otilio Montaño.",
+        "email": "porunmoreloslimpio@hotmail.com",
+        "location": [
+            18.8151766,
+            -98.9347571
+        ],
+        "material": "electrodomésticos.",
+        "name": "Por un Morelos Limpio, A.C.",
+        "phone": "(777) 322 9159"
+    },
+    {
+        "address": "Calle 9 Este No. CIVAC, Juitepec.",
+        "email": "pedrodiaz@procivac.com",
+        "location": [
+            18.9184523,
+            -99.172336
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas.",
+        "name": "Centro de Acopio de PROCIVAC",
+        "phone": "(777) 319 1101"
+    },
+    {
+        "address": "Calle Piru #27, Col. Pedregal, Las Fuentes.",
+        "email": "recoloreamorelos@hotmail.com",
+        "material": "Compra de PET, plásticos #2, 4 y 5,latas de hojalata, alumio, papel, cartón, tetrapak, vidrio.",
+        "name": "Recolorea Morelos",
+        "phone": "(777) 319 1019, 044 777 192 8093"
+    },
+    {
+        "address": "Independencia s/n esq. Narciso Mendoza, Jiutepec.",
+        "location": [
+            18.9318385,
+            -99.18341919999999
+        ],
+        "material": "BADIM, Basura y desperdicios",
+        "name": "Recuperadora de Desechos Industriales",
+        "phone": "(777) 516 8420"
+    },
+    {
+        "address": "Calle 4 Este Lote 8 Esq. 46 Nte. CIVAC, Jiutepec.",
+        "email": "badim49@hotmail.com",
+        "location": [
+            18.9173304,
+            -99.16429389999999
+        ],
+        "material": "Servicio de recolección de basura.",
+        "name": "Industriales de Morelos, S.A. de C.V",
+        "phone": "(777) 319 1275, (777) 321 5528"
+    },
+    {
+        "address": "Carretera México – Cuautla Km. 81 Nepantla, Cuautla.",
+        "location": [
+            50.94571699999999,
+            11.6013356
+        ],
+        "material": "Fierro, metales, cartón y otros.",
+        "name": "Industria Sucomo",
+        "phone": "(159) 797 73131"
+    },
+    {
+        "address": "Libertad 102 B, Col. Carolina.",
+        "location": [
+            20.5189759,
+            -100.8415113
+        ],
+        "material": "Cartón, periódico, aluminio, cobre, bronce.",
+        "name": "Grupo Trujillo",
+        "phone": "(777) 313 1352"
+    },
+    {
+        "address": "J.H. Preciado302, Ocotepec.",
+        "location": [
+            18.9685291,
+            -99.22748539999999
+        ],
+        "material": "Cartón, revistas, metales, periódico, aluminio.",
+        "name": "El Primo",
+        "phone": "(777) 382 0802"
+    },
+    {
+        "address": "10 de Enero S/N local 5 Col. Estrada Cajigal (a un costado del parque Alameda).",
+        "material": "Compra venta de papel, cartón, revistas, periódico, metales, aluminio, PET, bolsas de polietileno, envases de PEAD, vidrio y tetrapak.",
+        "name": "Reciclaje Industrial Flores",
+        "phone": "(777) 322 6438"
+    },
+    {
+        "address": "Carretera Cuernavaca – Cuautla Km. 13.8 Col. Progreso, Jiutepec.",
+        "email": "fernando.fuentes@dicsaonline.com",
+        "location": [
+            18.8816102,
+            -99.1209241
+        ],
+        "material": "papel, cartón, vidrio. NO SE PAGAN.",
+        "name": "Desperdicios Industriales de Cuernavaca DICSA",
+        "phone": "(777) 309 3502"
+    },
+    {
+        "address": "Piñanonas 19, Col. Jacarandas.",
+        "email": "vicky.vaz@hotmail.com",
+        "location": [
+            18.9223137,
+            -99.2213361
+        ],
+        "material": "Recibe PET, plásticos #2, 4 y 5, latas de hojalata y aluminio, papel, cartón, vidrio, pilas.Sábado de 11 a 14.",
+        "name": "Nuestra Tierra",
+        "phone": "(777) 322 3897"
+    },
+    {
+        "address": "Lázaro Cárdenas 507, Col. Jiquilpan",
+        "email": "qfbaguirre@hotmail.com",
+        "location": [
+            18.9485465,
+            -99.2404735
+        ],
+        "material": "Centro de acopio de PET, plásticos #2, 4 y 5, latas de hojalata y aluminio, papel, cartón, revistas.",
+        "name": "KEPARKE",
+        "phone": "(777) 313 4848"
+    },
+    {
+        "address": "Miguel Hidalgo 22, Col. Otilio Montaño Cuernavaca.",
+        "email": "porunmoreloslimpio@hotmail.com",
+        "location": [
+            18.929117,
+            -99.175837
+        ],
+        "material": "electrodomésticos.",
+        "name": "Por un Morelos Limpio A.C.",
+        "phone": "(777) 322 9159"
+    },
+    {
+        "address": "Calle 4 Este Lote 8 Esq. 46 Nte. CIVAC, Jiutepec",
+        "email": "badim49@hotmail.com",
+        "location": [
+            18.9173304,
+            -99.16429389999999
+        ],
+        "material": "Servicio de recolección de basura, compraventa de chatarra, metales, cartón, papel aluminio, plásticos PET y HDPE, etc.",
+        "name": "Industriales de Morelos, S.A. de C.V.",
+        "phone": "(777) 319 1275, (777) 321 5528"
+    },
+    {
+        "address": "Paseo de Tulipanes #2, Col. Bugambilias, Jiutepec.",
+        "location": [
+            18.9152185,
+            -99.18548090000002
+        ],
+        "material": "Compra venta de cartón, papel, metales, fierro, desperdicios industriales.",
+        "name": "Desperdicios Industriales Román",
+        "phone": "(777) 320 4550"
+    },
+    {
+        "address": "Este #205-C, CIVAC, Jiutepec.",
+        "location": [
+            18.9149,
+            -99.1733
+        ],
+        "material": "Compra venta de papel, cartón, plástico, metales y desperdicios industriales.",
+        "name": "Bodegas de Morelos, S.A. de C.V",
+        "phone": "(777) 321 7710"
+    },
+    {
+        "address": "Cuauhnáhuac 1812, Col. Tirianes, Jiutepec.",
+        "location": [
+            18.9078039,
+            -99.17992339999999
+        ],
+        "material": "Compra venta de papel, cartón, plástico, metales y desperdicios industriales.",
+        "name": "Desperdicios Industriales CIVAC",
+        "phone": "(777) 319 2261"
+    },
+    {
+        "address": "P. Margaritas #4, Amp. Bugambilias, Jiutepec.",
+        "location": [
+            18.9112605,
+            -99.18664059999999
+        ],
+        "material": "Compra venta de desperdicios industriales, cartón, metales, plásticos y chatarra.",
+        "name": "Desperdicios Industriales Segura",
+        "phone": "(777) 320 1513"
+    },
+    {
+        "address": "Privada Mango #1 (entrada al Salto de San Antón), Cuernavaca.",
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas.",
+        "name": "Centro de Acopio del Salto de San Antón"
+    },
+    {
+        "address": "J. H. Preciado #112, Col San Antón, Cuernavaca.",
+        "location": [
+            18.9185722,
+            -99.240621
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas. Sólo tardes de 4:00 a 6:00 p.m",
+        "name": "Centro de Acopio de San Antón",
+        "phone": "(777) 314 3943, (044-777)158 7136"
+    },
+    {
+        "address": "Sebastián Lerdo de Tejada esquina Juan de Dios Peza.",
+        "location": [
+            4.532405799999999,
+            -74.11846369999999
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, latas de hojalata y aluminio.",
+        "name": "Centro de Acopio “Altavista”"
+    },
+    {
+        "address": "Calle Tabachines No. 2, Esquina Minería,Col. Loma Bonita, Cuernavaca.",
+        "location": [
+            18.8692442,
+            -99.2220162
+        ],
+        "material": "cartón, tetrapak, metales, hojalata, aluminio, vidrio), Aceite de cocina vegetal y animal usado. Aparatos electrónicos, teléfonos celulares.",
+        "name": "Recicladora Vizcarra",
+        "phone": "(777) 361 0647, (777) 361 0211"
+    },
+    {
+        "address": "Calle 9 Este No. 29, casi Esquina Andador Central, CIVAC, Juitepec.",
+        "email": "pedrodiaz@procivac.com",
+        "location": [
+            18.9171892,
+            -99.1708074
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio y pilas agotadas.",
+        "name": "Centro de Acopio de PROCIVAC",
+        "phone": "(777) 319 1101"
+    },
+    {
+        "address": "Calle Río Tamazula No. 25 Col. Vista Hermosa.",
+        "email": "ame.ambiental@gmail.com",
+        "location": [
+            18.9319704,
+            -99.21542129999999
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, bolsas), papel, cartón, tetrapak, metales, hojalata, aluminio, vidrio, pilas agotadas, computadoras, celulares.",
+        "name": "Centro de acopio Iglesia de Vista Hermosa",
+        "phone": "(777) 316 6023"
+    },
+    {
+        "address": "Carretera Mexico-Oaxaca Nº 708, Cuautla, Mor. (salida de Cuautla rumbo",
+        "location": [
+            18.7970908,
+            -98.9417981
+        ],
+        "material": "Cartón y papel, fierro, aluminio, vidrio, PET (plástico #1), Plásticos #2,3,4 y 5) nylon.",
+        "name": "Comercializadora El 708",
+        "phone": "(01-735) 352-90-98"
+    },
+    {
+        "address": "Otilio Montaño #44 Col. Antonio Barona, Cuernavaca.",
+        "location": [
+            18.9491359,
+            -99.19369259999999
+        ],
+        "material": "Acopio de plásticos (PET, polietileno de alta y baja densidad, papel, cartón, tetrapak, metales, hojalata, aluminio, excepto vidrio y bolsas de papitas.",
+        "name": "Antonio Barona",
+        "phone": "(777) 316 8223"
+    },
+    {
+        "address": "Carretera México-Oaxaca No. 1100, Col. Empleado Mpal., Cuautla, Mor.",
+        "location": [
+            18.7990646,
+            -98.9229721
+        ],
+        "material": "Cartón y papel, fierro, aluminio, vidrio, PET (plástico #1), Plásticos #2,3,4 y 5) nylon.",
+        "name": "Reciclaje Ecológico",
+        "phone": "(01-735) 302-31-25 y 26, nextel 102-10-60"
+    },
+    {
+        "address": "Sureño Carranza 17 Esquina Calzada Santa Inés, Col. Ampliación Emiliano Zapata, Cuautla, Mor.",
+        "location": [
+            19.3213133,
+            -98.9152465
+        ],
+        "material": "Cartón y papel, fierro, aluminio, vidrio, PET (plástico #1), Plásticos #2,3,4 y 5) nylon.",
+        "name": "Desperdicios Industriales El Ave Fénix",
+        "phone": "(735) 114-00-16, (045-735) 147-79-27"
+    },
+    {
+        "address": "Luis Echeverría 70, Puente de San Cayetano, Tepic.",
+        "location": [
+            21.4709988,
+            -104.854119
+        ],
+        "material": "Cartón, chatarra, aluminio, cobre, papel,desperdicio industrial.",
+        "name": "Cartonera Guadalajara",
+        "phone": "(311) 211 7255"
+    },
+    {
+        "address": "Opalo 1, Col. El Rubí. Carretera Aguamilpa – Tepic.",
+        "location": [
+            21.479741,
+            -104.8445606
+        ],
+        "material": "Cartón, papel, archivo muerto, revistas, periódico. Aluminio.",
+        "name": "Reciclados Tepic",
+        "phone": "(311) 169 2042, cel 311 1201649, 04433 3570 9991"
+    },
+    {
+        "address": "Montes Apalaches 101 Residencial San Agustín, Garza García.",
+        "location": [
+            25.6526715,
+            -100.3445113
+        ],
+        "material": "Cartón, papel y periódico, Metales (aluminio, cobre y bronce), plásticos, residuos electrónicos.",
+        "name": "Comercial Recicladora S.A. de C.V.",
+        "phone": "(0181) 5000 6155"
+    },
+    {
+        "address": "Mártires de Río Blanco 1431 Col. CROC,Monterrey.",
+        "location": [
+            25.7796428,
+            -100.3747065
+        ],
+        "material": "Cartón, plástico y tarimas. Residuos Industriales Multiquim",
+        "name": "Reciclados de Alta Calidad, S.A. de C.V.",
+        "phone": "8311 2850, 8391 1001"
+    },
+    {
+        "address": "Lázaro Cárdenas 2400 Pontiente Edif. Losoles B21, San Pedro Garza García.",
+        "location": [
+            29.1111472,
+            -110.97807
+        ],
+        "material": "Residuos peligrosos.",
+        "name": "RIMSA",
+        "phone": "(81)8152 2100, 01800 VERDE 00"
+    },
+    {
+        "address": "Guadalupe, Nuevo León.",
+        "location": [
+            25.6775595,
+            -100.2596935
+        ],
+        "material": "Recolección de residuos sólidos urbanos no peligrosos. Se instalan contenedores para residuos sin clasificar y se recogen periódicamente para canalizarlos a su reciclado o disposición final.Servicio con costo.",
+        "name": "Servicios de Tecnología Ambiental, S.A. de C.V.",
+        "phone": "(81) 83 643 898"
+    },
+    {
+        "address": "Ruiz Cortinez km 2 # 150 Fracc. Villa San Antonio, Guadalupe.",
+        "location": [
+            25.7044985,
+            -100.2370649
+        ],
+        "material": "Metales, cartón, periódico.",
+        "name": "Reutiliza de Monterrey, S. de R.L. de C.V.",
+        "phone": "(818) 3271 355"
+    },
+    {
+        "address": "Benito Juárez 902 Col. Centro, Doctor González.",
+        "location": [
+            19.2871151,
+            -98.4293182
+        ],
+        "material": "Cartón y plástico.",
+        "name": "Reynol Martínez Gutiérrez",
+        "phone": "82 5241 0021"
+    },
+    {
+        "address": "Espátula 5726 Col. Valle Verde, 2ª Sección. Monterrey.",
+        "material": "Cartón y plástico.",
+        "name": "José Javier Flores Serrano",
+        "phone": "8401 2775"
+    },
+    {
+        "address": "Camino Real a Matamoros 674 A Col. Jesús María, Pesquería.",
+        "material": "Cartón, tarimas de madera y metales.",
+        "name": "José Juan Reyes Villegas",
+        "phone": "(44 81) 1010 3051"
+    },
+    {
+        "address": "Avenida C 101 Fracc. Central de Carga San Nicolás de los Garza.",
+        "location": [
+            25.709486,
+            -100.2385925
+        ],
+        "material": "PET, cartón, papel, chatarra de fierro, cobre y chatarra de aluminio.",
+        "name": "ABC Metales Siderúrgicos, S.A. de C.V.",
+        "phone": "18 11 61 09 491"
+    },
+    {
+        "address": "Av. del Acero 102 Parque Industrial, Escobedo.",
+        "location": [
+            25.8082147,
+            -100.3510145
+        ],
+        "material": "Plásticos, cartón, tarimas de madera y textiles.",
+        "name": "Ecoquim S.A. de C.V.",
+        "phone": "8220 0500"
+    },
+    {
+        "address": "8 de Mayo 3540 Conjunto Habitacional Aztlán, Monterrey.",
+        "location": [
+            25.7279941,
+            -100.3475978
+        ],
+        "material": "polietileno.",
+        "name": "María Guadalupe Peña García",
+        "phone": "8347 8552"
+    },
+    {
+        "address": "Rubén García 114, Apodaca.",
+        "location": [
+            25.7926996,
+            -100.2012146
+        ],
+        "material": "Cinta de polipropileno, plástico y metales.",
+        "name": "Comercializadora Alfynin, S.A. de C.V.",
+        "phone": "1523 6682"
+    },
+    {
+        "address": "Carretera a Monclava Km. 4.5 Col. Andrés Caballero, Escobedo.",
+        "material": "Metales ferrosos y no ferrosos, cartón, plástico, tarimas de madera.",
+        "name": "Compañía Internacional de Metales, S.A. de C.V.",
+        "phone": "8239 0800"
+    },
+    {
+        "address": "Mártires de Río Blanco 907 Col. Constituyentes de Querétaro 4º Sector, San Nicolás de los Garza.",
+        "location": [
+            25.7132157,
+            -100.2643811
+        ],
+        "material": "Metales (cobre, bronce, aluminio y chatarra), cartón, tarimas de madera y plástico.",
+        "name": "Amado Garza Godoy",
+        "phone": "8394 6048"
+    },
+    {
+        "address": "Av. Raúl Salinas Lozano 593 Fomerrey 9, Escobedo.",
+        "location": [
+            25.788548,
+            -100.3218481
+        ],
+        "material": "Metales (cobre, bronce, aluminio y chatarra) papel, cartón y periódico.",
+        "name": "Carlos López Esquivel",
+        "phone": "8397 1543"
+    },
+    {
+        "address": "Av. de las Industrias 400 Parque Industrial, Escobedo.",
+        "location": [
+            25.8000143,
+            -100.3497315
+        ],
+        "material": "Cobre, aluminio, chatarra, tarimas de madera y cartón.",
+        "name": "Zimmer, S.A. de C.V.",
+        "phone": "8748 4000"
+    },
+    {
+        "address": "Zaragoza 3431, Col. del Norte, Monterrey.",
+        "location": [
+            25.7114838,
+            -100.3046829
+        ],
+        "material": "Plásticos, cartón, tarimas de madera y metales.",
+        "name": "Scrap y reciclados Ro – Lo, S.A. de C.V.",
+        "phone": "8331 5317"
+    },
+    {
+        "address": "Priv, Virrey de Guemez 126 A Rincodana Colonial,Apodaca.",
+        "location": [
+            25.8080031,
+            -100.1964701
+        ],
+        "material": "Cartón, plástico, fierro, aluminio.",
+        "name": "Fernando González Ríos",
+        "phone": "8386 5785"
+    },
+    {
+        "address": "Nicolás Bravo 105 Col. Los Altos, Escobedo.",
+        "material": "Cartón, chatarra, polietileno, cobre y metales en general.",
+        "name": "María Leija Galindo",
+        "phone": "8384 4915"
+    },
+    {
+        "address": "Priv. Abelardo Lozano 205 A Col. San Martín Hidalgo.",
+        "location": [
+            25.9779363,
+            -100.4639183
+        ],
+        "material": "Tarimas de madera.",
+        "name": "Productos Forestales del Bosque S.A. de C.V.",
+        "phone": "182 928 61 157"
+    },
+    {
+        "address": "Bronce 9326, Ciudad Industrial Mitras,García.",
+        "location": [
+            25.789846,
+            -100.446645
+        ],
+        "material": "Cartón, plástico, tarimas de madera, metales y vidrio.",
+        "name": "Asesoría y Servicios Ecológicos Integrales S.A. de C.V.",
+        "phone": "8381 0667"
+    },
+    {
+        "address": "Vía Caserta 448 Fracc. Joyas de Anáhuac,Escobedo.",
+        "location": [
+            25.7797058,
+            -100.3117043
+        ],
+        "material": "Tarimas de madera y cartón.",
+        "name": "Marcial Iracheta Rodríguez",
+        "phone": "8307 3657"
+    },
+    {
+        "address": "Papel S.A. de C.V. Allende 210, Col. Zacatecas,Pesquería.",
+        "location": [
+            19.4771495,
+            -99.2123979
+        ],
+        "material": "Cartón y tarimas de madera.",
+        "name": "Recicladora y Comercializadora de",
+        "phone": "182 524 40 542"
+    },
+    {
+        "address": "Manuel L. Barragán 6500 local 2 Col. Valle de Anáhuac, San Nicolás de los Garza.",
+        "location": [
+            19.4346591,
+            -99.1811015
+        ],
+        "material": "Cartón, plástico de emplayar y PET.",
+        "name": "Innovative de México S.A. de C.V.",
+        "phone": "8332 5157"
+    },
+    {
+        "address": "Av. San Nicolás 835 Arboledas de San Jorge, San Nicolás de los Garza.",
+        "location": [
+            25.7431128,
+            -100.2883371
+        ],
+        "material": "Cartón, papel, PET y metales no ferrosos.",
+        "name": "Comercial Recicladora S.A. de C.V.",
+        "phone": "5000 7600"
+    },
+    {
+        "address": "Carretera Monterrey Colombia Km. 10.5 Salinas Victoria.",
+        "location": [
+            25.8583836,
+            -100.2924782
+        ],
+        "material": "aluminio y vidrio.",
+        "name": "Planta Clasificadora de Residuos",
+        "phone": "2020 8900"
+    },
+    {
+        "address": "Antiguo Camino a Santo Domingo 124 Col. García Mireles, Apodaca.",
+        "location": [
+            25.7597631,
+            -100.2450255
+        ],
+        "material": "Chatarra, cartón, papel, periódico, cobre, aluminio, botella retornable de plástico, vidrio.",
+        "name": "Edith Deyanira Adame Salinas",
+        "phone": "1493 9537"
+    },
+    {
+        "address": "Barbecho 950 Col. Bosques de Lindavista, Guadalupe.",
+        "location": [
+            25.7178999,
+            -100.2133803
+        ],
+        "material": "Chatarra, papel, cartón, archivo, periódico, cobre, aluminio, tarimas de madera.",
+        "name": "Luz Almendra González Ruvalcaba",
+        "phone": "8031 2589"
+    },
+    {
+        "address": "Eduardo Lives 201 Col. Nuevo Periférico, San Nicolás de los Garza.",
+        "location": [
+            25.7518465,
+            -100.300691
+        ],
+        "material": "Chatarra, cartón, papel, archivo, madera y metales.",
+        "name": "Francisco Dagoberto Cantú Escamilla",
+        "phone": "8352 8910"
+    },
+    {
+        "address": "5 de Febrero 436 Col. Independencia, Monterrey.",
+        "location": [
+            25.6599718,
+            -100.3121026
+        ],
+        "material": "Cartón, polietileno, tarimas de madera.",
+        "name": "Comercializadora Peña Garza, S.A. de C.V.",
+        "phone": "1257 8987"
+    },
+    {
+        "address": "Privada Benito Juárez 104 A Col. Ex Hacienda el Canadá, Escobedo.",
+        "location": [
+            25.7820017,
+            -100.2895647
+        ],
+        "material": "Tarimas de madera y fierro.",
+        "name": "Maderas y Tarimas El Canadá, S.A. de C.V.",
+        "phone": "1350 0568"
+    },
+    {
+        "address": "Estanislao Martínez Lara 113 Parque Industrial Milimex, Apodaca.",
+        "location": [
+            25.7530147,
+            -100.1979182
+        ],
+        "material": "Electrónicos, madera y todo tipo de plásticos.",
+        "name": "Glezco Plásticos, S.A. de C.V.",
+        "phone": "8452 7490"
+    },
+    {
+        "address": "Morelos 120 Col. Centro, Guadalupe.",
+        "location": [
+            22.7486611,
+            -102.5193547
+        ],
+        "material": "Cartón, plástico, tarimas de madera, fierro y metales en general.",
+        "name": "Evangelina Elizondo Casanova",
+        "phone": "8191 060"
+    },
+    {
+        "address": "Cerro del Vigia 108 Provileón, Escobedo.",
+        "location": [
+            25.7884916,
+            -100.3381783
+        ],
+        "material": "Tarimas recicladas, chatarra y metales en general.",
+        "name": "Isaac Elizondo Guerrero",
+        "phone": "8384 6046"
+    },
+    {
+        "address": "Autopartes, S.A. de C.V. Av. Bernardo Reyes 4329 Col. Niño Artillero, Monterrey.",
+        "location": [
+            25.7306961,
+            -100.3322058
+        ],
+        "material": "Cajas de cartón y tarimas de madera.",
+        "name": "Comercializadora de Rodamientos y",
+        "phone": "8125 2400"
+    },
+    {
+        "address": "Av. de las Industrias 304 Parque Industrial, Escobedo.",
+        "location": [
+            25.8000031,
+            -100.3498179
+        ],
+        "material": "Cartón, plástico, tarimas de madera, metales.",
+        "name": "Industrial Gecasa, S.A. de C.V.",
+        "phone": "8384 8257"
+    },
+    {
+        "address": "Carretera Apodaca Santa Rosa Km. 1.5 Apodaca.",
+        "location": [
+            25.7961704,
+            -100.2009323
+        ],
+        "material": "Tarimas de madera y desperdicios de polietileno.",
+        "name": "César González Tirado",
+        "phone": "1506 5070"
+    },
+    {
+        "address": "Janitzio 219 Col. Residencial San Nicolás, San Nicolás de los Garza.",
+        "location": [
+            25.7584324,
+            -100.2706153
+        ],
+        "material": "Cartón y tarimas de madera.",
+        "name": "Maria Guadalupe Padilla Zapeda",
+        "phone": "1404 0231"
+    },
+    {
+        "address": "Morelos 117 Col. Ex Hacienda el Canadá, Escobedo.",
+        "location": [
+            25.7826479,
+            -100.290982
+        ],
+        "material": "Cartón, plástico y chatarra en general.",
+        "name": "Modesto Barrientos Ibarra",
+        "phone": "8384 2400"
+    },
+    {
+        "address": "Calle D 507 A, Apodaca.",
+        "location": [
+            25.7546952,
+            -100.1918865
+        ],
+        "material": "Plásticos y cartón.",
+        "name": "Plásticos Reciclados Mafer, S. de R.L. de C.V.",
+        "phone": "1090 0103"
+    },
+    {
+        "address": "Callejón del Mármol S/N Industrial Termalita, Santa Catarina.",
+        "location": [
+            25.6847194,
+            -100.4541424
+        ],
+        "material": "Plástico, cartón y chatarra.",
+        "name": "Glezco Intercontinental, S.A.",
+        "phone": "8059 1000"
+    },
+    {
+        "address": "Napoleón Bonaparte 3226 Col. Estrella, Monterrey.",
+        "location": [
+            25.7060388,
+            -100.3280039
+        ],
+        "material": "Cartón, plástico, tarimas de madera, PET y costales.",
+        "name": "Elfego S. Benavides Villarreal",
+        "phone": "1157 4905"
+    },
+    {
+        "address": "Camino a la Ciénega 250 El Mezquital, Apodaca.",
+        "material": "Plásticos, cobre, bronce, chatarra, aluminio, cartón, periódico.",
+        "name": "Guillermina Emilia González Martínez",
+        "phone": "1113 5005"
+    },
+    {
+        "address": "MM del Llano 214 Oriente, Monterrey.",
+        "location": [
+            25.6788816,
+            -100.3152999
+        ],
+        "material": "Cartón, periódico, archivo, metales.",
+        "name": "Jorge Gallardo Garza",
+        "phone": "8344 2634"
+    },
+    {
+        "address": "Churubusco 3890 Coyoacán, Monterrey.",
+        "location": [
+            25.7073227,
+            -100.2682592
+        ],
+        "material": "Servicio de recolección de reciclables.",
+        "name": "Gen Industrial, S.A. de C.V.",
+        "phone": "8144 2200"
+    },
+    {
+        "address": "Juárez 203 Col. San Pedro, Santiago.",
+        "location": [
+            19.2223873,
+            -98.33978429999999
+        ],
+        "material": "Cartón, plástico y tarimas de madera.",
+        "name": "Adán Salazar Zepeda",
+        "phone": "8353 9292"
+    },
+    {
+        "address": "Carretera a Monclova 120 A Col. Río, Pesquería, Escobedo.",
+        "material": "Cartón, plástico, tarimas de madera y chatarra.",
+        "name": "Ramón Melchor Verastegui",
+        "phone": "8998 7836"
+    },
+    {
+        "address": "Torres del Topo Chico 3519 Col. Valle de Topo Chico,Monterrey.",
+        "location": [
+            25.7248697,
+            -100.343298
+        ],
+        "material": "Cartón, plástico, tarimas de madera y metales.",
+        "name": "Jesús González Clatza",
+        "phone": "1340 0716"
+    },
+    {
+        "address": "Villa San Mario 6559 Col. Mirador de las Mitras,Monterrey.",
+        "location": [
+            25.7423646,
+            -100.3925267
+        ],
+        "material": "Chatarra y cartón.",
+        "name": "Andrés Ramírez Cavaría",
+        "phone": "8106 3936"
+    },
+    {
+        "address": "Antiguo Camino al Milagro 110 – 2 Col. El Milagro, Apodaca.",
+        "location": [
+            25.7476296,
+            -100.191268
+        ],
+        "material": "Tarimas de Madera.",
+        "name": "Asc Packaging, S. de R.L. MI",
+        "phone": "8321 0838"
+    },
+    {
+        "address": "Cerámica 229 El Barro, Santiago.",
+        "location": [
+            25.5196195,
+            -100.2088498
+        ],
+        "material": "Cartón, tarimas de madera, plástico y metales.",
+        "name": "Gino Alberto González Rodríguez",
+        "phone": "(44 818) 477 8630"
+    },
+    {
+        "address": "Cecilio Garza 400 Col. El Milagro, Apodaca.",
+        "location": [
+            25.7496636,
+            -100.1960492
+        ],
+        "material": "Tarimas de madera, plástico, chatarra, cartón y metales en general.",
+        "name": "Universal Pallet de México, S.A. de C.V.",
+        "phone": "8321 2168"
+    },
+    {
+        "address": "Cedro 4645 Col. Valles de la Silla, Guadalupe..",
+        "location": [
+            25.6630476,
+            -100.210012
+        ],
+        "material": "Tarimas de madera, cartón, plástico, supersacos y chatarra.",
+        "name": "Ángel Mario de León",
+        "phone": "8298 9540"
+    },
+    {
+        "address": "Carretera a Laredo Km. 25.5 Parque Industrial Technology Park, Ciénega de Flores.",
+        "location": [
+            25.9062813,
+            -100.2299817
+        ],
+        "material": "Metales no ferrosos, cartón, plástico, tarimas de madera, rines y radiadores.",
+        "name": "Recuperaciones Industriales Internacionales, S.A. de C.V.",
+        "phone": "8154 1900"
+    },
+    {
+        "address": "Valle de las Fuentes 5805 Col. San Ángel Sur Monterrey.",
+        "material": "Chatarra, plástico, papel, cartón y madera.",
+        "name": "Desperdicios Industriales Roma, S.A. de C.V.",
+        "phone": "8349 2922"
+    },
+    {
+        "address": "Juan Soriano 123 Fracc. Puerta de Anáhuac, Escobedo.",
+        "location": [
+            25.7935895,
+            -100.2849975
+        ],
+        "material": "Cartón, plástico y latas de aluminio.",
+        "name": "Maria Teresa Reyes Villalobos",
+        "phone": "8237 2748"
+    },
+    {
+        "address": "Abel Guerra 235 Col. Emiliano Zapata, Escobedo.",
+        "material": "Tarimas de Madera.",
+        "name": "Marcos Raymundo Ramírez Alemán",
+        "phone": "8237 3061"
+    },
+    {
+        "address": "Benito Juárez 3010 Col. 20 de Noviembre, Guadalupe.",
+        "location": [
+            25.6600878,
+            -100.2399034
+        ],
+        "material": "magnesio, aluminio y acero inoxidable.",
+        "name": "Igmetal, S.A. de C.V.",
+        "phone": "8327 2359"
+    },
+    {
+        "address": "Matamoros 1000, Col. Casa Bella San Nicolás de los Garza.",
+        "location": [
+            25.762491,
+            -100.2960505
+        ],
+        "material": "Tarimas de madera, cartón y plástico.",
+        "name": "María Teresa Sosa Rodríguez",
+        "phone": "8382 4985"
+    },
+    {
+        "address": "Cobre 9200, Parque Industrial Mitras, García.",
+        "location": [
+            25.7911173,
+            -100.4415123
+        ],
+        "material": "Cartón, plástico, vidrio, materiales ferrosos y no ferrosos, madera, papel, periódico y papel de oficinas.",
+        "name": "Eco Servicios para Gas, S.A. de C.V.",
+        "phone": "8381 0936"
+    },
+    {
+        "address": "Uruapan 1405 Col. Paraíso, Guadalupe.",
+        "location": [
+            25.6754394,
+            -100.2681975
+        ],
+        "material": "Cartón, plásticos, vidrio, madera, papel, materiales ferrosos y no ferrosos.",
+        "name": "Alejandro Sepúlveda González",
+        "phone": "8355 2201"
+    },
+    {
+        "address": "Carretera a Zacatecas 226 Col. Ladrillera, Pesquería.",
+        "location": [
+            25.8228437,
+            -100.1073426
+        ],
+        "material": "Cartón, tarimas de madera, plásticos, metales ferrosos y no ferrosos.",
+        "name": "Manuel González Hernández",
+        "phone": "(81 148) 34 132"
+    },
+    {
+        "address": "Antiguo Camino a San Javier Km.1.5 Col. Huinalá, Apodaca.",
+        "location": [
+            25.7434383,
+            -100.1613452
+        ],
+        "material": "Cartón, PVC, PET y tarimas de madera.",
+        "name": "Antonio Ortegón Domínguez",
+        "phone": "1464 3464"
+    },
+    {
+        "address": "Juan Martínez Chavarría, 4606 Col. Portal e Cumbres, Monterrey.",
+        "location": [
+            25.7415632,
+            -100.3881734
+        ],
+        "material": "PET, latas de aluminio, papel de oficina, cartón y periódico.",
+        "name": "Luis Adrián Amado Covarrubias",
+        "phone": "1477 4392"
+    },
+    {
+        "address": "Av. Universidad 600 Col. Centro, San Nicolás de los Garza.",
+        "location": [
+            25.7582722,
+            -100.2959256
+        ],
+        "material": "Madera.",
+        "name": "Maderas y Láminas del Norte, S.A. de C.V.",
+        "phone": "8305 2200"
+    },
+    {
+        "address": "Cruz Egipcia 404 Col. Hacienda los Pinos 2º Sector, Apodaca.",
+        "material": "Cartón, plástico, tarimas de madera y chatarra.",
+        "name": "Sergio Arturo Nieto Flores",
+        "phone": "8312 5742"
+    },
+    {
+        "address": "Félix Lozano 813 Col. Santa Rosa, Apodaca.",
+        "location": [
+            25.8175545,
+            -100.2254648
+        ],
+        "material": "Tarimas de madera, plástico y cartón.",
+        "name": "Grupo Galván Tamez, S.A. de C.V.",
+        "phone": "8385 2962"
+    },
+    {
+        "address": "Calle Puebla esq. Lázaro Cárdenas, Salina Cruz.",
+        "location": [
+            16.20728,
+            -95.21028199999999
+        ],
+        "material": "Compra-venta de fierro viejo (chatarra) y desecho de metales no ferrosos, plásticos, vidrio.",
+        "name": "Gama",
+        "phone": "9717161681"
+    },
+    {
+        "address": "Prol. Reforma No 6307 Col. Reforma Sur, Puebla.",
+        "location": [
+            19.0649719,
+            -98.23849539999999
+        ],
+        "material": "Compra y venta de madera, plástico, cartón, chatarra, tarimas recicladas, mobiliario de desecho de oficinas (escritorios, lámparas, estantería, archiveros, mostradores, etc.).",
+        "name": "SERDIVSA, S.A. de C.V.",
+        "phone": "(222) 888 2207"
+    },
+    {
+        "address": "Refugio Domínguez 83, San Felipe Hueyotlipan.",
+        "location": [
+            19.0888214,
+            -98.2170539
+        ],
+        "material": "Madera, papel, cartón, fierro, metales y polietileno.",
+        "name": "Grupo Industrial",
+        "phone": "(222) 286 5659"
+    },
+    {
+        "address": "Carretera Federal Puebla-Tehuacan Km. 9.5 , Casa Blanca.",
+        "location": [
+            19.0450437,
+            -98.1195991
+        ],
+        "material": "Fierro, metales y desperdicios industriales.",
+        "name": "Desperdicios Industriales",
+        "phone": "(222) 222 0859"
+    },
+    {
+        "address": "4ta Sección Camino a Relleno Sanitario, Huejotzingo.",
+        "location": [
+            19.0863969,
+            -98.15703579999999
+        ],
+        "material": "Papel, cartón, plásticos.",
+        "name": "Recicla Puebla",
+        "phone": "04522 231 88 8668, ID 72*15*2838"
+    },
+    {
+        "address": "Ignacio Zaragoza 128, San Cristóbal Tulcingo.",
+        "location": [
+            19.1123293,
+            -98.21085409999999
+        ],
+        "material": "Cartón, plástico, tarima, papel y desechos no peligrosos.",
+        "name": "CMIR",
+        "phone": "044 22 21 55 7090"
+    },
+    {
+        "address": "Prolongación Reforma 6307, Col. Puebla.",
+        "location": [
+            19.0649719,
+            -98.23849539999999
+        ],
+        "material": "Madera, plástico, cartón, chatarra, fibra de vidrio, fierro, tarimas.",
+        "name": "SERDIVSA, S.A. de C.V.",
+        "phone": "(222) 888 2207, (222) 248 6894, (222) 888 2206"
+    },
+    {
+        "address": "Antonio Ruanota Vargas 212, Ajalpan",
+        "location": [
+            19.0357861,
+            -98.24965809999999
+        ],
+        "material": "Cartón, plástico, fierro, vidrio, bolsa de polietileno.",
+        "name": "Reciclaje Industrial de Ajalpan",
+        "phone": "236 381 2727"
+    },
+    {
+        "address": "Av. Patricio Furlong 105 Col. Gobernadores de Puebla San Andrés Cholula.",
+        "location": [
+            19.0275579,
+            -98.2628616
+        ],
+        "material": "Chatarra de fierro, archivo muerto, papel, cobre, bronce, acero inoxidable, aluminio, antimonio, cartón, scrap, madera, equipo y maquinaria obsoletos, PVC, PET, ABS, polietileno de alta y baja densidad.",
+        "name": "Reciclajes Industriales Puebla",
+        "phone": "(222) 602 2047"
+    },
+    {
+        "address": "San José 2, Cuautlancingo.",
+        "location": [
+            19.0941283,
+            -98.2732659
+        ],
+        "material": "Cartón, polietileno, polipropileno, madera, textiles, chatarra, metales.",
+        "name": "Reciclare",
+        "phone": "044 222 155 4620"
+    },
+    {
+        "address": "42 Poniente 501, Col. Santa María.",
+        "location": [
+            25.4490689,
+            -102.1788932
+        ],
+        "material": "Desperdicios industriales reciclables.",
+        "name": "Desperdicios Industriales Reciclables",
+        "phone": "(222) 232 1746"
+    },
+    {
+        "address": "Carr. a San Miguel Canoa 850 La Resurrección, Puebla.",
+        "location": [
+            19.0619644,
+            -98.2138909
+        ],
+        "material": "Papel, cartón, plástico, metales.",
+        "name": "Reciclables Pineda Moctezuma",
+        "phone": "(222) 222 8983"
+    },
+    {
+        "address": "2 Oriente 400, Centro.",
+        "location": [
+            18.8169623,
+            -97.5076505
+        ],
+        "material": "Papel, cartón, plástico, metales.",
+        "name": "Recicladora Salgado",
+        "phone": "(249) 422 5702"
+    },
+    {
+        "address": "Nicolás Bravo 31, San Felipe Hueyotlipan.",
+        "location": [
+            19.0822539,
+            -98.21378800000001
+        ],
+        "material": "PET y latas de aluminio.",
+        "name": "Reciclados Ecológicos de Puebla",
+        "phone": "(222) 216 6426"
+    },
+    {
+        "address": "Desperdicios Camino Real a Tlaxcala 133 San Jerónimo Caleras, Puebla.",
+        "location": [
+            19.0914812,
+            -98.2075105
+        ],
+        "material": "Cartón, fierro y lámina.",
+        "name": "Recolección y Manejo de",
+        "phone": "(222) 288 1400"
+    },
+    {
+        "address": "Carr. México – Querétaro km 182.5 esq. Independencia Col. Independencia, Pedro Escobedo.",
+        "location": [
+            33.827233,
+            -118.2384073
+        ],
+        "material": "Papel, cartón, archivo muerto, baterías, metales, PET, plásticos.",
+        "name": "Reciclaje 57",
+        "phone": "92 14 261 28"
+    },
+    {
+        "address": "Querétaro.",
+        "location": [
+            20.5888184,
+            -100.3898876
+        ],
+        "material": "Recolección de residuos sólidos urbanos no peligrosos.Servicio con costo.",
+        "name": "Proactiva Medio Ambiente, S.A. de C.V.",
+        "phone": "(442) 1905 940"
+    },
+    {
+        "address": "Libramiento a Tequisquiapan Km. 5 San Juan Del Río, Querétaro.",
+        "location": [
+            20.4003869,
+            -99.9975884
+        ],
+        "material": "Material reciclable, chatarra, papel, cartón, plásticos.",
+        "name": "Grupo Faddul",
+        "phone": "(427) 272 4842"
+    },
+    {
+        "address": "Lázaro Cárdenas 47 El Colorado, El Marqués, Querétaro.",
+        "location": [
+            20.5601696,
+            -100.2443976
+        ],
+        "material": "Desechos industriales, acero Inoxidable, aluminio, cartón, cartón corrugado, rollos de cartón, plásticos.",
+        "name": "Redir, S.A. de C.V.",
+        "phone": "(442) 221 5557"
+    },
+    {
+        "address": "Carretera a Tequisquiapan Km. 14 Col. El Marqués, Corregidora, Querétaro.",
+        "location": [
+            20.5914649,
+            -100.3661162
+        ],
+        "material": "Material reciclable, chatarra, papel, cartón, plásticos.",
+        "name": "Ecosafe, S.A. de C.V.",
+        "phone": "(442) 228 2183, (442) 277 5076"
+    },
+    {
+        "address": "Begonias 903, Col. Insurgentes. Querétaro.",
+        "location": [
+            20.630905,
+            -100.4471126
+        ],
+        "material": "PET, latas de aluminio, Polietileno de alta densidad (HDPE), vidrio, cobre, archivo muerto.",
+        "name": "Fenerg R",
+        "phone": "(442)266-5267"
+    },
+    {
+        "address": "Gerardo Coronel S/N La Piedad, El Marqués, Querétaro.",
+        "location": [
+            20.5699329,
+            -100.245974
+        ],
+        "material": "Cartón, metales, madera, plástico.",
+        "name": "Compra venta de Desperdicio Industrial Resendiz",
+        "phone": "(442) 140 5676, (442) 140 5675"
+    },
+    {
+        "address": "Turín 106, San Pablo, Querétaro.",
+        "location": [
+            20.626359,
+            -100.4428691
+        ],
+        "material": "Compra de cartón, papel, metal.",
+        "name": "Reciclables del Bacio",
+        "phone": "(442.) 217 2565, (442) .217 2594"
+    },
+    {
+        "address": "Gerardo Coronel Col. La piedad, El Marques.",
+        "location": [
+            20.5699329,
+            -100.245974
+        ],
+        "material": "Cartón, metales, madera, plástico.",
+        "name": "Recuperadora Bautista",
+        "phone": "(442) 140 5676, (442) 140 5675"
+    },
+    {
+        "address": "Morelos 142 A, Querétaro.",
+        "location": [
+            20.5511121,
+            -100.3785334
+        ],
+        "material": "Muebles de metal.",
+        "name": "Roda Muebles",
+        "phone": "(442) 274 2772"
+    },
+    {
+        "address": "Monte Mulhalcen mza. 3 Lt. 3 Benito Juárez.",
+        "location": [
+            21.1088657,
+            -101.6378216
+        ],
+        "material": "Compra-venta de cartón, PET, plástico, vidrio, chatarra y metales.",
+        "name": "Punto Verde",
+        "phone": "(998) 272 6361, (998) 179 5007"
+    },
+    {
+        "address": "Carretera Chetumal Puerto Juárez.",
+        "location": [
+            31.628362,
+            -106.3885644
+        ],
+        "material": "orgánicos.",
+        "name": "Parque Natural Xel Ha",
+        "phone": "(998) 884-7165"
+    },
+    {
+        "address": "Carretera Federal 285 Edificio Progreso, Oficina 105, Playa del Carmen.",
+        "location": [
+            19.3647483,
+            -99.1728072
+        ],
+        "material": "Vidrio, papel y otros.",
+        "name": "Grupo Maremex",
+        "phone": "(984) 803 97 24"
+    },
+    {
+        "address": "Blvd. Cancún Aeropuerto Km.13, Cancún.",
+        "email": "programa.ambiental@anahuac.mx",
+        "location": [
+            21.0500946,
+            -86.85048069999999
+        ],
+        "material": "PET, polietileno de alta densidad (2), latas de aluminio, latas de acero, vidrio, papel, cartón, objetos de metal. Los contenedores están junto a la cafetería, en el estacionamiento de maestros.",
+        "name": "Universidad Anáhuac Cancún",
+        "phone": "(998) 881 7750 ext 153"
+    },
+    {
+        "address": "Plomeros 107, San Luis Potosí.",
+        "location": [
+            22.0703914,
+            -100.8757058
+        ],
+        "material": "Reciclaje de electrónicos, metales y plásticos.",
+        "name": "In Cycle Electronics de México, S.A. de C.V.",
+        "phone": "(444) 824 0883"
+    },
+    {
+        "address": "Calle 16 de Septiembre 1018 Sur, Matehuala.",
+        "location": [
+            22.169896,
+            -100.9791053
+        ],
+        "material": "Desperdicios industriales, cartón, papel, metales no ferrosos.",
+        "name": "Reciclados Matehuala",
+        "phone": "(488) 882 1174 (488) 101 1432"
+    },
+    {
+        "address": "Antonio de Roda 140 Col. Estrella de Oriente San Luis Potosí.",
+        "location": [
+            22.1375276,
+            -100.9240311
+        ],
+        "material": "Lámina, cartón, vidrio.",
+        "name": "Prensados Argasa, S.A. de C.V.",
+        "phone": "(444) 821 2523, (444) 821 2173"
+    },
+    {
+        "address": "Israel 420, Ricardo B Anaya 2ª Sección Fracc. Estrella de Oriente. San Luis Potosí.",
+        "location": [
+            25.796586,
+            -80.369813
+        ],
+        "material": "Papel, cartón, plásticos, metales.",
+        "name": "Covecha",
+        "phone": "(444)112-9053"
+    },
+    {
+        "address": "Antonio de Roda 140, Estrella de Oriente.",
+        "location": [
+            22.1375276,
+            -100.9240311
+        ],
+        "material": "Cartón, madera, plástico, chatarra, metales.",
+        "name": "Prensados Argasa, S.A. de C.V.",
+        "phone": "(444) 821 2523"
+    },
+    {
+        "address": "Av. Venustiano Carranza 2319, Polanco, San Luis Potosí.",
+        "location": [
+            22.1485582,
+            -101.0114832
+        ],
+        "material": "Residuos Peligrosos.",
+        "name": "Profiq",
+        "phone": "(444) 813 9849"
+    },
+    {
+        "address": "16 de Septiembre 1018 Centro, Matehuala.",
+        "location": [
+            23.6386375,
+            -100.6392034
+        ],
+        "material": "Metales ferrosos y no ferrosos, plástico, PET, cartón, papel.",
+        "name": "Reciclados Matehuala",
+        "phone": "(488) 882 1174"
+    },
+    {
+        "address": "Justo Sierra 461, El Zapote.",
+        "location": [
+            22.2094068,
+            -100.9234816
+        ],
+        "material": "Papel, cartón, plásticos, metales.",
+        "name": "Reciclados Varios",
+        "phone": "(444) 100 8266"
+    },
+    {
+        "address": "21 de Marzo y Francisco Serrano 1401, Centro, Mazatlán.",
+        "location": [
+            23.2015539,
+            -106.415309
+        ],
+        "material": "Cartón, botella, metales y desperdicios.",
+        "name": "Del Ángel Compra Venta",
+        "phone": "(669) 985 2903, (669) 984 2049"
+    },
+    {
+        "address": "Carretera Internacional 1192 Niños Héroes.",
+        "location": [
+            17.0788996,
+            -96.73941649999999
+        ],
+        "material": "Papel, cartón, vidrio.",
+        "name": "Reciclados La Candelaria",
+        "phone": "(669) 980 1351"
+    },
+    {
+        "address": "Internacional 283, La Sirena.",
+        "location": [
+            23.2027197,
+            -106.3619887
+        ],
+        "material": "Papel, cartón, vidrio.",
+        "name": "Servicio de Reciclables de Mazatlán",
+        "phone": "(669) 917 0358"
+    },
+    {
+        "address": "Bienestar 1210, Álamos I, Los Mochis.",
+        "location": [
+            25.7758393,
+            -108.9840983
+        ],
+        "material": "Cartón, papel, aluminio, PET, polietileno de baja densidad, fleje.",
+        "name": "Recicladora y Transformadora Internacional Ecomundo, S.A. de C.V.",
+        "phone": "(668) 824 3320"
+    },
+    {
+        "address": "6670 St. Charles Rock Rd. St. Louis Mo Guaymas.",
+        "location": [
+            27.96288,
+            -110.925889
+        ],
+        "material": "Metales, plástico y materiales de producción.",
+        "name": "Fusion World Wide Recycling",
+        "phone": "(622) 221 0344, (622) 221 3400"
+    },
+    {
+        "address": "Bolivia y Calle 5 y 6 S/N, Col. Topahue San Luis Río Colorado.",
+        "location": [
+            32.4264617,
+            -114.8008753
+        ],
+        "material": "Vidrio, plástico, aluminio.Servicio de Recolección.",
+        "name": "Servicio de Contenedores Medol",
+        "phone": "(653) 536 9795"
+    },
+    {
+        "address": "Blvd. de los Seris 37 Parque Industrial Sonora, Hermosillo.",
+        "location": [
+            29.022339,
+            -110.9038048
+        ],
+        "material": "Papel, archivos, cartón, plásticos, archivo, residuos industriales.",
+        "name": "REFECO",
+        "phone": "(662) 251 1106"
+    },
+    {
+        "address": "Bartolomé de las Casas Los Virreyes, Nogales.",
+        "location": [
+            31.2875344,
+            -110.9264731
+        ],
+        "material": "Plástico, metales y cartón.",
+        "name": "SVR Plastics",
+        "phone": "(631) 315 0753, (631) 315 0836"
+    },
+    {
+        "address": "Calzada de la Manufactura 303 Parque Industrial Nuevo Nogales, Nogales.",
+        "material": "Cartón, plástico, tarima, vidrio, metales no ferrosos, metal indstrial,aluminio, papel, bronce.",
+        "name": "Tom Recicladora de México, S.A. de C.V.",
+        "phone": "(631) 311 4101, (631) 311 4100"
+    },
+    {
+        "address": "Jalisco y Blvd. Rodolfo Elías Calles, Cajeme.",
+        "location": [
+            27.5097081,
+            -109.9291877
+        ],
+        "material": "Papel, periódico, plástico, cajas de cartón, cajas de fruta y verdura.",
+        "name": "A & G Reciclados",
+        "phone": "(644) 115 1646"
+    },
+    {
+        "address": "Av. Tamehua 9 A, Nogales.",
+        "location": [
+            31.2655528,
+            -110.9384118
+        ],
+        "material": "Cartón, metal, plástico, madera, recolección de desechos en general.",
+        "name": "Reciclados Acosta",
+        "phone": "(631) 999 8034"
+    },
+    {
+        "address": "Huatachive 469 Norte, Cajeme.",
+        "location": [
+            27.5030947,
+            -109.9589431
+        ],
+        "material": "Papel, cartón y plástico.",
+        "name": "Mujeres por la ecología y la Comunidad",
+        "phone": "(644) 413 9514"
+    },
+    {
+        "address": "Blvd. Juan Bautista Escalante S/N Solidaridad, Hermosillo.",
+        "location": [
+            29.1445996,
+            -111.0012245
+        ],
+        "material": "PET, polietileno, plásticos en general, cartón, tarimas.",
+        "name": "Engrane Verde",
+        "phone": "(662) 136 8600"
+    },
+    {
+        "address": "Camino a Cananea 604, Álamos, Nogales.",
+        "material": "Cartón, tarimas de madera, metal.",
+        "name": "LG Recicladora",
+        "phone": "(631) 352 1021"
+    },
+    {
+        "address": "Carretera Guaymas San José de Guaymas, Aeropuerto, Guaymas.",
+        "location": [
+            27.9701413,
+            -110.9221223
+        ],
+        "material": "Residuos industriales.",
+        "name": "Productos Terminados de Guaymas",
+        "phone": "(622) 221 0344"
+    },
+    {
+        "address": "Callejón Carranza 1 Parque Industrial.",
+        "location": [
+            20.6076415,
+            -103.3307352
+        ],
+        "material": "Cartón, papel, madera, metales, plásticos.",
+        "name": "Recicladora del Desierto",
+        "phone": "(662) 251 1081"
+    },
+    {
+        "address": "Camino Viejo a Cananea y los Portales Los Virreyes.",
+        "location": [
+            53.5458045,
+            -2.7873197
+        ],
+        "material": "Plásticos, papel, cartón y metales.",
+        "name": "SVR Plastics",
+        "phone": "(653) 536 9795"
+    },
+    {
+        "address": "Av. César López de Lara # 2815 Nuevo Laredo.",
+        "location": [
+            27.4733911,
+            -99.5173243
+        ],
+        "material": "Metales ferrosos y no ferrosos, baterías, PET, madera, tarimas, nylon, acrílico, madera.Servicio a domicilio.",
+        "name": "Scrap Residuos Peligrosos",
+        "phone": "(867) 719 0110"
+    },
+    {
+        "address": "Libertadores s/n Carretera Matamoros–Monterrey Km. 34.5 Matamoros.",
+        "email": "info@mervis.com",
+        "location": [
+            25.84881,
+            -97.45030539999999
+        ],
+        "material": "Metales, papel y plásticos.",
+        "name": "Mervis Industrias de México, S. de R.L. de C.V.",
+        "phone": "(868) 8430 558"
+    },
+    {
+        "address": "Av. San Rafael 18 Col. Parque Industrial Mall, Reynosa.",
+        "location": [
+            26.035065,
+            -98.31455799999999
+        ],
+        "material": "Cartón, plástico, papel, tarimas, metal.",
+        "name": "Grupo Ciclos Reciclaje Industrial",
+        "phone": "(899) 141 0087, (899) 141 0729"
+    },
+    {
+        "address": "Praxedis López Ramos 700 Col. Concordia, Nuevo Laredo.",
+        "location": [
+            27.4402837,
+            -99.52847790000001
+        ],
+        "material": "Cartón, plástico, periódico, metales, tarimas, archivo blanco.",
+        "name": "Fibras y Reciclados Mogue",
+        "phone": "(867) 717 2328"
+    },
+    {
+        "address": "San Rafael Lote 2 manz, 1 Teococuilco de Marcos Pérez, Oaxaca.",
+        "location": [
+            28.6526682,
+            -106.0660163
+        ],
+        "material": "Cartón, periódico, tarima, plástico, aluminio, papel, cobre, chatarra.",
+        "name": "Comercial Recicladora, S.A. de C.V.",
+        "phone": "(899)141 0737"
+    },
+    {
+        "address": "Calle 2 Maz. 10 y 11 Col. Fimex, Corredor Industrial, Altamira.",
+        "location": [
+            22.3645791,
+            -97.8874618
+        ],
+        "material": "Metales no ferrosos, aluminio, bronce, cobre, acero inoxidable, PET, polietileno de alta densidad, policarbonato .",
+        "name": "Tampico Material Comercial, S.A. de C.V.",
+        "phone": "(833) 123 0209, (833) 123 0060"
+    },
+    {
+        "address": "Laguna Machona Parque Pequeña y Mediana Industria.",
+        "location": [
+            22.415482,
+            -97.881695
+        ],
+        "material": "Plásticos, scrap, metal.",
+        "name": "Avangard México",
+        "phone": "(833) 260 9169"
+    },
+    {
+        "address": "Norte 315, Ciudad Industrial Matamoros.",
+        "location": [
+            32.5226022,
+            -116.8656222
+        ],
+        "material": "Papel, cartón, plásticos, tarimas, metal.",
+        "name": "Cartones y Plásticos del Norte",
+        "phone": "(868) 812 8663"
+    },
+    {
+        "address": "Blvd. Primex 712, Laguna de la Puerta.",
+        "location": [
+            22.3960003,
+            -97.9285647
+        ],
+        "material": "Papel y plásticos.",
+        "name": "Comercializacion y Reciclados",
+        "phone": "(833)123 5802"
+    },
+    {
+        "address": "Col. A. Marín Martínez.",
+        "location": [
+            19.2322487,
+            -103.6892862
+        ],
+        "material": "Residuos industriales no peligrosos.",
+        "name": "Ecoeficiencia 3R´s",
+        "phone": "264 4322, 044 833 154 1172"
+    },
+    {
+        "address": "Blvd. Allende 501, Altamira.",
+        "location": [
+            22.4110288,
+            -97.93934019999999
+        ],
+        "material": "Papel, cartón, plásticos, chatarra, metales.",
+        "name": "Reciclados Vargas",
+        "phone": "264 10 04, 264 30 60"
+    },
+    {
+        "address": "1ª Avenida 105, Col. Villahermosa, Tampico.",
+        "location": [
+            22.3152101,
+            -97.8655876
+        ],
+        "material": "Tarimas de madera y supersacos.",
+        "name": "Recuperadora de Supersacos y Tarimas",
+        "phone": "(833) 224 5070, 044 833 284 5755"
+    },
+    {
+        "address": "Ejido Ricardo Flores Magón, Altamira.",
+        "location": [
+            22.450744,
+            -97.90574699999999
+        ],
+        "material": "Tarimas de madera, supersacos, chatarra, papel, cartón y plástico.",
+        "name": "Comercializadota Industrial y Agrícola",
+        "phone": "227 0364"
+    },
+    {
+        "address": "Benito Juárez 216 Col. Nuevo Progreso, Tampico.",
+        "location": [
+            22.2970305,
+            -97.85755089999999
+        ],
+        "material": "Metal y cartón.",
+        "name": "Cartonera El Queretano",
+        "phone": "226 3854, 226 8316"
+    },
+    {
+        "address": "Col. Martín A. Martínez, Altamira.",
+        "location": [
+            22.4100928,
+            -97.9034588
+        ],
+        "material": "Metal, plásticos y papel.",
+        "name": "Empresa Ángeles",
+        "phone": "044 833 218 7344"
+    },
+    {
+        "address": "Felipe Villanueva 30, Los Sauces.",
+        "location": [
+            25.8584902,
+            -97.51198559999999
+        ],
+        "material": "Metales, plásticos y electrónicos.",
+        "name": "Fortune Plastic Metal de México",
+        "phone": "(68) 817 4006"
+    },
+    {
+        "address": "Av. San Rafael 18 Parque Industrial Mall, Reynosa.",
+        "location": [
+            26.0342817,
+            -98.31513299999999
+        ],
+        "material": "Cartón. Papel, plástico, metal, tarimas.",
+        "name": "Grupo Ciclos",
+        "phone": "(899) 141 0087"
+    },
+    {
+        "address": "1º de mayo 1800 Col. Primavera, Altamira.",
+        "email": "recup.aceros@prodigy.net.mx",
+        "location": [
+            22.3029591,
+            -97.8574904
+        ],
+        "material": "Metales, chatarra, acero, plomo, metales ferrosos y no ferrosos.",
+        "name": "Recuperadora de Aceros",
+        "phone": "(833)226 5393"
+    },
+    {
+        "address": "Libertadores s/n, Lucio Blanco.",
+        "location": [
+            26.0402275,
+            -98.3661028
+        ],
+        "material": "Metales ferrosos y no ferrosos, papel y plásticos.",
+        "name": "Mervis Industries de México",
+        "phone": "(868) 843 0596"
+    },
+    {
+        "address": "Mar Rojo s/n, Parque Industrial.",
+        "location": [
+            48.8312182,
+            9.1226483
+        ],
+        "material": "Residuos peligrosos.",
+        "name": "Neutechnik",
+        "phone": "(833) 260 1100"
+    },
+    {
+        "address": "Miguel Hidalgo 710, Entre 1 y 2 Col. Libertad y Progreso, Matamoros.",
+        "location": [
+            25.8305209,
+            -97.5300445
+        ],
+        "material": "Trasporte de residuos peligrosos y no peligrosos.",
+        "name": "Gen Industrial",
+        "phone": "(868) 810 1017"
+    },
+    {
+        "address": "Carretera Sendero Nacional, Centro.",
+        "location": [
+            25.8665123,
+            -97.5670619
+        ],
+        "material": "Trasporte de residuos peligrosos y no peligrosos.",
+        "name": "Sociedad Cooperativa de Reciclado el Santuario",
+        "phone": "(868) 810 1521"
+    },
+    {
+        "address": "Carretera Tampico desvío al Chocolate Km. 1.1, Col. Alejandro Briones, Altamira.",
+        "email": "tersa_asistencia@yahoo.com.mx",
+        "location": [
+            22.4110114,
+            -97.9349233
+        ],
+        "material": "Residuos industriales y biológicos.",
+        "name": "Tersa Altamira",
+        "phone": "(833) 264 1522"
+    },
+    {
+        "address": "Marcos Mota 1, Col. la luz Villa Alta, Tepetitla de Lardizabal,",
+        "location": [
+            19.2919131,
+            -98.40511219999999
+        ],
+        "material": "PET, polietileno, (2 y 4) vidrio.",
+        "name": "CATSA Reciclados",
+        "phone": "(248) 483 8260"
+    },
+    {
+        "address": "Domicilio Conocido, Panotla.",
+        "material": "Papel, metales, cartón, plásticos.",
+        "name": "Sistemas Ambientales Ecoeficientes, S.A. de C.V.",
+        "phone": "(246) 262 4186"
+    },
+    {
+        "address": "Villas Doña Marina, Tzompantepec Tlaxcala.",
+        "location": [
+            19.4038666,
+            -98.11917849999999
+        ],
+        "material": "Compra de chatarra, aluminio, cobre y PET.",
+        "name": "PDE",
+        "phone": "(241)119 0902"
+    },
+    {
+        "address": "Avenida 1 # 2705 esquina Calle 27, Córdoba.",
+        "location": [
+            18.8866413,
+            -96.92559469999999
+        ],
+        "material": "Reciclaje de plásticos, papel, cartón, cartón corrugado, rollos de cartón.",
+        "name": "Comercialización y Reciclado de Papel",
+        "phone": "(271) 712 1109"
+    },
+    {
+        "address": "Av. 2 de Abril Entre Josefa Ortiz de Domínguez y Díaz Mirón, Ixyaczoquitlán.",
+        "location": [
+            19.161946,
+            -96.13885499999999
+        ],
+        "material": "Polietileno de alta y baja densidad, metales, madera, tarimas.",
+        "name": "Recuperaciones Veracruzanas, S.A. de C.V.",
+        "phone": "(272) 742 4160"
+    },
+    {
+        "address": "Framboyanes lote 7A, Veracruz.",
+        "location": [
+            19.2005814,
+            -96.1706974
+        ],
+        "material": "Papel, cartón, metales, plásticos.",
+        "name": "Recicla gana dinero",
+        "phone": "(229) 920 9538"
+    },
+    {
+        "address": "Calle 16 # 212, Col. Vista Alegre, Mérida",
+        "location": [
+            21.0107477,
+            -89.5869678
+        ],
+        "material": "Papel y cartón, metales, plásticos.",
+        "name": "Centro de Acopio Camisa",
+        "phone": "(999) 196 0115, (999) 250 5750"
+    },
+    {
+        "address": "Industriales PROPADE Calle 7 # 540 por 42 Col. Los Reyes. Mérida.",
+        "material": "Papel y cartón usado, chatarra, desperdicios industriales.",
+        "name": "Proveedora de Papel y Desperdicios",
+        "phone": "(999) 982 0961"
+    },
+    {
+        "address": "Anillo Periférico Poniente Km. 40.7 Periférico, Mérida.",
+        "location": [
+            20.9064408,
+            -89.6310563
+        ],
+        "material": "Metales ferrosos y no ferrosos, papel.",
+        "name": "Recuperadora de metales",
+        "phone": "(999).945 4278"
+    },
+    {
+        "address": "Carretera Guadalupe Saltillo Km. 26 Tabasco, Zacatecas.",
+        "material": "Papel y cartón, metales, plástico.",
+        "name": "Reciclajes Alcon",
+        "phone": "4639 5705"
+    },
+    {
+        "address": "Carretera Guadalupe Santa Mónica Km. 1 Guadalupe Centro, Guadalupe.",
+        "location": [
+            19.0143858,
+            -98.1926585
+        ],
+        "material": "Aluminio, papel, cobre, fierro, cartón.",
+        "name": "Cartonera Miravalle",
+        "phone": "(492) 927 5999, (492) 923 6135"
+    }
+]

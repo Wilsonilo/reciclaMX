@@ -1,0 +1,141 @@
+{% extends "layout.html" %}
+
+{% block jsfile %}
+{% endblock %}
+
+{% block title %}
+    Recicla MX - Centro de Reciclaje en México. Información de la página.
+{% endblock %}
+
+{% block main %}
+    <div class="container" id="acerca">
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Acerca de Recicla MX</h3>
+                <ul class="nav nav-pills">
+                  <li role="presentation"><a href="#quees">¿Qué es?</a></li>
+                  <li role="presentation"><a href="#comofunciona">¿Cómo funciona?</a></li>
+                  <li role="presentation"><a href="#comunidad">¿Comunidad?</a></li>
+                  <li role="presentation"><a href="#postular">¿Postular?</a></li>
+                  <li role="presentation"><a href="#donaciones">¿Donaciones?</a></li>
+                  <li role="presentation"><a href="#creditos">Créditos</a></li>
+                  <li role="presentation"><a href="#contacto">Contacto</a></li>
+                </ul>
+                <br><br>
+
+                <a name="quees"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">¿Qué es?</h4>
+                  </div>
+                  <div class="panel-body">
+                    <p>Recicla MX es una iniciativa comunitaria, no pertenece a ningún partido político o asosiación. El contenido "base" (información con la que inició el proyecto) fueron tomados del documento distribuido por la Semarnat para la ciudadanía:</p>
+                    <br>
+                    <a href="http://www.semarnat.gob.mx/archivosanteriores/transparencia/transparenciafocalizada/residuos/Documents/directorio_residuos.pdf" target="_blank">Directorio de Centros de Acopio de Materiales Provenientes de Residuos en México 2010</a>
+                    <small><i>http://www.semarnat.gob.mx/archivosanteriores/transparencia/transparenciafocalizada/residuos/Documents/directorio_residuos.pdf</i></small>
+                    <br><br>
+                    <p>La idea del proyecto ha sido comenzar con esta información y con la ayuda de la comunidad "depurar" (centros que ya no estén activos) y ofrecer un punto de partida para todos los interesados.</p>
+
+                    <p>El proyecto busca mantenerse activo y regulado por la misma comunidad a través del sistema de votación de los centros, postulación y donaciones.</p>
+
+                  </div>
+                </div>
+
+                <a name="comofunciona"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">¿Cómo funciona?</h4>
+                  </div>
+                  <div class="panel-body">
+                    <p>Partimos de la información del documento oficial emitido por la Semarnat en el 2010.
+                    El proyecto necesitaba de un punto de partida y se dicidió iniciar con este y no de otros documentos que aunque más actuales no ofrecían la gama de categorías de reciclaje que consideramos de relevancia para el proyecto.
+                    </p>
+                    <p>Sabemos que muchos de los centros probablemente no estén ya activos o estén con información incompleta / incorrecta, de ahí la necesidad del apoyo de la comunidad.
+                    Por medio de la colaboración buscamos (utilizando un sistema de votación y postulación) regular la información presentada en el proyecto.</p>
+
+                    <p>A través del sistema de votaciones y postulación el sistema regulará qué centros aparecen y cuales desaparecen, con esto se entiende que si el centro tiene votaciones positivas el sistema lo señalará con un icono especial. El sistema hará lo mismo con centros sin votos y con votos negativos.</p>
+
+                    <p>Cada mes cuando se genera una "limpieza" de los centros con número de votos negativos altos.</p>
+                  </div>
+                </div>
+
+                <a name="comunidad"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">¿Comunidad?</h4>
+                  </div>
+                  <div class="panel-body">
+                    <p>Hemos partido de la idea del trabajo en equipo - comunidad. Por lo que actualmente todos los centros que están en el sistema están bajo un sistema de votaciones. Esto quiere decir que los usuarios deciden los centros a recomendar (votar positivo), consideran no funcionales (votan negativo) o sugerir.</p>
+                    <br>
+                    <strong>¿Cualquiera puede votar?</strong>
+                    <br>
+                    <p>Por el momento sí (versión beta) Estamos trabajando en completar el sistema de registro de usuarios para crear un mayor control en las votaciones.</p>
+
+                    <strong>¿Derechos?</strong>
+                    <br>
+                    <p>El proyecto está bajo los derechos de Creative Commons, excepto la información ofrecida por la Semarnat o incorporada por los usuarios, estos pertenecen a sus correspondientes autores.
+                    <br>
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</p>
+
+                    <p> <strong>¿Open Source?</strong>
+                    <br>
+                    Desarrolladores, estamos trabajando para limpiar el proyecto y entregarles en github un código aceptable, tan pronto lo tengamos con gusto compartiremos el código.</p>
+
+                    </p>
+                  </div>
+                </div>
+
+                <a name="postular"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">¿Postular?</h4>
+                  </div>
+                  <div class="panel-body">
+                    <p>Los usuarios tienen la posibilidad de enviar directamente al sistema centros que no sean aquellos que hemos extraido de la Semarnat.</p> <br>
+                    <p><strong>IMPORTANTE: </strong> Para que un centro pueda aparecer en el mapa desde un principio (sin el uso de filtros) el centro deberá tener un mínimo de votos positivos por parte de la comunidad.</p>
+                  </div>
+                </div>
+
+                <a name="donaciones"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">¿Donaciones?</h4>
+                  </div>
+                  <div class="panel-body">
+                    <p>El proyecto bajo ninguna circunstancia tiene o tendrá algún costo, es completamente gratuito.</p>
+                    <p>Sin embargo, el mantenimiento del sitio web en concepto de tecnología y programación tienen sus respectivos costos. <br> Iniciamos este proyecto porque creemos que es útil para la comunidad y lo mantendremos vivo todo el tiempo que nos sea posible.</p>
+                    <p>Agradecemos a todos los que deseen apoyar para mantener viva esta iniciativa.</p>
+                     <p>Cada uno de los donadores (que así lo deseen) aparecerán como contribuidores en la página.</p>
+                  </div>
+                </div>
+
+                <a name="creditos"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">Créditos</h4>
+                  </div>
+                  <div class="panel-body">
+                     <ul>
+                         <li><a href="http://www.semarnat.gob.mx/archivosanteriores/transparencia/transparenciafocalizada/residuos/Documents/directorio_residuos.pdf" target="_blank">Directorio de Centros de Acopio de Materiales Provenientes de Residuos en México 2010</a></li>
+                         <li>Fotografías de Fondo: <a href="http://www.picjumbo.com" target="_blank">Picjumbo</a></li>
+                     </ul>
+                  </div>
+                </div>
+
+                <a name="contacto"></a>
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <h4 class="panel-title">Contacto</h4>
+                  </div>
+                  <div class="panel-body">
+                    Habilitaremos pronto un email contacto.
+                  </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    
+
+{% endblock %}

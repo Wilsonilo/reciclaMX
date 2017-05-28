@@ -1,0 +1,87 @@
+{% extends "layout.html" %}
+
+{% block jsfile %}
+<script src="{{ url_for('static', filename='postular.js') }}"></script>
+{% endblock %}
+
+{% block title %}
+    Recicla MX - Centro de Reciclaje en México. Donaciones.
+{% endblock %}
+
+{% block main %}
+    <div class="container" id="postular">
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Postular</h3>
+                <p align="left">¿Deseas postular un centro o corregir alguno existente?
+                Todo centro que sea postulado en el sistema necesitará primero ser aprovado por un número de votos positivos para aparecer sin el uso de filtros en la página principal.</p>
+
+                <p align="left">Si usted esta requiriendo un ajuste o eliminación de centro, le pedimos paciencia, somos un grupo pequeño y trabajamos lo más pronto posible para realizar los ajustes necesarios. Usted puede ver si el centro está siendo actualizado si tiene una marca <span class="glyphicon glyphicon-wrench" aria-hidden="true"></span> en la columna "Sentinel" en la sección Comunidad.</p>
+               
+                <hr>
+               
+                <div class="row" id="formpostular">
+                    <div class="col-md-12">
+                        
+                          <ul class="nav nav-tabs" role="tablist">
+                            <li role="presentation" class="active">
+                                <a href="#postulartab" aria-controls="postulartab" role="tab" data-toggle="tab">
+                                    Postular
+                                </a>
+                            </li>
+                            <li role="presentation">
+                                <a href="#ajustetab" aria-controls="ajustetab" role="tab" data-toggle="tab">
+                                    Ajuste
+                                </a>
+                            </li>
+                          </ul>
+
+                          <div class="tab-content">
+
+                            <div role="tabpanel" class="tab-pane active" id="postulartab">
+
+                                <div class="col-md-12" style="margin-top: 10px;">
+                                    <form align="left">
+                                      <div class="form-group">
+                                        <label for="postularname">Nombre</label>
+                                        <input type="text" class="form-control" id="postularname" placeholder="Persona, Empresa o Asociación">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="postularphone">Teléfono</label>
+                                        <input type="telephone" class="form-control" id="postularphone" placeholder="(000) 000 0000">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="postularemail">Email</label>
+                                        <input type="email" class="form-control" id="postularemail" placeholder="@">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="postularweb">Página Web</label>
+                                        <input type="text" class="form-control" id="postularweb" placeholder="www.">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="postularaddress">Dirección</label>
+                                        <input type="text" class="form-control" id="postularaddress" placeholder="Calle, Ciudad, Estado">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="postularaddress">Material</label>
+                                        <input type="text" class="form-control" id="postularaddress" placeholder="¿Qué material reciben?">
+                                      </div>
+                                      <button type="submit" class="btn btn-default">Enviar</button>
+                                    </form>
+                                </div>
+
+                            </div>
+
+                            <div role="tabpanel" class="tab-pane" id="ajustetab">
+                                Ajustar Form
+                            </div>
+
+                          </div>
+
+
+                    </div>
+                </div>        
+            </div>
+        </div>
+    </div>
+{% endblock %}
