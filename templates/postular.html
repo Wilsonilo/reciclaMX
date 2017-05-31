@@ -22,7 +22,8 @@
                
                 <div class="row" id="formpostular">
                     <div class="col-md-12">
-                        
+                            
+                        <div id="alertzone"></div>
                           <ul class="nav nav-tabs" role="tablist">
                             <li role="presentation" class="active">
                                 <a href="#postulartab" aria-controls="postulartab" role="tab" data-toggle="tab">
@@ -41,10 +42,11 @@
                             <div role="tabpanel" class="tab-pane active" id="postulartab">
 
                                 <div class="col-md-12" style="margin-top: 10px;">
-                                    <form align="left">
+
+                                    <form align="left" id="sendpostular">
                                       <div class="form-group">
                                         <label for="postularname">Nombre</label>
-                                        <input type="text" class="form-control" id="postularname" placeholder="Persona, Empresa o Asociación">
+                                        <input type="text" class="form-control" id="postularname" placeholder="Persona, Empresa o Asociación" required="true">
                                       </div>
                                       <div class="form-group">
                                         <label for="postularphone">Teléfono</label>
@@ -60,20 +62,41 @@
                                       </div>
                                       <div class="form-group">
                                         <label for="postularaddress">Dirección</label>
-                                        <input type="text" class="form-control" id="postularaddress" placeholder="Calle, Ciudad, Estado">
+                                        <input type="text" class="form-control" id="postularaddress" placeholder="Calle, Ciudad, Estado" required="true">
                                       </div>
                                       <div class="form-group">
-                                        <label for="postularaddress">Material</label>
-                                        <input type="text" class="form-control" id="postularaddress" placeholder="¿Qué material reciben?">
+                                        <label for="postularmaterial">Material</label>
+                                        <input type="text" class="form-control" id="postularmaterial" placeholder="¿Qué material reciben?" required="true">
                                       </div>
                                       <button type="submit" class="btn btn-default">Enviar</button>
                                     </form>
+
                                 </div>
 
                             </div>
 
                             <div role="tabpanel" class="tab-pane" id="ajustetab">
-                                Ajustar Form
+                                <div class="col-md-12" style="margin-top: 10px;">
+
+                                    <form align="left" id="sendajuste">
+
+                                      <div class="form-group">
+                                        <label for="ajustename">Nombre</label>
+                                        <input type="text" class="form-control" id="ajustename" placeholder="Su Nombre" required="true">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="ajustemail">Email</label>
+                                        <input type="email" class="form-control" id="ajustemail" placeholder="@" required="true">
+                                      </div>
+                                      <div class="form-group">
+                                        <label for="ajustedescripcion">Descripción</label>
+                                        <textarea class="form-control" rows="3" placeholder="Describa con detalle el ajuste." required="true" id="ajustedescripcion"></textarea>
+                                      </div>
+                                      
+                                      <button type="submit" class="btn btn-default">Enviar</button>
+                                    </form>
+                                    
+                                </div>
                             </div>
 
                           </div>

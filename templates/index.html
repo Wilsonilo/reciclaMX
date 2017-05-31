@@ -1,7 +1,7 @@
 {% extends "layout.html" %}
 
 {% block jsfile %}
-<script src="{{ url_for('static', filename='scripts.js') }}"></script>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
 {% endblock %}
 
 {% block title %}
@@ -9,15 +9,20 @@
 {% endblock %}
 
 {% block main %}
-    <div class="row">
-        <div class="col-md-12" id="inputbusquedaindex">
-            <form id="form">
-            <div class="form-group">
-                <input class="form-control" id="q" placeholder="¿Qué quieres reciclar?" type="text"/>
-            </div>
-        </form>
+    <div class="row" id="inputbusquedaindex">
+        <div class="col-md-12">
+            <form id="searchindex">
+                <div class="form-group">
+                    <input class="form-control" id="q" placeholder="¿Qué quieres reciclar?" type="text"/>
+                    <label id="centrospostuladoslabel">
+                        <input type="checkbox" id="centrospostuladoscheck" onclick="addMarkers();"> Centros Postulados por la Comunidad.
+                    </label>
+                </div>
+                
+            </form>
         </div>
     </div>
+    <div id="alertarea"></div>
     <div id="map-canvas"></div>
     <div class="row" id="voteexplanation">
         <div class="col-md-3">

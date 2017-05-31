@@ -1,6 +1,7 @@
 {% extends "layout.html" %}
 
 {% block jsfile %}
+    <script src="{{ url_for('static', filename='cs50.js') }}"></script>
 {% endblock %}
 
 {% block title %}
@@ -22,21 +23,24 @@
                     Please provide answer to the following phrases to see the complete information of the development of this project.
                     </p>
                     <div id="captchaform">
-
+                        <div id="alertarea"></div>
                         <h3>Nam, Namy, Name:</h3>
-                        <input type="text" name="firstnamecaptcha"> J. <input type="text" name="lastnamecaptcha">
+                        <form id="cs50entry">
+                            <input type="text" name="firstnamecaptcha" id="firstnamecaptcha" required="true"> J. <input type="text" name="lastnamecaptcha" id="lastnamecaptcha" required="true">
 
-                        <h3>Is? Was? We are?:</h3>
-                        <input type="text" name="secondphrase1"> is <input type="text" name="lsecondphrase2"> 50
-                        
-                        <br><br>
-                        <button type="submit" class="btn btn-default">Check</button>
+                            <h3>Is? Was? We are?:</h3>
+                            <input type="text" name="secondphraseone" id="secondphraseone" required="true"> is <input type="text" name="secondphrasetwo" id="secondphrasetwo" required="true"> 50
+                            
+                            <br><br>
+                            <button type="submit" class="btn btn-default">Check</button>
+                        </form>
                         
                     </div>
                 </div>
 
                 <div id="infocs50">
                 </div>
+
             </div>
         </div>
     </div>

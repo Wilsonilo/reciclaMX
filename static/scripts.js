@@ -4,15 +4,20 @@ var map;
 // markers for map
 var markers = [];
 
+//Holder for data, avoid multiple request to DB
+var centers             = [];
+var centersFiltrados    = [];
+
 // info window
 var info = new google.maps.InfoWindow();
 
 //Markes:
-var markerGreen = "http://maps.google.com/mapfiles/ms/icons/green-dot.png";
-var markerYellow = "http://maps.google.com/mapfiles/ms/icons/yellow-dot.png";
-var markerRed = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
-var iconMarker = markerYellow;
-//http://maps.google.com/mapfiles/ms/icons/blue-dot.png
+var markerGreen     = "http://maps.google.com/mapfiles/ms/icons/green-dot.png";
+var markerYellow    = "http://maps.google.com/mapfiles/ms/icons/yellow-dot.png";
+var markerRed       = "http://maps.google.com/mapfiles/ms/icons/red-dot.png";
+var markerPurple    = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
+var iconMarker      = markerYellow; //Default
+
 // execute when the DOM is fully loaded
 $(function() {
 
@@ -56,34 +61,140 @@ $(function() {
     //Run request and create markers
     addMarkers()
 
+
+    //Value Search
+    $("#q").on("keyup", function() {
+
+        //Check if we have value or user cleared
+        if($("#q").val() != ""){
+            centersFiltrados = centers.filter(function(center){
+
+                var material    = center["material"].toLowerCase();
+                material        = accent_fold(material);
+                var search      = material.search(accent_fold($("#q").val()));
+
+                return search >= 0;
+
+            });
+        }
+        
+        addMarkers();  
+
+    });
+
+
 });
 
 //Helpers
+
 
 /**
  * Add Markers to Map
  */
 function addMarkers(){
-    // get places matching query (asynchronously)
-    var parameters = {
-        
-    };
-    $.getJSON(Flask.url_for("semarnat"), parameters)
-    .done(function(data, textStatus, jqXHR) {
-       // remove old markers from map
-       removeMarkers();
 
-       // add new markers to map
-       for (var i = 0; i < data.length; i++)
-       {    
-           addMarker(data[i]);
-       }
-    })
-    .fail(function(jqXHR, textStatus, errorThrown) {
+    //Check if we already requested the DB
 
-        // log error to browser's console
-        console.log(errorThrown.toString());
-    });
+    if(centers.length > 0 ){
+
+        //Clean
+        removeMarkers();
+
+        //Check if user want to filter
+        var communityPlaces = $("#centrospostuladoscheck").is(":checked");
+
+        //Check if we have something to filter
+        if($("#q").val() != ""){
+
+            // Load Markes Filtered
+            for (var o = 0; o < centersFiltrados.length; o++)
+            {    
+
+                //Markers
+                if(communityPlaces == true){
+                    
+                    addMarker(centersFiltrados[o]);
+                
+                //Add Marker without Postulates
+                } else {
+
+                    if (centersFiltrados[o]["postulate"] == undefined) {
+                        addMarker(centersFiltrados[o]);
+                    }
+
+                }
+                
+                
+            }
+
+        } else {
+
+            //Load Markers that we already have
+            for (var u = 0; u < centers.length; u++)
+            {    
+                
+
+                //Markers
+                if(communityPlaces == true){
+                    
+                    addMarker(centers[u]);
+                
+                //Add Marker without Postulates
+                } else {
+
+                    if (centers[u]["postulate"] == undefined) {
+                        addMarker(centers[u]);
+                    }
+
+                }
+                
+            }
+        }
+    
+
+    //Fresh Request
+    } else {
+
+        //Check if user want to filter
+        var communityPlaces = $("#centrospostuladoscheck").is(":checked");
+
+        // get places matching query (asynchronously)
+        var parameters = {
+            
+        };
+        $.getJSON(Flask.url_for("semarnat"), parameters)
+        .done(function(data, textStatus, jqXHR) {
+           // remove old markers from map
+           removeMarkers();
+
+           // add new markers to map
+           for (var i = 0; i < data.length; i++)
+           {    
+                //Markers
+                if(communityPlaces == true){
+                    
+                    addMarker(data[i]);
+                
+                //Add Marker first without Postulates
+                } else {
+
+                    if (data[i]["postulate"] == undefined) {
+                        addMarker(data[i]);
+                    }
+
+                }      
+                
+                //Data
+                centers.push(data[i]);
+
+           }
+        })
+        .fail(function(jqXHR, textStatus, errorThrown) {
+
+            // log error to browser's console
+            console.log(errorThrown.toString());
+        });
+    }
 
 }
 
@@ -107,8 +218,31 @@ function preparMarker(marker, id){
             content += '<p><strong>Teléfono: </strong>' + data['phone'] + '</p>';
         }
         content += '<p><strong>Material: </strong>' + data['material'] + '</p>';
+
+        //Is Postulate?
+        if (data['postulate'] != undefined){
+
+            content += '<div class="alert alert-info" role="alert"> Este centro ha sido sugerido por la comunidad</div>';
+
+        }
+        //Votes
+        var votesup     = 0;
+        var votesdown   = 0;
+        if (data['votesup'] != undefined) {
+            votesup = parseInt(data['votesup']);
+        }
+
+        if (data['votesdown'] != undefined) {
+            votesdown = parseInt(data['votesdown']);
+        }
+                                
+        content += '<div class="alert" role="alert"> <span class="glyphicon glyphicon-thumbs-up voteup" aria-hidden="true" style="color:green;" data-idcentro="' + id +'"></span> <span id-label-centro="labelup' + id +'">' + votesup + '</span> <span class="glyphicon glyphicon-thumbs-down votedown" aria-hidden="true" style="color:red; margin-left:5px;" data-idcentro="' + id +'"></span><span id-label-centro="labeldown' + id +'">' + votesdown + '</span></div>';
+
+        //close and show
         content += '</div>';
         showInfo(marker, content)
+        
+    
     });
 
 }
@@ -122,6 +256,23 @@ function showInfo(marker, content)
     // set info window's content
     info.setContent(content);
 
+    //Add a listener
+    google.maps.event.addListener(info, 'domready', function() {
+        
+
+        $(".voteup").click(function(){
+            var id = $(this).attr("data-idcentro");
+            vote(id, "up");
+        });
+
+        $(".votedown").click(function(){
+            var id = $(this).attr("data-idcentro");
+            vote(id, "down");
+        });
+
+
+    })
+
     // open info window (if not already open)
     info.open(map, marker);
 }
@@ -130,11 +281,47 @@ function showInfo(marker, content)
  * Adds marker for place to map.
  */
 function addMarker(place)
-{
+{        
 
-    //If we have votes we redefine the Marker.
-    if (place['votes'] != undefined){
+    //Holder For votes.
+    var votesup     = 0;
+    var votesdown   = 0;
+    
+    //If we have votes we redefine the Marker
+    if (place['votesup'] != undefined || place['down'] != undefined ){
 
+        if (place['votesup'] != undefined) {
+            votesup = parseInt(place['votesup']);
+        }
+        if (place['votesdown'] != undefined) {
+            votesdown = parseInt(place['votesdown']);
+        }
+
+
+        //Set Marker if passes the minimum;
+        if (votesup > votesdown)
+        {
+            iconMarker = markerGreen;
+        } 
+        if(votesup < votesdown) {
+            iconMarker = markerRed;
+        }
+    }
+
+    //Is Postulate?
+    if (place['postulate'] != undefined){
+
+        //Set Default Marker for Postulate.
+        iconMarker = markerPurple;
+
+        //Center may be postule, but if has more positives or negatives we adjust.
+        if (votesup >= 3)
+        {
+            iconMarker = markerGreen;
+        } 
+        if(votesup <= 3) {
+            iconMarker = markerRed;
+        }
     }
 
     //Get info
@@ -156,6 +343,9 @@ function addMarker(place)
         markers.push(marker);
 
     }
+
+    //Reset
+    iconMarker = markerYellow;
 }
 
 /**
@@ -167,3 +357,71 @@ function removeMarkers()
         markers[i].setMap(null);
     }
 }
+
+
+/**
+ * Vote Handler
+ */
+function vote(id, type){
+    console.log(id, type);
+    var parameters = {
+        type: type,
+        id : id
+    };
+    $.getJSON(Flask.url_for("vote"), parameters)
+    .done(function(data, textStatus, jqXHR) {
+
+        //Set Icon to green if everything is ok
+        if(data["response"] === true && type === "up"){
+
+            $(".voteup[data-idcentro='"+ id +"']").css("color", "green");
+            $(".votedown[data-idcentro='"+ id +"']").css("color", "gray");
+
+            //Increase
+            var votes = $('span[id-label-centro="labelup'+id+'"]').html();
+            votes = parseInt(votes) + 1;
+            $('span[id-label-centro="labelup'+id+'"]').html(votes);
+
+        }
+
+        if(data["response"] === true && type === "down"){
+
+            $(".votedown[data-idcentro='"+ id +"']").css("color", "red");
+            $(".voteup[data-idcentro='"+ id +"']").css("color", "gray");
+
+            var votes = $('span[id-label-centro="labeldown'+id+'"]').html();
+            votes = parseInt(votes) + 1;
+            $('span[id-label-centro="labeldown'+id+'"]').html(votes);
+
+            //Decrease
+
+
+        }
+
+        //Error
+        if(data["response"] === false){
+            $("#alertarea").html('<div class="alert alert-warning" role="alert">'+ data["msg"] +' <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>')
+        }
+
+    })
+    .fail(function(jqXHR, textStatus, errorThrown) {
+
+        // log error to browser's console
+        console.log(errorThrown.toString());
+    });
+}
+
+//Working Accents
+//By: https://alistapart.com/article/accent-folding-for-auto-complete
+var accentMap = {
+  'á':'a', 'é':'e', 'í':'i','ó':'o','ú':'u'
+};
+
+function accent_fold(s) {
+  if (!s) { return ''; }
+  var ret = '';
+  for (var i = 0; i < s.length; i++) {
+    ret += accentMap[s.charAt(i)] || s.charAt(i);
+  }
+  return ret;
+};

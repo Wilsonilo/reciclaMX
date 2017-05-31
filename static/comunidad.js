@@ -44,8 +44,8 @@ function vote(id, type){
 
     	//Error
     	if(data["response"] === false){
-    		console.log(data["msg"]);
-    	}
+            $("#alertarea").html('<div class="alert alert-warning" role="alert">'+ data["msg"] +' <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>')
+        }
 
     })
     .fail(function(jqXHR, textStatus, errorThrown) {

@@ -1,0 +1,60 @@
+<div class="panel panel-default">
+                        <div class="panel-heading">
+                            <h4 class="panel-title">Brief</h4>
+                        </div>
+                        <div class="panel-body" align="left">
+                            <p>In Mexico is a little tricky to recycle, actually is hard. Not sure why the government does no have a better way to help everyone to find places to recycle.</p>
+
+                            <p>When I lived in Spain I remember that in every corner you could find recycle bins for every type of need. Although I know my country has a long way before can implement something similar I know also that there is a lot of people like me that want to help and be more responsible.</p>
+
+                            <p>After some research I found some pages and documents about where you can find recycle centers, but those where all over the place, no order and more important no user friendly.
+                            So I decided to make this easier, found a document from a department of the government named “Semarnat” which had a lot of what I was looking for:</p>
+
+                            <br>
+                            <a href=" http://www.semarnat.gob.mx/archivosanteriores/transparencia/transparenciafocalizada/residuos/Documents/directorio_residuos.pdf" target="_blank">http://www.semarnat.gob.mx/archivosanteriores/transparencia/transparenciafocalizada/residuos/Documents/directorio_residuos.pdf </a>
+                            <br>
+
+                            <p>This document has around 550 recycle centers divided by city or material, this was perfect. The problem? Was in PDF and there was no exact pattern.</p>
+                            I tried first to go manual and make a JSON file and copy paste every single element, I quickly gave up, was going to take me around 2 weeks to careful finish the process (and that was only one of the many steps) so I decided to go in another direction.  I made a txt file, easier to manage, indent and create a pattern.</p>
+                            <p>I also decided to create my own parser and convert the txt into a JSON and from that JSON file I could either move it to Mongo or use the file directly (more about why I used MongoDB later on)</p>
+
+                            <p>You can see the gist of my parser here:</p>
+                            
+                            <br>
+                            <a href="https://gist.github.com/Wilsonilo/d43b5f2f7a780db2fd81d3ec3a0360d7" target="_blank">
+                                https://gist.github.com/Wilsonilo/d43b5f2f7a780db2fd81d3ec3a0360d7
+                            </a>
+                            <br>
+
+                            <p>After all of this, I used the same parser to ask Google for coordinates of each of the elements:</p>
+                            
+                            <br>
+                            <img src="static/images/parsing.gif">
+                            <br>
+
+                            <p> Funny thing, this part of the process had to do it in two different days, my limit was reached:</p>
+                            
+                            <br>
+                            <img src="static/images/googlelimit.png" width="100%">
+                            <br>
+                            
+                            <p>Once I had everything good In a JSON file I decided to use MongoDB because wanted to experiment with NoSQL, also pymongo makes everything easier.</p>
+                            <p>Once I finished this I moved to the last 50% of the project:</p>
+
+                            <p>1.  Build the Flask routes / app to respond to calls to the db from the Javascript file in the index and community section</p>
+                            <p>2.  There are JS Functions that handle the votes from the users (increase the number of positives and negatives numbers in the MongoDB element)</p>
+                            <p>3.  Did a little of work to protect injection and limit the votes per user. For now the only protection is a system based on IP Address. The user can only vote once per day. Later on I may integrate registration </p>
+
+                            <p>Once I finished the last parts of the Map and votes system I just deployed everything in Digital Ocean made a Gmail account to handle form from the Postulate sections (for consultation and new centers) I used a third library named yagmail for this.</p>
+
+                            <p> The completion of the project took a week and a half.</p>
+
+                            <p>For the full Github project you can see it here:</p>
+                            
+                            <br>
+                            <a href="https://github.com/Wilsonilo/reciclaMX.git" target="_blank">https://github.com/Wilsonilo/reciclaMX.git</a>
+                            <br>
+
+                            <p> Feel free to send me an email or message </p>
+                        </div>
+                    </div>
